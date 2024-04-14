@@ -9,7 +9,7 @@ A: Arbeit bei Ordnern
 A: Artikel via Readwise bei Dateien
 B: Buch via Readwise bei Dateiein
 D: Diktat via Audio Recorder
-M: Mail via [[3 Resources/Obsidian Benutzung/Outlook\|Outlook]]
+M: Mail via [[3 Resources/Obsidian Benutzung/Integration/Outlook\|Outlook]]
 P: Privat bei Ordnern
 P: Podcasts via Readwise bei Dateien
 T: Tweets via Readwise bei Dateien
