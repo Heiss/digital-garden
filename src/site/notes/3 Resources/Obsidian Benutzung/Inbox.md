@@ -3,4 +3,4 @@
 ---
 
 
-Der wohl zentralste Ordner für die [[3 Resources/Obsidian Benutzung/Integration\|Integration]] von Obsidian in einen allgemeinen Workflow stellt "0 Inbox" dar. Sämtliche [[3 Resources/Obsidian Benutzung/Integration\|Integration]]s-Plugins sind so konfiguriert, dass erstellte Notes in diesen Ordner erstellt werden. Dadurch werden diese Dateien per Hand einmal am Tag in den Vault einsortiert.
+Der wohl zentralste Ordner für die [[3 Resources/Obsidian Benutzung/Integration/Integration\|Integration]] von Obsidian in einen allgemeinen Workflow stellt "0 Inbox" dar. Sämtliche [[3 Resources/Obsidian Benutzung/Integration/Integration\|Integration]]s-Plugins sind so konfiguriert, dass erstellte Notes in diesen Ordner erstellt werden. Dadurch werden diese Dateien per Hand einmal am Tag in den Vault einsortiert.
