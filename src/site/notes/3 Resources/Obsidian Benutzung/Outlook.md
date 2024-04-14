@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/outlook/","created":"2024-04-14T21:22:43.213+02:00","updated":"2024-04-14T21:37:10.183+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/outlook/","created":"2024-04-14T21:22:43.213+02:00","updated":"2024-04-14T21:40:44.009+02:00"}
 ---
 
 
 Outlook stellt für mich ein zentrales Tool zur Mail- und Termin-Management dar.
-Eine Anleitung, wie die Integration gelingt, ist unter [[3 Resources/Obsidian Benutzung/Outlook - Integration Anleitung\|Outlook - Integration Anleitung]] zu finden.
+Eine Anleitung, wie die [[3 Resources/Obsidian Benutzung/Integration\|Integration]] gelingt, ist unter [[3 Resources/Obsidian Benutzung/Outlook - Integration Anleitung\|Outlook - Integration Anleitung]] zu finden.
 
 # Sortierregeln
 
-Um möglichst schnell und viele Mails durchzuarbeiten, mache ich mir nicht die Mühe die Mails in Ordner einzusortieren. Lediglich Mails aus verschiedenen Kontexten, z.B. Arbeit und Privates, werden durch Regeln in Ordner sortiert, sowie automatische Mails von Github, Gitlab oder Benachrichtigungen von Plattformen. Alles andere landet in der Standard-Inbox. Mittels `Backspace`-Taste landet die markierte Mail im Archiv.
+Um möglichst schnell und viele Mails durchzuarbeiten, mache ich mir nicht die Mühe die Mails in Ordner einzusortieren. Lediglich Mails aus verschiedenen Kontexten, z.B. Arbeit und Privates, werden durch Regeln in Ordner sortiert, sowie automatische Mails von Github, Gitlab oder Benachrichtigungen von Plattformen. Alles andere landet in der Standard-[[3 Resources/Obsidian Benutzung/Inbox\|Inbox]]. Mittels `Backspace`-Taste landet die markierte Mail im Archiv.
 
-Wichtig ist, dass am Ende des Tages die Inbox leer ist. Alle Aufgaben, welche durch die Mails entstanden sind, sind im [[3 Resources/Obsidian Benutzung/Task Management\|Task Management]] erfasst. Dies ist das oberste Ziel der [[3 Resources/Obsidian Benutzung/täglicher Ablauf\|täglichen morgendlichen Routine]].
+Wichtig ist, dass am Ende des Tages die [[3 Resources/Obsidian Benutzung/Inbox\|Inbox]] leer ist. Alle Aufgaben, welche durch die Mails entstanden sind, sind im [[3 Resources/Obsidian Benutzung/Task Management\|Task Management]] erfasst. Dies ist das oberste Ziel der [[3 Resources/Obsidian Benutzung/täglicher Ablauf\|täglichen morgendlichen Routine]].
 
 ## Query-Builder
 
