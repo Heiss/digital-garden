@@ -3,4 +3,4 @@
 ---
 
 
-Dieses Buch lese ich täglich, um mir ein mehr stoisches Gedankenmuster anzueignen. Dabei schreibe ich mir jeden Tag [[3 Resources/Verhalten/The Daily Stoic Journal von Ryan Holiday/Gedanken\|Gedanken]] und Zitate aus dem Buch und dessen Bezug auf mein Leben auf. Außerdem wird in meinen [[Daily Notes\|Daily Notes]] ein einziges Zitat / Gedanke aus dem Buch mir angezeigt. Dadurch kommen die Gedanken auch immer wieder hoch und regen zum Denken an.
+Dieses Buch lese ich täglich, um mir ein mehr stoisches Gedankenmuster anzueignen. Dabei schreibe ich mir jeden Tag [[3 Resources/Verhalten/The Daily Stoic Journal von Ryan Holiday/Gedanken\|Gedanken]] und Zitate aus dem Buch und dessen Bezug auf mein Leben auf. Außerdem wird in meinen [[3 Resources/PKM/Daily Notes\|Daily Notes]] ein einziges Zitat / Gedanke aus dem Buch mir angezeigt. Dadurch kommen die Gedanken auch immer wieder hoch und regen zum Denken an.
