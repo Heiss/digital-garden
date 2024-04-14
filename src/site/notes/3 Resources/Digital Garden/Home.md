@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-04-14T10:43:50.050+02:00","updated":"2024-04-14T17:13:32.312+02:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-04-14T10:43:50.050+02:00","updated":"2024-04-14T17:20:18.339+02:00"}
 ---
 
+> [!NOTE] Language
+> This page is written in german. Use [Google translate](https://www-netzmuffel-de.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp) or your favourite translator to get a  translated version.
 
 Hallo und willkommen zu meinem digitalen Garten.
 
