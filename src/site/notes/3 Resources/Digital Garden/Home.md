@@ -1,10 +1,17 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-04-14T10:43:50.050+02:00","updated":"2024-04-14T12:23:31.473+02:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-04-14T10:43:50.050+02:00","updated":"2024-04-14T17:13:32.312+02:00"}
 ---
 
 
 Hallo und willkommen zu meinem digitalen Garten.
 
-Hier erkläre ich, wie ich [[3 Resources/Obsidian Benutzung/Obsidian Benutzung\|Obsidian benutze]].
-
 # Über Mich
+
+Mein Name ist [Peter Heiss](https://github.com/Heiss). Ich arbeite an der Universitäts- und Landesbibliothek Münster und würde mich selbst als technischen Allrounder bezeichnen. Studiert habe ich an der Universität Münster Mathematik, Informatik und Erziehungswissenschaften, wobei ich selbst stets ein sehr hohes Interesse an der Informatik hatte. Das habe ich wohl aus meinem vorherigen Studium der technischen Informatik an der TU Berlin mitgenommen. Dieses hohe Interesse hat mich dann auch nach meinem "Master of Education"-Abschluss 3 Jahre als Programmierer beschäftigt. Nun bin ich in leitender Position und interessiere mich sehr dafür, wie man die Arbeit einer größeren Abteilung plant, strukturiert und effizient anleitet.
+
+Daher wirst Du hier viele verschiedene Themenbereiche finden. Darunter sind die Themen [[Rust\|systemnahe Programmierung mit Rust]], [[Nix & NixOS\|seiteneffektfreies Deployment mit nixOS]], [[3 Resources/Führungsrolle/Teamstrukturen/Teamstrukturen\|Teamstrukturen]] oder die Prozesssteuerungsmethode [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban\|Kanban]]. Aber auch die Theorie und Praxis von modernen [[3 Resources/Führungsrolle/Softwarearchitektur/Softwarearchitektur\|Softwarearchitektur]]en interessiert mich sehr.
+Die theoretische Informatik lässt mich auch nach dem Studium nicht los, da mich aktuell zum Beispiel die Arbeit mit [[3 Resources/Programming/TLA+/TLA+\|TLA+]] sehr fasziniert sowie die Arbeit an komplexen Aufgabenstellungen wie [Codewars - Achieve mastery through coding practice and developer mentorship](https://www.codewars.com) oder [Advent of Code 2023](https://adventofcode.com).
+Zusätzlich nutze ich sehr gerne die [[vim\|vim keybindings]] in sämtlichen Tools und versuche meine Eingabeperformance weiter zu verbessern z.B. durch die Nutzung des [[Colemak\|Colemak]]-Layouts, der [[ZSA Moonlander\|ZSA Moonlander]] und dem Einsatz der [[CharaChorder X\|CharaChorder X]]. 
+
+Als zentrales Werkzeug nutze ich [Obsidian - Sharpen your thinking](https://obsidian.md). Wie ich [[3 Resources/Obsidian Benutzung/Obsidian Benutzung\|Obsidian benutze]], habe ich ebenfalls in diesem Garten beschrieben. Da ich selbst denselben Vault für mein [[Second Brain\|Second Brain]] nutze, sind womöglich einige Einträge nicht so ausführlich beschrieben, aber dennoch publiziert.
+Sollten also Dinge zu kurz gekommen sein, fühl Dich frei, in die Kommentare zu schreiben. Dann fülle ich die Leerstellen aus oder beantworte Dir deine Fragen.
