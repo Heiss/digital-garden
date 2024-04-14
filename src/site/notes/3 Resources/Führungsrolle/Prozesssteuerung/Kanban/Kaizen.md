@@ -3,4 +3,4 @@
 ---
 
 
-Stellt Aktivitäten dar, welche sich mit dem Verbessern von Geschäftsprozessen und Abbau von Redundanzen beschäftigen. Hierbei sind alle Posten in einer Organisation eingeschlossen. In der Softwareentwicklung können hier z.B. [[technische Schulden\|technische Schulden]] abgebaut werden, im Management Prozesse gestrafft werden.
+Stellt Aktivitäten dar, welche sich mit dem Verbessern von Geschäftsprozessen und Abbau von Redundanzen beschäftigen. Hierbei sind alle Posten in einer Organisation eingeschlossen. In der Softwareentwicklung können hier z.B. [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/technische Schulden\|technische Schulden]] abgebaut werden, im Management Prozesse gestrafft werden.
