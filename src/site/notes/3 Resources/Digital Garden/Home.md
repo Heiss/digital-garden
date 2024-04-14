@@ -5,6 +5,6 @@
 
 Hallo und willkommen zu meinem digitalen Garten.
 
-Hier erkläre ich, wie ich [[3 Resources/PKM/Obsidian Benutzung\|Obsidian benutze]].
+Hier erkläre ich, wie ich [[3 Resources/Obsidian Benutzung/Obsidian Benutzung\|Obsidian benutze]].
 
 # Über Mich
