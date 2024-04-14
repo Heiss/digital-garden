@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-04-14T10:43:50.050+02:00","updated":"2024-04-14T17:20:18.339+02:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-04-14T10:43:50.050+02:00","updated":"2024-04-14T18:12:43.066+02:00"}
 ---
 
+
 > [!NOTE] Language
-> This page is written in german. Use [Google translate](https://www-netzmuffel-de.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp) or your favourite translator to get a  translated version.
+> This page is written in german. Use [Google translate](https://www-netzmuffel-de.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp) or your favourite translator to get a  translated version. Feel free to comment in english. I will answer in english, too. But my vault is mostly german, so it is easier for me to reuse notes.
 
 Hallo und willkommen zu meinem digitalen Garten.
 
@@ -17,3 +18,11 @@ Zusätzlich nutze ich sehr gerne die [[vim\|vim keybindings]] in sämtlichen Too
 
 Als zentrales Werkzeug nutze ich [Obsidian - Sharpen your thinking](https://obsidian.md). Wie ich [[3 Resources/Obsidian Benutzung/Obsidian Benutzung\|Obsidian benutze]], habe ich ebenfalls in diesem Garten beschrieben. Da ich selbst denselben Vault für mein [[Second Brain\|Second Brain]] nutze, sind womöglich einige Einträge nicht so ausführlich beschrieben, aber dennoch publiziert.
 Sollten also Dinge zu kurz gekommen sein, fühl Dich frei, in die Kommentare zu schreiben. Dann fülle ich die Leerstellen aus oder beantworte Dir deine Fragen.
+
+# Aktuelle Projekte
+
+In meiner Freizeit schreibe ich aktuell meine Masterarbeit für den Studiengang [Master of library and information systems](https://www.th-koeln.de/studium/bibliotheks--und-informationswissenschaft-master_3202.php), welcher mir eine bessere Arbeit im Kontext des deutschen Bibliothekssystems erlaubt.
+
+Darüber hinaus arbeite ich an einer Rust-Bibliothek für [[1 Projects/P Distributed ADT types in Rust/Distributed ADT Projektbeschreibung\|verteilte abstrakte Datentypen]], um mein Wissen in dieser Thematik aufzufrischen und Rust zu vertiefen. Außerdem nutze ich dieses Thema, um mich mit verteilten Systemen und damit modernen [[3 Resources/Führungsrolle/Softwarearchitektur/Softwarearchitektur\|Softwarearchitektur]]en zu beschäftigen.
+
+Zusätzlich schreibe ich an einem [[1 Projects/P Godot Game/Game Design Document/Game Design Document\|Game Design Document]], um daraus ggf. ein Spiel auf Basis der [[3 Resources/Godot Engine/Godot Engine\|Godot Engine]] und dessen [[3 Resources/Godot Engine/gdext-rust/gdext-rust\|Rust-bindings]] zu erstellen.
