@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/p-godot-game/game-design-document/game-design-document/","pinned":true,"created":"2024-04-14T17:55:07.485+02:00","updated":"2024-04-14T18:08:30.389+02:00"}
+{"dg-publish":true,"permalink":"/1-projects/p-godot-game/game-design-document/game-design-document/","pinned":true,"created":"2024-04-14T17:55:07.485+02:00","updated":"2024-04-14T18:16:06.315+02:00"}
 ---
 
 
+>[!NOTE] In english
+>This part of this website is written in english, because it is meant for discussions with the community.
   
 Follows [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://rosacarbo.notion.site/Game-design-template-0132383574dd4c2dbff5d14e3a90761c)
 Combined with Template taken from [Windows.net](https://devlegalsimpli.blob.core.windows.net/pdfseoforms/pdf-20180219t134432z-001/pdf/software-design-document-2.pdf)
