@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kaizen/","created":"2024-04-10T10:01:05.546+02:00","updated":"2024-04-14T16:08:19.751+02:00"}
+---
+
+
+Stellt Aktivitäten dar, welche sich mit dem Verbessern von Geschäftsprozessen und Abbau von Redundanzen beschäftigen. Hierbei sind alle Posten in einer Organisation eingeschlossen. In der Softwareentwicklung können hier z.B. [[technische Schulden\|technische Schulden]] abgebaut werden, im Management Prozesse gestrafft werden.
