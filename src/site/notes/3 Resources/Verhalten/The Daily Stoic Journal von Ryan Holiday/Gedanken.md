@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-14T11:31:04.505+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-17T11:01:13.433+02:00"}
 ---
 
 
@@ -438,7 +438,8 @@ Entscheide Dich bewusst, welcher Mensch Du sein möchtest. Nehme Dir dafür imme
 Überlege Dir immer, wenn Du Wissen weitergeben möchtest: Sind Worte genügend (meist ist das die schlechte Wahl) oder kann ich durch Aktionen und Entscheidungen dieses Wissen zeigen? (May, 3rd){ #dice-9syn}
 
 
-Wer ist bemerkenswerter? Die Person, die viel Geld ausgibt für Dinge oder die, die viel Geld ausgibt an Personen und denen, die es nicht haben? Das Investment in Menschen ist beeindruckend, denn es ist nicht eigennützig, noch macht es keine Arbeit. Aber es ist langlebiger. (May, 4th)
+Wer ist bemerkenswerter? Die Person, die viel Geld ausgibt für Dinge oder die, die viel Geld ausgibt an Personen und denen, die es nicht haben? Das Investment in Menschen ist beeindruckend, denn es ist nicht eigennützig, noch macht es keine Arbeit. Aber es ist langlebiger. (May, 4th){ #dice-iei1}
+
 
 Dein Geist ist deine Aufgabe, wie ein Sportler sein Körper. Dieser würde niemals hinterfragt werden, wenn er Zeit aufwändet, um die Bewegungen zu üben und fit zu bleiben. Also warum solltest Du es? Nur so wirst Du besser im Verständnis für deinen Geist. Du bist das Projekt. (May, 5th)
 
@@ -463,7 +464,8 @@ Sei freundlich in allen Lebenslagen. Es ist eine Fähigkeit, die viel Kraft brau
 
 Exzellenz ist keine Tätigkeit oder Entscheidung, sondern eine Gewohnheit. Wenn Du das sein möchtest, sei es jeden Tag. Schau auf die vergangenen Wochen und gucke, wo Du nicht warst, wer Du sein möchtest. Und plane deinen heutigen Tag, jetzt, und die Woche danach. Handle danach und mach eine Gewohnheit draus. Wann bist Du exzellent? (May, 13th)
 
-Binde dein Wohlbefinden nicht an Dingen, die Du nicht kontrollierst, z.B. die Rückmeldung von anderen. Sondern tue die Dinge, die richtig sind und mache sie aus vollster Überzeugung und mit dem besten, was Du kannst. Dann wirst Du stets glücklich sein, denn Du brauchst kein Applaus. (May, 14th)
+Binde dein Wohlbefinden nicht an Dingen, die Du nicht kontrollierst, z.B. die Rückmeldung von anderen. Sondern tue die Dinge, die richtig sind und mache sie aus vollster Überzeugung und mit dem besten, was Du kannst. Dann wirst Du stets glücklich sein, denn Du brauchst kein Applaus. (May, 14th){ #dice-b0f5}
+
 
 Beneide nicht die Dinge, die andere haben: Womöglich hast Du etwas, was sie möchten. Dieser Teufelskreis macht beide unglücklich. Wenn Du aber das wertschätzt, was Du bereits hast, aber nicht gehortet hast, dann wirst Du glücklich sein. Aber binde Dich nicht zu stark, sonst wirst Du kontrollierbar durch dessen Verlust. (May, 15th)
 
@@ -607,7 +609,8 @@ Warum solltest Du Dich nicht selbst genau so gut pflegen wie deine Hobbys und Au
 
 In deinen Taten, prokrastiniere nicht. In deinen Gesprächen, verwirre nicht. In deinen Gedanken, wandere nicht. In deiner Seele, sei nicht passiv oder aggressiv. In deinem Leben, sei nicht deine Arbeit. Simpel ist nicht gleich Einfach. Achte darauf in deiner ersten heutigen Tat, Gespräch oder Gedanken. (July, 12th)
 
-Wenn andere Dich nachahmen oder deine Ideen für sich verkaufen, sei nicht beschämt oder beleidigt. Es ist gut! Das ist, was Führer tun, wenn sie führen. Sie inspirieren andere und wenn es heißt, dass Du dich zurücknehmen musst, dann tue dies. Das ist deine Pflicht. Der Erfolg wird dir als Führung zugerechnet. (July, 13th)
+Wenn andere Dich nachahmen oder deine Ideen für sich verkaufen, sei nicht beschämt oder beleidigt. Es ist gut! Das ist, was Führer tun, wenn sie führen. Sie inspirieren andere und wenn es heißt, dass Du dich zurücknehmen musst, dann tue dies. Das ist deine Pflicht. Der Erfolg wird dir als Führung zugerechnet. (July, 13th){ #dice-hb1x}
+
 
 Überspringe nicht die Grundlagen bei neuen Dingen. Lerne die Dinge sorgfältig, sonst wirst Du Fehler machen, da du die Grundlagen nicht kanntest. Dies wird dir helfen, dann am Ende schneller zu sein. Dies gilt auch für das Lehren von Dingen. Fordere, aber begleite. (July, 14th)
 
@@ -638,3 +641,13 @@ Gutes passiert nicht ohne Taten, Böses hingegen schon. Etwas nicht zu tun, kann
 Nur Tugendhaftigkeit - sei es Disziplin, Courage, Ehrlichkeit - wird Dir eine innere Wärme geben und deine Unruhe stillen können. Geld, Liebe oder andere Dinge werden nur kurz Genugtuung geben, aber dann werden sie neue Probleme aufmachen. (July, 27th)
 
 Sei geduldig und verständnisvoll für die Fähigkeiten anderer, da sie nicht deine Vorteile und Privilegien in diesem Bereich hatten. Deine Aufgabe ist es, ihnen dabei zu helfen. Das ist deine Verpflichtung durch dein Privileg. (July, 28th)
+
+Philosophie ist seit jeher für die Verarbeitung von mentalen Dingen und schlechten, menschlichen Charakteristika gedacht gewesen und ist daher erprobter als alle psychologischen Thesen und Methoden. Möchtest Du nicht auch großartig sein? Dann übe deine Philosophie! (July, 29th)
+
+Stoische Freude - sie kommt aus einem Zweck, der Exzellenz und der Pflicht. Sie kommt, wenn man ein Vorbild oder Inspiration für andere sein kann. Sie kommt von innen und ist von außen nicht zu sehen noch zu beeinflussen. (July, 30th)
+
+Sei stolz auf deine Arbeit, aber sei sie nicht. Oder hast Du kein Leben, dass Dich anderweitig definiert? Denke nicht, du seist Immun gegen das Problem des Loslassens. Oder möchtest Du von der Arbeit in einem Sarg getragen werden? Darin ist keine Ehre. (July, 31th)
+
+Du weißt, was zu tun ist. Warte nicht auf den richtigen Augenblick oder die perfekten Bedingungen. Mach Dir bewusst, wie die aktuelle Situation ist und handle danach. Erwarte das Unerwartete. (August, 1st)
+
+Wenn Du zurückgeworfen wirst, sei es Krankheit oder Entscheidungen durch andere, mache Dir bewusst, welchen Bewegungsspielraum dir bleibt und nutze ihn. Vielleicht sind sogar Türen aufgegangen? (August, 2nd)
