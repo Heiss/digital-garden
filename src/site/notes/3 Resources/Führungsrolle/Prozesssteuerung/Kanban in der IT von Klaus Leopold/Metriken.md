@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban-in-der-it-von-klaus-leopold/metriken/","created":"2024-04-17T13:40:28.678+02:00","updated":"2024-04-17T13:52:42.948+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban-in-der-it-von-klaus-leopold/metriken/","created":"2024-04-17T13:40:28.678+02:00","updated":"2024-04-17T14:28:12.379+02:00"}
 ---
 
 
@@ -16,4 +16,4 @@ Die Zahl der Arbeitseinheiten in einenm Systemn
 # Durchlaufzeit
 
 Jene Zeit, die eine Arbeitseinheit im System verbringt.
-Berechnung: $$\varnothing Durchlaufzeit = \varnothing WIP / \varnothing Durchsatz$$
+Berechnung: $\varnothing Durchlaufzeit = \varnothing WIP / \varnothing Durchsatz$
