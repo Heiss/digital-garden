@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban-in-der-it-von-klaus-leopold/nachschubmeeting/","created":"2024-04-15T12:17:35.679+02:00","updated":"2024-04-17T13:56:56.855+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban-in-der-it-von-klaus-leopold/nachschubmeeting/","created":"2024-04-15T12:17:35.679+02:00","updated":"2024-04-17T14:17:13.785+02:00"}
 ---
 
 
-Die Organisation sollte sich nicht neuen Ideen und Möglichkeiten verschließen. Diese werden häufig von Stakeholdern, also von außen, an die Unternehmung herangetragen. Dabei haben sie selten Interesse am [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban\|Kanban]]-System, geschweige sind sie ein Teil davon.
+Organisationen sollten sich neuen Ideen und Möglichkeiten nicht verschließen. Diese werden häufig von externen Personen an die Unternehmung herangetragen. Dabei haben sie selten Interesse am [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban\|Kanban]]-System selbst, geschweige sind sie ein Teil davon.
 
-Was tatsächlich umgesetzt wird, besprechen die aktiv im [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban\|Kanban]]-System arbeitenden internen Stakeholder im Nachschubmeeting. Daran nehmen alle jene Personen teil, die Interesse daran haben, dass die Arbeit gut vorangeht.
+Die aktiv im [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban\|Kanban]]-System arbeitenden internen Stakeholder besprechen die wirklich umzusetzenden Themen im Nachschubmeeting. Daran nehmen alle Personen teil, die Interesse daran haben, dass die Arbeit gut vorangeht.
+Das können Auftraggeber bzw. Personen sein, die Aufträge entgegennehmen, technische Experten und Vertreter des Managements für eine team- und abteilungsübergreifende Sichtweise.
 
-Das können Auftraggeber sein bzw. Personen, die Aufträge entgegennehmen, technische Experten, aber auch Vertreter des Managements für eine team- und abteilungsübergreifende Sichtweise.
-
-Es sollte sich einig sein darüber, dass das System nur über das Nachschubmeeting befüllt wird. Die Kadenz des Meetings hängt von der Länge der [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban in der IT von Klaus Leopold/Input Queue\|Input Queue]] und dem [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban in der IT von Klaus Leopold/Metriken#Durchsatz\|Durchsatz]]  des Systems ab. Dafür wird als [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban in der IT von Klaus Leopold/Metriken\|Metrik]] gemessen, wie viele Arbeiten in einem bestimmten Zeitraum abgeschlossen werden können.
+Es sollte sich einig darüber sein, dass das System nur über das Nachschubmeeting befüllt wird. Die Kadenz des Meetings hängt von der Länge der [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban in der IT von Klaus Leopold/Input Queue\|Input Queue]] und dem [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban in der IT von Klaus Leopold/Metriken#Durchsatz\|Durchsatz]]  des Systems ab. Dafür wird als [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban in der IT von Klaus Leopold/Metriken\|Metrik]] gemessen, wie viele Arbeiten in einem bestimmten Zeitraum abgeschlossen werden können.
 
 # Ablauf
 
