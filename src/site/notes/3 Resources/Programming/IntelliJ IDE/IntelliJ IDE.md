@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/programming/intelli-j-ide/intelli-j-ide/","created":"2024-04-14T17:48:04.978+02:00","updated":"2024-04-14T17:54:22.656+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/programming/intelli-j-ide/intelli-j-ide/","created":"2024-04-14T17:48:04.978+02:00","updated":"2024-04-15T08:30:14.110+02:00"}
 ---
 
 
