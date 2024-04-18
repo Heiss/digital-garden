@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"noteIcon":"","created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-18T07:44:13.575+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-18T07:44:13.575+02:00"}
 ---
 
 
