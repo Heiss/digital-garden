@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/p-godot-game/game-design-document/content/story-elements/","noteIcon":"","created":"2024-04-14T17:59:17.776+02:00","updated":"2024-04-15T08:30:09.564+02:00"}
+{"dg-publish":true,"permalink":"/1-projects/p-godot-game/game-design-document/content/story-elements/","created":"2024-04-14T17:59:17.776+02:00","updated":"2024-04-17T18:39:58.077+02:00"}
 ---
 
 
