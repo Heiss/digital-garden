@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-area/2-area/","pinned":true,"noteIcon":"sponge","created":"2023-10-23T11:30:37.754+02:00","updated":"2024-04-18T14:10:39.579+02:00"}
+{"dg-publish":true,"permalink":"/2-area/2-area/","pinned":true,"created":"2023-10-23T11:30:37.754+02:00","updated":"2024-04-18T14:10:39.579+02:00"}
 ---
 
 
