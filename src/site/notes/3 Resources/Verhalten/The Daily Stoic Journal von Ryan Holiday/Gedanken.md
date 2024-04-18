@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-17T11:01:13.433+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"noteIcon":"","created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-18T07:44:13.575+02:00"}
 ---
 
 
@@ -513,7 +513,8 @@ Die Vergangenheit bedauern ist nicht akzeptieren; jedoch kannst Du es nicht mehr
 
 Wenn etwas schwer, unüberwindbar oder festgefahren wirkt, dann nimm Plato\`s Sicht ein, eine Adlersicht, welche von weit oben auf die Dinge schaut. Dort wirken unsere Probleme klein und unbedeutend und nur die, die es wert sind, bleiben sichtbar. (June, 2nd)
 
-Es gibt immer eine Alternative. Wenn das eine nicht klappt, probiere etwas anderes. Am Ende bleibt immer noch die Übung, ein guter Mensch zu sein und seine Philosophie zu erproben. Sei flexibel und nicht festgefahren in deinen Aufgaben und Überzeugungen. (June, 3rd)
+Es gibt immer eine Alternative. Wenn das eine nicht klappt, probiere etwas anderes. Am Ende bleibt immer noch die Übung, ein guter Mensch zu sein und seine Philosophie zu erproben. Sei flexibel und nicht festgefahren in deinen Aufgaben und Überzeugungen. (June, 3rd){ #dice-lnt6}
+
 
 In Dir fließt dasselbe Blut, welches deine Vorfahren erlaubte, viel schwierigere Situationen zu meistern. Mach Dir das klar, wenn der weitere Weg noch so schwer aussehen mag. (June, 4th)
 
@@ -651,3 +652,7 @@ Sei stolz auf deine Arbeit, aber sei sie nicht. Oder hast Du kein Leben, dass Di
 Du weißt, was zu tun ist. Warte nicht auf den richtigen Augenblick oder die perfekten Bedingungen. Mach Dir bewusst, wie die aktuelle Situation ist und handle danach. Erwarte das Unerwartete. (August, 1st)
 
 Wenn Du zurückgeworfen wirst, sei es Krankheit oder Entscheidungen durch andere, mache Dir bewusst, welchen Bewegungsspielraum dir bleibt und nutze ihn. Vielleicht sind sogar Türen aufgegangen? (August, 2nd)
+
+Der Ort, um deine Arbeit zu machen, um ein gutes Leben zu leben, ist genau hier und jetzt. Rede Dir nicht ein, dass Du erst den richtigen Ort, die nötige Freizeit brauchst. Sei pragmatisch und anpassungsfähig. (August, 3rd)
+
+Werde nicht emotional, bleibe fokussiert. Konzentriere Dich auf Aktionen, die in deinem Veränderungsbereich liegen. Was auch immer heute passiert oder du dich befindest, finde deinen Veränderungsbereich. (August, 4th)
