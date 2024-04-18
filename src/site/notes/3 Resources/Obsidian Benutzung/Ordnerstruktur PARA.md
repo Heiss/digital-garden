@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/ordnerstruktur-para/","noteIcon":"","created":"2024-04-14T12:10:56.790+02:00","updated":"2024-04-18T14:06:29.785+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/ordnerstruktur-para/","created":"2024-04-14T12:10:56.790+02:00","updated":"2024-04-18T14:06:29.785+02:00"}
 ---
 
 
