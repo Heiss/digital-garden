@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/glossar/","created":"2023-10-23T10:15:41.327+02:00","updated":"2024-04-15T08:30:15.325+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/glossar/","noteIcon":"","created":"2023-10-23T10:15:41.327+02:00","updated":"2024-04-15T08:30:15.325+02:00"}
 ---
 
 
