@@ -16,7 +16,7 @@ Um die Komplexität der verschiedenen Aspekte etwas herunterzubrechen, splitte i
 - [[3 Resources/Obsidian Benutzung/Folder Notes\|Folder Notes]]
 - [[3 Resources/Obsidian Benutzung/Read-It-Later\|Read-It-Later]]
 - [[3 Resources/Obsidian Benutzung/Daily Notes\|Daily Notes]]
-- [[3 Resources/Obsidian Benutzung/Inbox\|Inbox]]
+- [[Inbox\|Inbox]]
 
 # Inspiration
 
