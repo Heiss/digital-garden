@@ -3,6 +3,6 @@
 ---
 
 
-Ich nutze hierfür den [Readwise Reader](https://read.readwise.io). Dieser erlaubt es mir auch am Smartphone und PC Texte zu lesen und zu annotieren. Das Obsidian Plugin von Readwise gleicht diese dann in meine [[3 Resources/Obsidian Benutzung/Inbox\|Inbox]] ab, sodass ich, sobald ich einen Text beendet habe, die Notizen in meinen Vault einsortieren kann. Das Readwise Plugin trackt leider nicht, wohin die Datei verschoben wurde.
+Ich nutze hierfür den [Readwise Reader](https://read.readwise.io). Dieser erlaubt es mir auch am Smartphone und PC Texte zu lesen und zu annotieren. Das Obsidian Plugin von Readwise gleicht diese dann in meine [[Inbox\|Inbox]] ab, sodass ich, sobald ich einen Text beendet habe, die Notizen in meinen Vault einsortieren kann. Das Readwise Plugin trackt leider nicht, wohin die Datei verschoben wurde.
 
 Zusammen mit [Medium – Where good ideas find you.](https://medium.com) kann man sich so viele gute Inspirationen holen.
