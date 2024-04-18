@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/0-inbox/","pinned":true,"noteIcon":"mailbox_with_no_mail","created":"2024-04-17T10:49:37.392+02:00","updated":"2024-04-18T14:07:40.318+02:00"}
+{"dg-publish":true,"permalink":"/0-inbox/0-inbox/","pinned":true,"created":"2024-04-17T10:49:37.392+02:00","updated":"2024-04-18T15:58:53.623+02:00"}
 ---
 
 
