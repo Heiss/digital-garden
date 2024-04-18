@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/1-projects/","pinned":true,"noteIcon":"four_leaf_clover","created":"2023-10-23T12:44:22.856+02:00","updated":"2024-04-18T13:58:05.455+02:00"}
+{"dg-publish":true,"permalink":"/1-projects/1-projects/","pinned":true,"created":"2023-10-23T12:44:22.856+02:00","updated":"2024-04-18T14:27:21.959+02:00"}
 ---
 
 
