@@ -8,9 +8,9 @@ Eine Anleitung, wie die [[3 Resources/Obsidian Benutzung/Integration/Integration
 
 # Sortierregeln
 
-Um möglichst schnell und viele Mails durchzuarbeiten, mache ich mir nicht die Mühe die Mails in Ordner einzusortieren. Lediglich Mails aus verschiedenen Kontexten, z.B. Arbeit und Privates, werden durch Regeln in Ordner sortiert, sowie automatische Mails von Github, Gitlab oder Benachrichtigungen von Plattformen. Alles andere landet in der Standard-[[3 Resources/Obsidian Benutzung/Inbox\|Inbox]]. Mittels `Backspace`-Taste landet die markierte Mail im Archiv.
+Um möglichst schnell und viele Mails durchzuarbeiten, mache ich mir nicht die Mühe die Mails in Ordner einzusortieren. Lediglich Mails aus verschiedenen Kontexten, z.B. Arbeit und Privates, werden durch Regeln in Ordner sortiert, sowie automatische Mails von Github, Gitlab oder Benachrichtigungen von Plattformen. Alles andere landet in der Standard-[[Inbox\|Inbox]]. Mittels `Backspace`-Taste landet die markierte Mail im Archiv.
 
-Wichtig ist, dass am Ende des Tages die [[3 Resources/Obsidian Benutzung/Inbox\|Inbox]] leer ist. Alle Aufgaben, welche durch die Mails entstanden sind, sind im [[3 Resources/Obsidian Benutzung/Task Management\|Task Management]] erfasst. Dies ist das oberste Ziel der [[3 Resources/Obsidian Benutzung/täglicher Ablauf\|täglichen morgendlichen Routine]].
+Wichtig ist, dass am Ende des Tages die [[Inbox\|Inbox]] leer ist. Alle Aufgaben, welche durch die Mails entstanden sind, sind im [[3 Resources/Obsidian Benutzung/Task Management\|Task Management]] erfasst. Dies ist das oberste Ziel der [[3 Resources/Obsidian Benutzung/täglicher Ablauf\|täglichen morgendlichen Routine]].
 
 ## Query-Builder
 
