@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/inbox/","noteIcon":"","created":"2024-04-14T12:44:56.713+02:00","updated":"2024-04-15T08:30:15.630+02:00"}
----
-
-
-Der wohl zentralste Ordner für die [[3 Resources/Obsidian Benutzung/Integration/Integration\|Integration]] von Obsidian in einen allgemeinen Workflow stellt "0 Inbox" dar. Sämtliche [[3 Resources/Obsidian Benutzung/Integration/Integration\|Integration]]s-Plugins sind so konfiguriert, dass erstellte Notes in diesen Ordner erstellt werden. Dadurch werden diese Dateien per Hand einmal am Tag in den Vault einsortiert.
