@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/technische-schulden/","created":"2024-04-14T16:26:11.544+02:00","updated":"2024-04-15T08:29:55.431+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/technische-schulden/","noteIcon":"","created":"2024-04-14T16:26:11.544+02:00","updated":"2024-04-15T08:29:55.431+02:00"}
 ---
 
 
