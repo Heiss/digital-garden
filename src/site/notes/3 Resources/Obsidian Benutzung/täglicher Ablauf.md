@@ -9,5 +9,5 @@ In meinem [[3 Resources/Obsidian Benutzung/Task Management\|Task Management]] To
 - Mail-Inbox abrufen und notieren / gewichten
 - Chat-Inbox abrufen und notieren / gewichten
 - Todoist-Inbox einsortieren
-- Obsidian-[[3 Resources/Obsidian Benutzung/Inbox\|Inbox]] abrufen und Notizen einsortieren
+- Obsidian-[[Inbox\|Inbox]] abrufen und Notizen einsortieren
 - [[3 Resources/Obsidian Benutzung/Plan your today tasks\|Plan your today tasks]]
