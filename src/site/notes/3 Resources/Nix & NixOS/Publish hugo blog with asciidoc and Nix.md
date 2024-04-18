@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/nix-and-nix-os/publish-hugo-blog-with-asciidoc-and-nix/","noteIcon":"","created":"2024-04-15T11:52:52.570+02:00","updated":"2024-04-15T11:56:26.438+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/nix-and-nix-os/publish-hugo-blog-with-asciidoc-and-nix/","created":"2024-04-15T11:52:52.570+02:00","updated":"2024-04-17T18:40:40.394+02:00"}
 ---
 
 
