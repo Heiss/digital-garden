@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/prime-directive/","noteIcon":"","created":"2024-04-10T14:32:57.948+02:00","updated":"2024-04-14T16:08:40.007+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/prime-directive/","created":"2024-04-10T14:32:57.948+02:00","updated":"2024-04-17T18:38:19.824+02:00"}
 ---
 
 
