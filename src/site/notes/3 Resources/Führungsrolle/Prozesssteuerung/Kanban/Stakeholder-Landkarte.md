@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/stakeholder-landkarte/","noteIcon":"","created":"2024-04-10T08:11:40.801+02:00","updated":"2024-04-14T16:08:48.453+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/stakeholder-landkarte/","created":"2024-04-10T08:11:40.801+02:00","updated":"2024-04-17T18:41:13.433+02:00"}
 ---
 
 
