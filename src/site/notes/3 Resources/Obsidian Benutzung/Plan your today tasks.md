@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/plan-your-today-tasks/","noteIcon":"","created":"2024-04-14T11:38:25.552+02:00","updated":"2024-04-17T13:08:07.357+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/plan-your-today-tasks/","created":"2024-04-14T11:38:25.552+02:00","updated":"2024-04-17T18:42:25.264+02:00"}
 ---
 
 
