@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/evolutionaere-verbesserung/","created":"2024-04-10T14:57:45.432+02:00","updated":"2024-04-17T14:14:06.235+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/evolutionaere-verbesserung/","noteIcon":"","created":"2024-04-10T14:57:45.432+02:00","updated":"2024-04-17T14:14:06.235+02:00"}
 ---
 
 
