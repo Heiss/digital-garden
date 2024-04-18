@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-area/2-area/","pinned":true,"noteIcon":"sponge","created":"2023-10-23T11:30:37.754+02:00","updated":"2024-04-18T13:58:14.079+02:00"}
+{"dg-publish":true,"permalink":"/2-area/2-area/","pinned":true,"noteIcon":"sponge","created":"2023-10-23T11:30:37.754+02:00","updated":"2024-04-18T14:10:39.579+02:00"}
 ---
 
 
@@ -19,4 +19,4 @@ Examples include: Health; Finances, Professional Development; Travel; Hobbies; F
 
 **To Archives**: Although it is rare, sometimes an area ceases to be active, and can be archived. I helped my dad with his business website for years, an area of responsibility that had an indefinite end date. But eventually I got too busy, and moved that area to Archives. This also applies to relationships, whether work or personal, which don’t usually have an exact end date, but can become inactive after a move or job change (or breakup).
 
-_From [PARA Part 2: Operations Manual](https://fortelabs.co/blog/p-a-r-a-ii-operations-manual/)
+_From [PARA Part 2: Operations Manual](https://fortelabs.co/blog/p-a-r-a-ii-operations-manual/)_
