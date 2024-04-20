@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/eingabeeffizienz-steigern/tastatur/zsa-moonlander/","created":"2024-04-20T20:37:54.186+02:00","updated":"2024-04-20T21:09:11.410+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/eingabeeffizienz-steigern/tastatur/zsa-moonlander/","created":"2024-04-20T20:37:54.186+02:00","updated":"2024-04-20T21:32:12.372+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Sie ist wirklich das beste, was ich je am PC benutzt habe und die Möglichkeiten
 
 Ich verwende Gateron Browns, da diese etwas kleiner in der Höhe sind als die Cherrys. Als Caps verwende ich die Blank Keycaps mit OEM 0-4 Profile: [Moonlander Accessories | zsa.io](https://www.zsa.io/moonlander/accessories). Würde ich auch jedem empfehlen, denn die printed Caps sind viel zu früh nicht mehr das, was ihr euch einprogrammieren werdet. Außerdem seid ihr so gezwungen, das Layout zu lernen. Ich habe mir im selben Zuge das [[3 Resources/Eingabeeffizienz steigern/Tastatur/Colemak\|Colemak-Dh]]-Layout angewöhnt.
 
-Mein aktuelles Layout ist in deren Software [Orys](https://configure.zsa.io/moonlander/layouts/eBK5y/latest/0/48/) zu finden.
+Mein aktuelles Layout ist in deren Software [Oryx](https://configure.zsa.io/moonlander/layouts/eBK5y/latest/0/48/) zu finden.
 
 >[!WARNING] Achtung
 >Wenn ihr euch nicht sicher seid, ob ihr überhaupt noch ein neues Layout lernen könnt, lasst mich euch sagen: Ihr werdet verwundert sein, wie euer Gehirn zwischen den Layouts wechseln kann, solange ihr die Layouts nur mit speziellen Tastaturen verwendet. Kauft ihr euch auch die Moonlander und habt nur dort das Colemak-Layout aktiv, so werdet ihr keine Probleme haben auf Laptop- oder euren alten Qwertz-Tastaturen zu tippen. Auch nach längerer Pause eines der beiden Layouts werdet ihr das Wissen reaktivieren können. Und wenn ihr wirklich möchtet, wird euch das Lernen nicht dran hindern, denn die Vorzüge werden euch schnell überzeugen.
