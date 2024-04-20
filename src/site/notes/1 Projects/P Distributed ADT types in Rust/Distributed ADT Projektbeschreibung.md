@@ -3,5 +3,5 @@
 ---
 
 
-In diesem privaten Projekt implementiere ich einige Datenstrukturen, welche es erlauben, möglichst einfach in verteilten Systemen auf diese Strukturen und deren Daten zuzugreifen. Dabei werden verschiedene Algorithmen zur Koordinierung implementiert. Dabei wird versucht, möglichst auf bisherige Theorie zu setzen und die Algorithmen und dessen Korrektheit via [[TLA+\|TLA+]] zu beweisen.
+In diesem privaten Projekt implementiere ich einige Datenstrukturen, welche es erlauben, möglichst einfach in verteilten Systemen auf diese Strukturen und deren Daten zuzugreifen. Dabei werden verschiedene Algorithmen zur Koordinierung implementiert. Dabei wird versucht, möglichst auf bisherige Theorie zu setzen und die Algorithmen und dessen Korrektheit via [[3 Resources/Programmierung/TLA+/TLA+\|TLA+]] zu beweisen.
 Der [GitHub - rust-micro/types: Types for distributed systems](https://github.com/rust-micro/types) sowie dessen [Rust Crate](https://crates.io/crates/micro_types) sind in einer Alphaversion veröffentlicht.
