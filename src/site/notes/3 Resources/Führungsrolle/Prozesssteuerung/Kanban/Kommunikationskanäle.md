@@ -3,4 +3,4 @@
 ---
 
 
-Im [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban\|Kanban]] ist die Kommunikation wichtig, genauso wie deren Kanäle über die sie geschieht (Stichwort [[Interaktionsmodi\|Interaktionsmodi]] von [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies von Matthew Skelton/Team Topologies von Matthew Skelton\|Team Topologies von Matthew Skelton]]).
+Im [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban\|Kanban]] ist die Kommunikation wichtig, genauso wie deren Kanäle über die sie geschieht (Stichwort [[Interaktionsmodi\|Interaktionsmodi]] von [[Team Topologies von Matthew Skelton\|Team Topologies von Matthew Skelton]]).
