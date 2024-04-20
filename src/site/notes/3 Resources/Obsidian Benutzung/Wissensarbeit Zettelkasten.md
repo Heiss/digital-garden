@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/wissensarbeit-zettelkasten/","created":"2024-04-14T12:36:53.660+02:00","updated":"2024-04-17T18:38:12.848+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/wissensarbeit-zettelkasten/","created":"2024-04-14T12:36:53.660+02:00","updated":"2024-04-14T12:39:32.233+02:00"}
 ---
 
 
