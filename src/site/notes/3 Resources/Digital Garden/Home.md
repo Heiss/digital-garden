@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-04-14T10:43:50.050+02:00","updated":"2024-04-17T18:43:36.896+02:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-04-14T10:43:50.050+02:00","updated":"2024-04-20T07:55:21.882+02:00"}
 ---
 
 
@@ -19,6 +19,7 @@ Zusätzlich nutze ich sehr gerne die [[vim\|vim keybindings]] in sämtlichen Too
 Als zentrales Werkzeug nutze ich [Obsidian - Sharpen your thinking](https://obsidian.md). Wie ich [[3 Resources/Obsidian Benutzung/Obsidian Benutzung\|Obsidian benutze]], habe ich ebenfalls in diesem Garten beschrieben. Da ich selbst denselben Vault für mein [[Second Brain\|Second Brain]] nutze, sind womöglich einige Einträge nicht so ausführlich beschrieben, aber dennoch publiziert.
 Sollten also Dinge zu kurz gekommen sein, fühl Dich frei, in die Kommentare zu schreiben. Dann fülle ich die Leerstellen aus oder beantworte Dir deine Fragen.
 
+Wer möchte, kann auch gerne in meine [[3 Resources/Digital Garden/Blogeinträge\|Blogposts]] schauen.
 # Aktuelle Projekte
 
 In meiner Freizeit schreibe ich aktuell meine Masterarbeit für den Studiengang [Master of library and information systems](https://www.th-koeln.de/studium/bibliotheks--und-informationswissenschaft-master_3202.php), welcher mir eine bessere Arbeit im Kontext des deutschen Bibliothekssystems erlaubt.
