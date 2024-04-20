@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/integration/outlook/","created":"2024-04-14T21:22:43.213+02:00","updated":"2024-04-17T18:40:33.472+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/integration/outlook/","created":"2024-04-14T21:22:43.213+02:00","updated":"2024-04-14T21:40:44.009+02:00"}
 ---
 
 
