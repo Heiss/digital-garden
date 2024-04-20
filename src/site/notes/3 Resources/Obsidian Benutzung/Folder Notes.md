@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/folder-notes/","created":"2024-04-14T12:30:07.345+02:00","updated":"2024-04-17T18:38:05.571+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/folder-notes/","created":"2024-04-14T12:30:07.345+02:00","updated":"2024-04-14T13:04:52.977+02:00"}
 ---
 
 
