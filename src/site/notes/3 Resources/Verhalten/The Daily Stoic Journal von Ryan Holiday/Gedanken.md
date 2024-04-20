@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-18T07:44:13.575+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-19T08:53:42.300+02:00"}
 ---
 
 
@@ -604,7 +604,8 @@ Fürs Leben lernen wir, nicht für die Schule. Die Schule lehrt, dass es in *Der
 Die Philosophie wird Dir helfen deine Führung durch Begründungen, Prioritäten und Klarheit zu festigen und nachvollziehbar zu machen. Dies macht eine gute Führung aus. (July, 9th){ #dice-wcf0}
 
 
-Liebe dein Handwerk, denn das macht einen großartigen Menschen aus. Finde immer etwas, dass Dich bei der Stange hält und vergiss die Basics nicht zu üben. Denn diese können deinen Erfolg behindern. Auch diese können in Vergessenheit geraten. (July, 10th)
+Liebe dein Handwerk, denn das macht einen großartigen Menschen aus. Finde immer etwas, dass Dich bei der Stange hält und vergiss die Basics nicht zu üben. Denn diese können deinen Erfolg behindern. Auch diese können in Vergessenheit geraten. (July, 10th){ #dice-yox2}
+
 
 Warum solltest Du Dich nicht selbst genau so gut pflegen wie deine Hobbys und Aufgaben? Bist Du nicht dasselbe? Du startest, akkumulierst Wissen und Wohlstand an und irgendwann hast Du ein Ende. (July, 11th)
 
@@ -656,3 +657,7 @@ Wenn Du zurückgeworfen wirst, sei es Krankheit oder Entscheidungen durch andere
 Der Ort, um deine Arbeit zu machen, um ein gutes Leben zu leben, ist genau hier und jetzt. Rede Dir nicht ein, dass Du erst den richtigen Ort, die nötige Freizeit brauchst. Sei pragmatisch und anpassungsfähig. (August, 3rd)
 
 Werde nicht emotional, bleibe fokussiert. Konzentriere Dich auf Aktionen, die in deinem Veränderungsbereich liegen. Was auch immer heute passiert oder du dich befindest, finde deinen Veränderungsbereich. (August, 4th)
+
+Schweigen ist eine Lehre aus den vergangenen Leiden. Wie oft ist es schon passiert, dass Du etwas gesagt hast, um cool oder smart zu sein, was dich später wieder eingeholt hat? Die Fähigkeit zuzuhören und nur etwas zu sagen, wenn nötig, ist eine Gabe, welche zu Selbstsicherheit und Stärke führt. (August, 5th)
+
+Du hast erst verloren, wenn Du aufgibst, denn dann kann nichts Gutes mehr passieren. Aber solange Du kämpfst, kann ein verloren geglaubtes Spiel sich noch zu einem Sieg wenden. Dies passiert meist dann, wenn Du deinen möglichen Bewegungsraum falsch einschätzt. Er ist meist größer als Du denkst. (August, 6th)
