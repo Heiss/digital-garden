@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/p-godot-game/game-design-document/core/design-pillars/","created":"2024-04-14T18:05:30.499+02:00","updated":"2024-04-14T19:05:02.572+02:00"}
+{"dg-publish":true,"permalink":"/1-projects/p-godot-game/game-design-document/core/design-pillars/","created":"2024-04-14T18:05:30.499+02:00","updated":"2024-04-14T18:18:11.401+02:00"}
 ---
 
 
