@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/oberstes-gebiet/","created":"2024-04-10T14:32:57.948+02:00","updated":"2024-04-20T23:34:04.254+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/oberstes-gebiet/","created":"2024-04-10T14:32:57.948+02:00","updated":"2024-04-20T08:04:29.792+02:00"}
 ---
 
 
