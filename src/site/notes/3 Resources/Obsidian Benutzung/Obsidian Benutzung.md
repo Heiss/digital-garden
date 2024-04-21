@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/obsidian-benutzung/","pinned":true,"created":"2024-04-14T11:15:34.188+02:00","updated":"2024-04-18T14:09:21.810+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/obsidian-benutzung/","pinned":true,"created":"2024-04-14T11:15:34.188+02:00","updated":"2024-04-21T13:13:19.844+02:00"}
 ---
 
 
@@ -16,6 +16,7 @@ Um die Komplexität der verschiedenen Aspekte etwas herunterzubrechen, splitte i
 - [[3 Resources/Obsidian Benutzung/Folder Notes\|Folder Notes]]
 - [[3 Resources/Obsidian Benutzung/Read-It-Later\|Read-It-Later]]
 - [[3 Resources/Obsidian Benutzung/Daily Notes\|Daily Notes]]
+- [[3 Resources/Obsidian Benutzung/Media Backlog\|Media Backlog]]
 
 # Inspiration
 
