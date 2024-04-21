@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/task-management/","created":"2024-04-14T11:32:50.720+02:00","updated":"2024-04-14T19:03:38.072+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/task-management/","created":"2024-04-14T11:32:50.720+02:00","updated":"2024-04-14T16:04:03.613+02:00"}
 ---
 
 
