@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/plan-your-today-tasks/","created":"2024-04-14T11:38:25.552+02:00","updated":"2024-04-17T13:08:07.357+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/plan-your-today-tasks/","created":"2024-04-14T11:38:25.552+02:00","updated":"2024-04-21T13:31:21.559+02:00"}
 ---
 
 
@@ -7,4 +7,4 @@ Mittels den Prinzipien hinter der [[Eisenhower-Matrix\|Eisenhower-Matrix]] oder 
 
 Es hat sich herausgestellt, dass nicht mehr als 3 große Aufgaben am Tag geschafft werden können. Je nach Belastung durch [[Meeting\|Meeting]]s oder anderen Events, reduziert sich diese Zahl weiter. Kleinere Aufgaben können natürlich zwischengeschoben werden und sollten auch am Anfang des Tages ausgewählt werden, um nicht durch [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kontextwechsel\|Kontextwechsel]] zu viel Zeit auf kleine Aufgaben zu verlieren.
 
-Danach werden die ausgewählten Aufgaben im Kalender zeitlich einsortiert. Dabei muss sich auch über die benötigte Zeit Gedanken gemacht werden. Sollte sich diese Abschätzung nicht eingehalten werden, ist das kein Problem: Am nächsten Tag ist die nächste Chance. Bereits angefangene Aufgaben haben Priorität über frische (Stichwort [[WIP-Limits\|WIP-Limits]] von Kanban) Aufgaben.
+Danach werden die ausgewählten Aufgaben im Kalender zeitlich einsortiert. Dabei muss sich auch über die benötigte Zeit Gedanken gemacht werden. Sollte sich diese Abschätzung nicht einhalten lassen, ist das kein Problem: Am nächsten Tag ist die nächste Chance. Man sollte allerdings vor dem Feierabend sich einen Moment Zeit nehmen und überlegen, wieso man Aufgaben nicht geschafft hat. Vielleicht kommen daraus Erkenntnisse, welche man am nächsten Tag direkt in die Tat umsetzen möchte. Bereits angefangene Aufgaben haben am nächsten Tag Priorität über frische Aufgaben (Stichwort [[WIP-Limits\|WIP-Limits]]).
