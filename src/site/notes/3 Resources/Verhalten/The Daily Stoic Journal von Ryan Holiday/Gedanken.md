@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-19T08:53:42.300+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-21T09:28:19.643+02:00"}
 ---
 
 
@@ -274,7 +274,8 @@ Alles hat Kosten im Leben; selbst die kostenlosen Dinge. Schaue nach versteckten
 Dominiere Gespräche nicht mit deinen Geschichten aus der Vergangenheit. Niemand interessiert deine Lebensgeschichte und wie Du dahin gekommen bist, wo Du bist. Man beschönt damit seine Realität. Lebe im hier und jetzt, im realen! Verbinde Dich mit Menschen, unterhalte sie nicht mit deinen Stories. (Mar, 6th){ #dice-4i6v}
 
 
-Zu schnelle Schlussfolgerung sind Selbstbetrug. Du kannst nicht mal deinen Augen trauen, denn sie können getäuscht werden. Wenn sie getäuscht sind, werden Gefühle fälschlicherweise alarmiert und steuern Dich fremd. Begreife dies als Chance: Nehme Dich zurück mit Entscheidungen und mache Dir bewusst, wie die Dinge wirklich sind. (Mar, 7th)
+Zu schnelle Schlussfolgerung sind Selbstbetrug. Du kannst nicht mal deinen Augen trauen, denn sie können getäuscht werden. Wenn sie getäuscht sind, werden Gefühle fälschlicherweise alarmiert und steuern Dich fremd. Begreife dies als Chance: Nehme Dich zurück mit Entscheidungen und mache Dir bewusst, wie die Dinge wirklich sind. (Mar, 7th){ #dice-cqpb}
+
 
 Selbstwahrnehmung ist die Fähigkeit, sich selbst so zu begreifen und objektiv zu evaluieren, wie man wirklich ist. Der Selbstbetrug zu denken, dass man alles wahrnimmt, wie sie wirklich sind, ist ebenfalls Arrogant. (Mar, 7th){ #dice-6pij}
 
