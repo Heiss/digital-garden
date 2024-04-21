@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban-in-der-it-von-klaus-leopold/metriken/","created":"2024-04-17T13:40:28.678+02:00","updated":"2024-04-20T23:33:33.184+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban-in-der-it-von-klaus-leopold/metriken/","created":"2024-04-17T13:40:28.678+02:00","updated":"2024-04-17T20:14:19.401+02:00"}
 ---
 
 
