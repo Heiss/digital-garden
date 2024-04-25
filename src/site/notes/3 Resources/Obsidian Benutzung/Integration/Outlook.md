@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/integration/outlook/","created":"2024-04-14T21:22:43.213+02:00","updated":"2024-04-14T21:40:44.009+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/integration/outlook/","created":"2024-04-14T21:22:43.213+02:00","updated":"2024-04-25T19:46:42.785+02:00"}
 ---
 
 
@@ -8,9 +8,9 @@ Eine Anleitung, wie die [[3 Resources/Obsidian Benutzung/Integration/Integration
 
 # Sortierregeln
 
-Um möglichst schnell und viele Mails durchzuarbeiten, mache ich mir nicht die Mühe die Mails in Ordner einzusortieren. Lediglich Mails aus verschiedenen Kontexten, z.B. Arbeit und Privates, werden durch Regeln in Ordner sortiert, sowie automatische Mails von Github, Gitlab oder Benachrichtigungen von Plattformen. Alles andere landet in der Standard-[[Inbox\|Inbox]]. Mittels `Backspace`-Taste landet die markierte Mail im Archiv.
+Um möglichst schnell und viele Mails durchzuarbeiten, mache ich mir nicht die Mühe die Mails in Ordner einzusortieren. Lediglich Mails aus verschiedenen Kontexten, z.B. Arbeit und Privates, werden durch Regeln in Ordner sortiert, sowie automatische Mails von Github, Gitlab oder Benachrichtigungen von Plattformen. Alles andere landet in der Standard-[[0 Inbox/0 Inbox\|Inbox]]. Mittels `Backspace`-Taste landet die markierte Mail im Archiv.
 
-Wichtig ist, dass am Ende des Tages die [[Inbox\|Inbox]] leer ist. Alle Aufgaben, welche durch die Mails entstanden sind, sind im [[3 Resources/Obsidian Benutzung/Task Management\|Task Management]] erfasst. Dies ist das oberste Ziel der [[3 Resources/Obsidian Benutzung/täglicher Ablauf\|täglichen morgendlichen Routine]].
+Wichtig ist, dass am Ende des Tages die [[0 Inbox/0 Inbox\|Inbox]] leer ist. Alle Aufgaben, welche durch die Mails entstanden sind, sind im [[3 Resources/Obsidian Benutzung/Task Management\|Task Management]] erfasst. Dies ist das oberste Ziel der [[3 Resources/Obsidian Benutzung/täglicher Ablauf\|täglichen morgendlichen Routine]].
 
 ## Query-Builder
 
