@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-21T09:28:19.643+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-25T11:22:17.572+02:00"}
 ---
 
 
@@ -404,7 +404,8 @@ Lass deine Meinungen nicht dein Denken bestimmen. Werde ihnen klar, sie sind hä
 
 Lerne von allem und jedem! Du kannst immer etwas neues sehen / hören / denken. Selbst der Einflussloseste ist Dir in einem Aspekt voraus! (z.B. seine Erfahrungen mit Machtlosigkeit umzugehen oder Demut und Dankbarkeit) (Apr, 19th)
 
-Weisheit, Selbstkontrolle, Gerechtigkeit und Courage; Was brauchst Du mehr um Glücklich zu sein? Viele Menschen geben vielen Dingen einen hohen Wert, aber wenn Du es hast, z.B. Geld, dann merkst Du erst, dass es Dich nicht zwangsläufig immer glücklicher macht. Wahrscheinlich jagst Du dann dem nächsten Hochgefühl hinterher. Gute Dinge sind nämlich meist simpel. (Apr, 20th)
+Weisheit, Selbstkontrolle, Gerechtigkeit und Courage; Was brauchst Du mehr um Glücklich zu sein? Viele Menschen geben vielen Dingen einen hohen Wert, aber wenn Du es hast, z.B. Geld, dann merkst Du erst, dass es Dich nicht zwangsläufig immer glücklicher macht. Wahrscheinlich jagst Du dann dem nächsten Hochgefühl hinterher. Gute Dinge sind nämlich meist simpel. (Apr, 20th){ #dice-qkde}
+
 
 Deine Konzentration ist deine wichtigste Ressource. Verschwende es nicht. Du wirst deine Aufgaben nicht erledigt bekommen, wenn die kleinste Sache Dich ablenkt. Ablenkungen werden unweigerlich zu Fehlern führen. (Apr, 21st)
 
@@ -432,7 +433,8 @@ Schau zu den Sternen, um deine Rolle in der Welt zu begreifen, so oft es geht. D
 
 Wenn Du weißt, woran Du glaubst und warum Du es glaubst, hast Du einen starken Charakter. Ein starker Charakter hält der Welt stand, die versucht sie zu unterdrücken, zu kaufen und zu verändern. Mit einem starken Charakter kannst Du vieles vermeiden (toxische Beziehungen, Schön-Wetter-Freunde, und sonstige Dinge, unter denen Menschen leiden, wenn sie diese nicht hinterfragt haben). Dies zu erkennen ist deine Bildung! Dies ist der Grund für all die Arbeit im Leben. (Apr, 30th)
 
-Ein Stoiker ist nicht durch sein Äußeres zu erkennen, noch durch sein Gesagtes; nur durch seinen Charakter. Dein Charakter ist dein stärkstes Markenzeichen. (May, 1st)
+Ein Stoiker ist nicht durch sein Äußeres zu erkennen, noch durch sein Gesagtes; nur durch seinen Charakter. Dein Charakter ist dein stärkstes Markenzeichen. (May, 1st){ #dice-a8kf}
+
 
 Entscheide Dich bewusst, welcher Mensch Du sein möchtest. Nehme Dir dafür immer wieder bewusst, ununterbrochene Zeit und entscheide Dich; dann setze es um. Du kannst nichts erreichen durch Hoffnung und Bitten. (May, 2nd)
 
@@ -442,7 +444,8 @@ Entscheide Dich bewusst, welcher Mensch Du sein möchtest. Nehme Dir dafür imme
 Wer ist bemerkenswerter? Die Person, die viel Geld ausgibt für Dinge oder die, die viel Geld ausgibt an Personen und denen, die es nicht haben? Das Investment in Menschen ist beeindruckend, denn es ist nicht eigennützig, noch macht es keine Arbeit. Aber es ist langlebiger. (May, 4th){ #dice-iei1}
 
 
-Dein Geist ist deine Aufgabe, wie ein Sportler sein Körper. Dieser würde niemals hinterfragt werden, wenn er Zeit aufwändet, um die Bewegungen zu üben und fit zu bleiben. Also warum solltest Du es? Nur so wirst Du besser im Verständnis für deinen Geist. Du bist das Projekt. (May, 5th)
+Dein Geist ist deine Aufgabe, wie ein Sportler sein Körper. Dieser würde niemals hinterfragt werden, wenn er Zeit aufwändet, um die Bewegungen zu üben und fit zu bleiben. Also warum solltest Du es? Nur so wirst Du besser im Verständnis für deinen Geist. Du bist das Projekt. (May, 5th){ #dice-k8gw}
+
 
 Schönheit liegt in den erlernbaren Dingen der menschlichen Exzellenz wie wohlüberlegte Entscheidungen, ein ausgeglichenes Gemüt oder Selbstkontrolle. Nicht in der Genetik oder dem Glück liegt Schönheit, sondern in Fleiß und stoischen Werten. (May, 6th){ #dice-wd5u}
 
@@ -621,7 +624,8 @@ Auf die Frage "Was hat Dich motiviert, das Richtige getan?" sollte Antwort stets
 
 Was treibt Dich an? Was sind die Werte, die du verfolgst? Wonach strebst Du in deinem Leben? Beantworte diese Fragen, selbst wenn die Beantwortung und die Antworten unangenehm sind, Du wirst dein Leben anschließend korrigieren müssen und das ist gut: Dies wird deine Seele näher an den Zustand bringen, den Du gerne möchtest. Akzeptiere, dass deine Seele auch Fortschritte macht. (July, 16th)
 
-Wenn Du Dich veränderst, wird es Widerstand um Dich herum geben, da Du Dinge für die anderen hinterfragst. Akzeptiere dies, bleibe bei deinem begründeten Pfad, aber lasse die Leute nicht zurück, bekämpfe sie nicht, noch werde wütend auf sie. Du warst vor kurzem in ihren Reihen. (July, 17th)
+Wenn Du Dich veränderst, wird es Widerstand um Dich herum geben, da Du Dinge für die anderen hinterfragst. Akzeptiere dies, bleibe bei deinem begründeten Pfad, aber lasse die Leute nicht zurück, bekämpfe sie nicht, noch werde wütend auf sie. Du warst vor kurzem in ihren Reihen. (July, 17th){ #dice-wq96}
+
 
 Jeder hat seinen eigenen Entscheidungsblickwinkel. Akzeptiere, dass er damit der Meister seiner eigenen Domäne ist und du nichts darüber weißt, lediglich was er Dich sehen lässt. Wenn das nicht so wäre, würde jemand anderes über dein Unheil entscheiden können. Du kannst nicht für sie entscheiden, egal wie gern du es auch möchtest. Konzentriere Dich auf deine Hürden. (July, 18th)
 
@@ -662,3 +666,15 @@ Werde nicht emotional, bleibe fokussiert. Konzentriere Dich auf Aktionen, die in
 Schweigen ist eine Lehre aus den vergangenen Leiden. Wie oft ist es schon passiert, dass Du etwas gesagt hast, um cool oder smart zu sein, was dich später wieder eingeholt hat? Die Fähigkeit zuzuhören und nur etwas zu sagen, wenn nötig, ist eine Gabe, welche zu Selbstsicherheit und Stärke führt. (August, 5th)
 
 Du hast erst verloren, wenn Du aufgibst, denn dann kann nichts Gutes mehr passieren. Aber solange Du kämpfst, kann ein verloren geglaubtes Spiel sich noch zu einem Sieg wenden. Dies passiert meist dann, wenn Du deinen möglichen Bewegungsraum falsch einschätzt. Er ist meist größer als Du denkst. (August, 6th)
+
+Seien die Umstände noch so schwer, es lässt sich überall gut leben. Du kannst deine Prinzipien und dein Pragmatismus auch dort ausleben, wo die Umstände noch so schwer sind. (August, 7th)
+
+"Don't let perfect be the enemy of good enough." Fange heute damit an, etwas zu ändern. Die Welt wird nicht perfekt sein, um deine Änderungen anzustoßen. Beginne dort, wo die Welt jetzt ist und bearbeite sie. Mach Dir nicht zu viele Gedanken, selbst die kleinsten Schritte sind Fortschritte. (August, 8th) - Siehe auch [[Third Law of atomic habits\|Third Law of atomic habits]] in [[3 Resources/Verhalten/Atomic Habits von James Clear/Atomic Habits von James Clear\|Atomic Habits von James Clear]] und [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/evolutionäre Verbesserung\|evolutionäre Verbesserung]] in  [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban in der IT von Klaus Leopold/Kanban in der IT von Klaus Leopold\|Kanban in der IT von Klaus Leopold]].
+
+Bleibe bei den Fakten. Schau Dir die Dinge an, wie sie sind und interpretiere nicht ihre Folgen hinein. Jemand soll über Dich schlecht gesprochen haben? Hast Du davon Schaden davongetragen? Wenn nicht, dann sehe es so, wie es ist: Du weißt nicht, wie es genau war und was gesagt wurde; du warst nicht dabei. Also gebe diesem wenig Wert. Andere würden diesem viel Wert beimessen und sich damit beschäftigen; Hast du nichts besseres zu tun? (August, 9th)
+
+Perfektion ist der Feind der Aktion. Ein "Alles oder nichts"-Denken wird dir am Ende nur selbst schaden. Perfektion ist ein Prozess, kein Zustand, denn es liegt im Kontext und Auge des Betrachters. Verfolgter Perfektionismus führt unweigerlich zur Frustration und schlussendlich zu Depression. (August, 10th)
+
+Theorie ist meist klar und simpel, die reale Welt ist es nicht. Es zählt nicht, wie gut du eine Theorie verstanden hast, sondern ob du die aktuelle Situation lösen und sie hinter dir lassen kannst. Nichts anderes zählt an der Theorie. Dein Verhalten wird von Theorie gesteuert, verwerfe sie, wenn Du keine Resultate davon trägst. (August, 11th)
+
+Lass die Theorie und Philosophie dein Eigen werden. Kopiere das, was funktioniert. Die alten Stoiker wird es nicht interessieren. Überliefert ist das, was funktioniert hat. Zeige, dass Du es verstanden hast, durch Wiederholung und deinen Taten. (August, 12th)
