@@ -3,7 +3,7 @@
 ---
 
 
-Durch [[3 Resources/Führungsrolle/Architecture for flow/Gesetz von Conway\|Conways Law]] wissen wir, dass wir erst eine Softwarearchitektur brauchen, bevor wir eine Teamorganisation aufsetzen können. Ansonsten werden die Kommunikationspfade uns eine Softwarearchitektur diktieren.
+Durch [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]] wissen wir, dass wir erst eine Softwarearchitektur brauchen, bevor wir eine Teamorganisation aufsetzen können. Ansonsten werden die Kommunikationspfade uns eine Softwarearchitektur diktieren.
 
 Michael Nygard:
 > Teamzuweisungen sind der erste Entwurf einer Architektur.
