@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-25T11:22:17.572+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-28T08:41:27.535+02:00"}
 ---
 
 
@@ -325,7 +325,8 @@ Hypolêpsis - Das aufgreifen von Emotionen, Wahrnehmung, Gedanken und Urteile de
 Alles um uns herum - ob gut oder schlecht - wird durch uns wahrgenommen und dadurch erst gut oder schlecht. Es ist also nicht von sich aus gut oder schlecht. Das bedeutet, es bekommt diese Eigenschaft durch uns. Und das können wir ändern: Wie wir etwas finden, hat mit den Erwartungen und Erfahrungen zu tun. Dieses Label können wir ändern. (Mar, 19th){ #dice-oiye}
 
 
-Du wünschst es Dir zwar nicht, aber Schwierigkeit im Leben passieren nunmal. Sei bereit und begegne ihnen vorbereitet. (Mar, 20th)
+Du wünschst es Dir zwar nicht, aber Schwierigkeit im Leben passieren nunmal. Sei bereit und begegne ihnen vorbereitet. (Mar, 20th){ #dice-j68b}
+
 
 Frieden und Ruhe kommt von innen. Der Urlaub oder das Wochenende steht vor der Tür, wo Du Pause machen kannst? Wie oft wurde diese Erwartung enttäuscht. Suche die innere Ruhe; Jetzt und hier! (Mar, 21th){ #dice-bbnw}
 
@@ -532,7 +533,8 @@ Du kannst nicht ändern, was Du warst. Aber Du kannst ändern, wer du bist. Wenn
 
 Folge dem Prozess, statt dem großen, unheimlichen Ziel. Mach Dir klar, was das nächste kleine Ziel ist und erledige dies so gut es geht. Du wirst dein großes Ziel erreichen, ohne das du je Angst hattest. (June, 8th)
 
-Löse Probleme früh: "Flüsse sind an der Quelle am leichtesten zu überqueren." Dein Verhalten änderst Du nicht über Nacht, sondern Stück für Stück. Wenn Du immer weiter zurück an den Ursprung kommst, wird es Dir leichter Fallen, dies zu beeinflussen. (June, 9th)
+Löse Probleme früh: "Flüsse sind an der Quelle am leichtesten zu überqueren." Dein Verhalten änderst Du nicht über Nacht, sondern Stück für Stück. Wenn Du immer weiter zurück an den Ursprung kommst, wird es Dir leichter Fallen, dies zu beeinflussen. (June, 9th){ #dice-n9kg}
+
 
 Es gibt 2 Arten von Personen: Diejenigen, die auf andere schauen und fragen "Warum sie und nicht ich?" und die, die sagen: "Wenn die das schaffen, kann ich das auch." Wer willst Du sein? Wer wirst Du sein? (June, 10th)
 
@@ -581,7 +583,8 @@ Versuche das Gegenteil, wenn Dir dein Verhalten schadet. Den Fokus weg von deine
 
 Wie Du mit kleinen Dingen umgehst, sagt alles über Dich aus. Auf die großen Dinge kannst Du Dich vorbereiten und dich selbst belügen, aber die kleinsten Situationen kann man nicht vorhersagen und werden alles offenbaren. (June, 27th)
 
-Richte an Dich hohe, aber nicht unmögliche, Standards und bestrafe Dich nicht. Sei konstruktiv, selbstkritisch, aber nie selbst verletzend. (June, 28th)
+Richte an Dich hohe, aber nicht unmögliche, Standards und bestrafe Dich nicht. Sei konstruktiv, selbstkritisch, aber nie selbst verletzend. (June, 28th){ #dice-36x3}
+
 
 Wie machen es andere? Sie sind genauso wenig wie Du so geboren, sondern haben kontinuierlich (womöglich immernoch) an sich gearbeitet und haben trotz Hindernisse weiter gemacht. Sie haben sich zu dem gemacht, was Du heute siehst. (June, 29th){ #dice-gmq9}
 
@@ -673,8 +676,15 @@ Seien die Umstände noch so schwer, es lässt sich überall gut leben. Du kannst
 
 Bleibe bei den Fakten. Schau Dir die Dinge an, wie sie sind und interpretiere nicht ihre Folgen hinein. Jemand soll über Dich schlecht gesprochen haben? Hast Du davon Schaden davongetragen? Wenn nicht, dann sehe es so, wie es ist: Du weißt nicht, wie es genau war und was gesagt wurde; du warst nicht dabei. Also gebe diesem wenig Wert. Andere würden diesem viel Wert beimessen und sich damit beschäftigen; Hast du nichts besseres zu tun? (August, 9th)
 
-Perfektion ist der Feind der Aktion. Ein "Alles oder nichts"-Denken wird dir am Ende nur selbst schaden. Perfektion ist ein Prozess, kein Zustand, denn es liegt im Kontext und Auge des Betrachters. Verfolgter Perfektionismus führt unweigerlich zur Frustration und schlussendlich zu Depression. (August, 10th)
+Perfektion ist der Feind der Aktion. Ein "Alles oder nichts"-Denken wird dir am Ende nur selbst schaden. Perfektion ist ein Prozess, kein Zustand, denn es liegt im Kontext und Auge des Betrachters. Verfolgter Perfektionismus führt unweigerlich zur Frustration und schlussendlich zu Depression. (August, 10th){ #dice-19yb}
+
 
 Theorie ist meist klar und simpel, die reale Welt ist es nicht. Es zählt nicht, wie gut du eine Theorie verstanden hast, sondern ob du die aktuelle Situation lösen und sie hinter dir lassen kannst. Nichts anderes zählt an der Theorie. Dein Verhalten wird von Theorie gesteuert, verwerfe sie, wenn Du keine Resultate davon trägst. (August, 11th)
 
 Lass die Theorie und Philosophie dein Eigen werden. Kopiere das, was funktioniert. Die alten Stoiker wird es nicht interessieren. Überliefert ist das, was funktioniert hat. Zeige, dass Du es verstanden hast, durch Wiederholung und deinen Taten. (August, 12th)
+
+Wie oft hast Du Dich in Probleme gebracht, weil Du vor Angst, Neid oder anderen Emotionen gehandelt hast? Lass deine Vernunft handeln. Dein Gehirn ist dafür gemacht, dass wichtige vom unwichtigen zu trennen und Schlüsse fürs Handeln daraus zu ziehen. (August, 13th)
+
+"An ounce of prevention is worth a pound of cure." Benjamin Franklin
+
+Philosophie ist kein Trick, nicht zum Spaß. Es soll und wird Dir helfen, Ordnung in dein Leben zu bringen und Situationen zu meistern, wie Du es möchtest. Lass Dich nicht verwirren, verwirre nicht andere. Die Welt ist voller Ablenkungen, die Philosophie wird Dich anleiten, diese zu ignorieren und deine Vernunft Dich leiten lassen. (August, 14th)
