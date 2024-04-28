@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/gesetz-von-conway/","tags":["revisitMe"],"created":"2024-04-19T07:45:03.668+02:00","updated":"2024-04-28T17:12:10.809+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/gesetz-von-conway/","tags":["revisitMe"],"created":"2024-04-19T07:45:03.668+02:00","updated":"2024-04-28T17:14:15.485+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Es kann hier lediglich begünstigt oder erschwert werden, welche Entwürfe sich 
 > [!NOTE] [Conway's Law](https://www.melconway.com/research/committees.html)
 > The basic thesis of this article is that organizations which design systems (in the broad sense used here) are constrained to produce designs which are copies of the communication structures of these organizations. We have seen that this fact has important implications for the management of system design. Primarily, we have found a criterion for the structuring of design organizations: a design effort should be organized according to the need for communication.
 
-Das Gesetz von Conway beschreibt demnach eine Isomorphie / Abbildung der [[Kommunikationsstruktur\|Kommunikationsstruktur]]en einer Organisation auf die [[3 Resources/Führungsrolle/Softwarearchitektur/Softwarearchitektur\|Softwarearchitektur]].
+Das Gesetz von Conway beschreibt demnach eine Isomorphie / Abbildung der Kommunikationsstrukturen einer Organisation auf die Softwarearchitektur.
 
 Besonderer Fokus liegt hier auf der Kommunikationsstruktur, welche nicht zwangsweise (und es in den meisten Fällen es auch nicht ist) deckungsgleich mit dem Organigramm einer Unternehmung sein muss.
 Je weiter die Lücke zwischen den Kommunikationspfaden und dem Organigramm ist, desto schwieriger ist eine kontrollierte Softwarearchitektur aufzubauen oder gar zu warten. Andersherum kann eine Erfassung der aktuell vorliegenden Softwarearchitektur Informationen liefern über die aktuell vorliegenden Kommunikationspfade. Somit ist also die Planung einer Architektur für Systeme eng verbunden mit der gelebten Struktur einer Organisation.
