@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/vermeide-teamsilos/","created":"2024-04-28T15:38:24.628+02:00","updated":"2024-04-28T16:47:18.354+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/vermeide-teamsilos/","created":"2024-04-28T15:38:24.628+02:00","updated":"2024-04-28T16:59:34.637+02:00"}
 ---
+
 
 Ein dediziertes "Operations"-Team benötigt einen klaren Hand-Off des SATs, was entgegen der "Entlang des Flusses"-Arbeitsweise steht. Es ist außerdem einfacher zu verstehen wo ein Problem liegt, wenn cross-funktionale Teams daran arbeiten. Zusätzlich werden Lösungen nutzungsfreundlicher etabliert, denn in solchen Teams werden eher Lösungen bevorzugt, welche leicht für alle zu verstehen sind (keep it simple, stupid). Komplizierte Lösungen, wo nur wenige im Team die nötige Expertise haben, werden eher nicht implementiert. Dies gilt nicht, wenn das Team nicht für den Betrieb verantwortlich ist.
 
