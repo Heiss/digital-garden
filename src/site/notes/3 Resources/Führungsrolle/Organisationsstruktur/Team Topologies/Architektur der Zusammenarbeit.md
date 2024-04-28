@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/architektur-der-zusammenarbeit/","created":"2024-04-28T16:28:13.711+02:00","updated":"2024-04-28T16:47:18.255+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/architektur-der-zusammenarbeit/","created":"2024-04-28T16:28:13.711+02:00","updated":"2024-04-28T16:58:05.820+02:00"}
 ---
 
 
-Durch Conways Law wissen wir, dass wir erst eine Softwarearchitektur brauchen, bevor wir eine Teamorganisation aufsetzen können. Ansonsten werden die Kommunikationspfade uns eine Softwarearchitektur diktieren.
+Durch [[3 Resources/Führungsrolle/Architecture for flow/Gesetz von Conway\|Conways Law]] wissen wir, dass wir erst eine Softwarearchitektur brauchen, bevor wir eine Teamorganisation aufsetzen können. Ansonsten werden die Kommunikationspfade uns eine Softwarearchitektur diktieren.
 
 Michael Nygard:
 > Teamzuweisungen sind der erste Entwurf einer Architektur.
