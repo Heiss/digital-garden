@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T17:07:09.721+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T17:09:54.315+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@ Das Konzept der Team Topologies besteht aus 4 Teamtypen und 3 [[3 Resources/Füh
 
 Zusammen mit gut gesetzten Systemgrenzen und Teaminteraktionen, sind die folgenden 4 Teamarten alles, was man benötigt, um eine effektive [[3 Resources/Führungsrolle/Organisationsstruktur/Organisationsstruktur\|Organisationsstruktur]] für den Flow zu erstellen: [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Enabling Team\|ET]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Complicated Subsystem Team\|CST]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Platform Team\|PT]].
 
-![Pasted image 20240423080532.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240423080532.png)
+![Pasted image 20240423080532.jpg](/img/user/4%20Archive/Assets/Pasted%20image%2020240423080532.jpg)
 
 Sie sollten als eine Art Magnet für die Teams funktionieren, die Teams sollten also danach streben, eine der 4 Typen zu entsprechen. Dies reduziert die Ambiguität in der Organisation und erleichtert somit auch die Kommunikation. Als Startpunkt fungiert das [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|Stream-aligned Team]] und nur wenn wirklich nötig bis zu 2 complicated subsystem Teams.
 
