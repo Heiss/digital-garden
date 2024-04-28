@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-api/","created":"2024-04-28T15:50:02.165+02:00","updated":"2024-04-28T16:58:46.591+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-api/","created":"2024-04-28T15:50:02.165+02:00","updated":"2024-04-28T21:41:31.183+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@ Nachdem das Team und dessen fundamentale Bedeutung für das Erfüllen dargestell
 
 Eine Team-API ist ein Wrapper um das Team selbst, wie es bei Software auch geschieht, um nicht zulässige Zugriffe zu verhindern und die Verarbeitung und Herausgabe von Informationen zu steuern.
 Dabei betrachten wir:
-- code: Runtime endpoints, libraries, clients, UI, etc. welche durch das TEam erstellt werden
+- code: Runtime endpoints, libraries, clients, UI, etc. welche durch das Team erstellt werden
 - Versionierung: Ein Versprechen des Teams, Dinge nicht kaputt zu machen (z.B. per SemVer)
 - Wiki und documentation: besonders How-To Guides für andere Softwareteams
 - Praktiken und Prinzipien: die vom Team präferierten Wege, Dinge zu erledigen
