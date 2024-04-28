@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung/","created":"2024-04-28T15:51:42.550+02:00","updated":"2024-04-28T16:55:05.264+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung/","created":"2024-04-28T15:51:42.550+02:00","updated":"2024-04-28T17:20:17.025+02:00"}
 ---
 
 
@@ -28,6 +28,6 @@ Achtung: Goodhart's law
 # Bedeutung für die Softwarentwicklung
 
 Wenn die kognitive Belastung eines Teams nicht berücksichtig wird, wird die Arbeitskraft durch die Verteilung auf verschiedene Domänen und die Verantwortlichkeiten stark reduziert. Jede Person hat ein kognitives Limit für Dinge, mit denen man sich beschäftigen oder Informationen "im Kopf behalten" kann. Teams haben ein höheres Limit als die Personen selbst, aber bei Überbelastung wird ein Team verschieden reagieren, z.B. durch Vermeidung, Widerstand oder Verfolgung von "leichten Wegen", welches die Leistungsfähigkeit reduziert. Dies kann u.a. durch sehr häufigen [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kontextwechsel\|Kontextwechsel]] oder Überbelastung durch Informationen geschehen.
-![Pasted image 20240416200825.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240416200825.png)
+![Pasted image 20240416200825.jpg](/img/user/4%20Archive/Assets/Pasted%20image%2020240416200825.jpg)
 
 Neue Dienste werden häufig mit der Annahme entworfen, dass das zukünftig zuständige Team Vollzeit verfügbar und keine kognitive Belastung besitzen. Aber das Team muss weiterhin alte Dienste warten, Fehler beheben und diese an neue Anforderungen anpassen. Am Ende wird das Team zum Flaschenhals bei der Auslieferung neuer Dienste, da ihre kognitive Belastung vollständig ausgeschöpft ist. Dies führt zu starken Verzögerungen, Qualitätsproblemen und meist zu einer Verminderung der Motivation einzelner Teammitglieder.
