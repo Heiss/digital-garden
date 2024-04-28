@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T16:51:03.487+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T17:06:20.840+02:00"}
 ---
 
 
 Kleine und simple Systeme sind ein wertvolles Ziel, [Lehman's laws of software evolution](https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution)  zeigt uns aber, dass dies nicht für erfolgreiche Systeme gilt, denn der Druck neue Funktionen einzubauen und sich neuen Anforderungen anzupassen, wird dieses System automatisch degenerieren.
 Die Team Topologies versucht [[3 Resources/Führungsrolle/Architecture for flow/Gesetz von Conway\|Conways Law]] Rechnung zu tragen und durch eigenständig, unabhängigen Teams Systeme zu entwickeln, welche für einen schnellen Veränderungsfluss ausgelegt sind.
+
+> [!NOTE] Buchempfehlung
+> Das hier vorgestellte Konzept [Team Topologies](teamtopologies.com) stammt aus dem zugehörigen Buch von Matthew Skelton und Manuel Pais. Die hier verwendeten Bildern stammen ebenfalls aus dem Buch.
 
 Das Konzept der Team Topologies besteht aus 4 Teamtypen und 3 [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Interaktionsmodi]].
 ![Pasted image 20240416191308.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240416191308.png)
