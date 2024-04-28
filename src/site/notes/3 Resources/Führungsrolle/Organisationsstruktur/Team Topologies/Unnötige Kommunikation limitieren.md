@@ -18,11 +18,11 @@ Gleiches gilt für ein Team, welches mehrere Bereiche eines Systems bearbeiten; 
 
 # Nicht jeder muss mit jedem reden
 
-Bei Many-to-many Kommunikation, z.B. durch "demokratische Meeting" (jeder wird eingeladen), besagt [[3 Resources/Führungsrolle/Architecture for flow/Gesetz von Conway\|Conways Law]], dass monolithische, hoch verknüpfte, verschränkte, abhängige Systeme entstehen müssen, welche nicht fast flow unterstützen, denn es benötigt viel Kommunikation die Veränderungen zu entscheiden und umzusetzen.
+Bei Many-to-many Kommunikation, z.B. durch "demokratische Meeting" (jeder wird eingeladen), besagt [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]], dass monolithische, hoch verknüpfte, verschränkte, abhängige Systeme entstehen müssen, welche nicht fast flow unterstützen, denn es benötigt viel Kommunikation die Veränderungen zu entscheiden und umzusetzen.
 > [!NOTE] Überlegung
 > Ein Hinweis für eine solche Policy könnte sein, wenn mehrere Chats existieren, worin eine hohe Überschneidung der Teilnehmer existiert, denn "jeder soll die Nachrichten sehen".
 
 
-Auf der einen Seite schränkt [[3 Resources/Führungsrolle/Architecture for flow/Gesetz von Conway\|Conways law]] die Anzahl der Möglichkeiten der Architekturentwürfe aufgrund der Organigramms ein. Auf der anderen, besagt es auch aus, dass die Geschwindigkeit der Softwareauslieferung stark davon abhängt, wie viele Teams voneinander durch das Organigramm abhängig sind.
+Auf der einen Seite schränkt [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways law]] die Anzahl der Möglichkeiten der Architekturentwürfe aufgrund der Organigramms ein. Auf der anderen, besagt es auch aus, dass die Geschwindigkeit der Softwareauslieferung stark davon abhängt, wie viele Teams voneinander durch das Organigramm abhängig sind.
 Fast Flow benötigt also eine Beschränkung der Kommunikation zwischen Teams. Kooperation und Kommunikation sind in Graubereichen gut, in der man Erforschen möchte und viel Expertise benötigt wird. Geht es aber um die Entwicklung und tägliche Arbeit, ist die Kommunikation ein unnötiger Mehraufwand.
-Durch die Erkenntnis der Isomorphie zwischen Teamentwurf und Softwarearchitektur durch [[3 Resources/Führungsrolle/Architecture for flow/Gesetz von Conway\|Conways Law]], kann man zwischen diesen beiden Gedankenwelten wandern und so neue Erkenntnisse für die andere erhalten, welche sich in der anderen Sicht womöglich schwieriger zu entdecken gewesen wäre.
+Durch die Erkenntnis der Isomorphie zwischen Teamentwurf und Softwarearchitektur durch [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]], kann man zwischen diesen beiden Gedankenwelten wandern und so neue Erkenntnisse für die andere erhalten, welche sich in der anderen Sicht womöglich schwieriger zu entdecken gewesen wäre.
