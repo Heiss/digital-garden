@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung/","created":"2024-04-28T15:51:42.550+02:00","updated":"2024-04-28T17:20:17.025+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung/","created":"2024-04-28T15:51:42.550+02:00","updated":"2024-04-28T21:46:24.061+02:00"}
 ---
 
 
@@ -8,6 +8,7 @@ Ein Team, welches überlastet ist, wird nicht effektiv und schnell Systeme ände
 Wenn niemals in einem entsprechenden [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kaizen\|Kaizen]] die [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/technische Schulden\|technischen Schulden]] abgegolten werden, so wird die Komplexität und die immer größer werden Codebasis des Systems die kognitiven Limitierungen des Teams erreichen. Diese dehnen sich auch auf ausführende Teams aus, da immer mehr Anforderungen durch das System an sie gestellt werden (z.B. Ops, Infrastruktur etc.).
 Ein Team-first Ansatz kann diese Problematik angehen, denn die Verantwortlichkeiten der Teams entspricht ihrer kognitiven Belastung. Das bedeutet zu aller erst, die Belastung wird limitiert, was wiederum eine Limitierung der zu bearbeitenden Systeme bedeutet. Deshalb darf die Organisation es nicht erlauben, dass Subsysteme diese Limitierung sprengen.
 Durch verschiedene Maßnahmen, kann die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Kognitive Belastung limitieren\|kognitive Belastung limitiert]] werden.
+Z.B. mit gut definierten [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team-API\|Team-API]]s , welche u.a. die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Software Ownership\|Software Ownership]] klar regelt, wird dies auch noch weiter unterstützt. Auch die Anpassung der [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Environment & Workspace\|Arbeitsumgebung]] hilft bei den Anstrengungen.
 
 # Kognitive Belastung
 
