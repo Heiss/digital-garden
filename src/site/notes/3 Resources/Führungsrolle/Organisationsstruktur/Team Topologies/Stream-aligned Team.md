@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/stream-aligned-team/","created":"2024-04-28T15:19:49.377+02:00","updated":"2024-04-28T16:58:39.345+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/stream-aligned-team/","created":"2024-04-28T15:19:49.377+02:00","updated":"2024-04-28T17:30:39.768+02:00"}
 ---
 
 
-Ein SAT ist ein Team, welches einem einzigen, werterzeugenden Stream entlang arbeitet. Das kann von einem Produkt oder Dienst, einer Menge von Features eines Systems, einer User Journey oder einer einzigen Persona reichen.
+Ein SAT ist ein Team, welches einem einzigen, werterzeugenden [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Value-Stream\|Stream]] entlang arbeitet. Das kann von einem Produkt oder Dienst, einer Menge von Features eines Systems, einer User Journey oder einer einzigen Persona reichen.
 Das Team ist befähigt, die Arbeit von vorne bis hinten (entlang des Arbeitsflusses) vollständig intern zu bewältigen.
 Es ist der zentrale Teamtyp innerhalb einer Organisation um die sich alles dreht.
 
