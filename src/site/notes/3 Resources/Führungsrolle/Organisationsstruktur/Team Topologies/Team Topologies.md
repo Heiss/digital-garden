@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T21:34:23.165+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T21:35:26.703+02:00"}
 ---
 
 
@@ -17,7 +17,7 @@ Zusammen mit gut gesetzten Systemgrenzen und Teaminteraktionen, sind die folgend
 
 ![Pasted image 20240423080532.jpg](/img/user/4%20Archive/Assets/Pasted%20image%2020240423080532.jpg)
 
-Sie sollten als eine Art Magnet für die Teams funktionieren, die Teams sollten also danach streben, eine der 4 Typen zu entsprechen. Dies reduziert die Ambiguität in der Organisation und erleichtert somit auch die Kommunikation. Als Startpunkt fungiert das [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|Stream-aligned Team]] und nur wenn wirklich nötig bis zu 2 complicated subsystem Teams.
+Sie sollten als eine Art Magnet für die Teams funktionieren. Die Teams sollten also danach streben, eine der 4 Typen zu entsprechen. Dies reduziert die Ambiguität in der Organisation und erleichtert somit auch die Kommunikation. Als Startpunkt fungiert das [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|Stream-aligned Team]] und nur wenn wirklich nötig bis zu 2 complicated subsystem Teams.
 
 > [!NOTE] Wo sind die Ops und Support Teams?
 > Es gibt keine. Die Teams der 4 Typen sind cross-funktional und leben genau so lange, wie ihre erstellten Systeme. Es gibt keine Handover zu einem separaten Team. Sogar die SRE (Site Reliability Engineering) Teams, welche die Stabilität der Systeme erhöhen sollen, sind in den Typen enthalten. Die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|Stream-aligned Teams]] folgen der guten Auslieferungspraxis (CI/CD) und sind so für den Betrieb verantwortlich.
