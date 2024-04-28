@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/interaktionsmodi/","created":"2024-04-28T15:27:23.449+02:00","updated":"2024-04-28T16:47:18.289+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/interaktionsmodi/","created":"2024-04-28T15:27:23.449+02:00","updated":"2024-04-28T16:54:07.725+02:00"}
 ---
 
 
@@ -16,7 +16,7 @@ Das Verwenden der Modi sollte ein Verhalten sein, dass das gesamte Team bewusst 
 Ein Team sollte sich selbst Fragen: "Welche Art der Interaktion sollten wir mit dem anderen Team haben? Sollten wir eng zusammenarbeiten mit dem anderen Team? Sollten wir einen Service erwarten oder anbieten? Oder sollten wir Hilfe von ihnen einfordern oder ihnen anbieten?"
 
 >[!NOTE]
->A key part of the Team Topologies approach is in the choice between two teams [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Collaboration\|Collaboration]] and one team consuming something "as a service" from another team.
+>A key part of the [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]] approach is in the choice between two teams [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Collaboration\|Collaboration]] and one team consuming something "as a service" from another team.
 
 
 > [!TIP] Promise theory as a way to design systems for team interaction.
@@ -24,7 +24,7 @@ Ein Team sollte sich selbst Fragen: "Welche Art der Interaktion sollten wir mit 
 
 # Die richtige Interaktion auswählen
 
-Einige Teamarten können leichter mit einigen Modi umgehen als andere, weil es deren Natur eher entspricht. Die folgende Tabelle zeigt die Häufigkeit der Zuweisungen der Modi zu den Arten.
+Einige [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Teamarten]] können leichter mit einigen Modi umgehen als andere, weil es deren Natur eher entspricht. Die folgende Tabelle zeigt die Häufigkeit der Zuweisungen der Modi zu den Arten.
 
 |     | Collaboration | X-as-a-Service | Facilitating |
 | --- | ------------- | -------------- | ------------ |
