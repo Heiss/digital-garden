@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T17:30:45.540+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T21:34:23.165+02:00"}
 ---
 
 
@@ -10,7 +10,7 @@ Kleine und simple Systeme sind ein wertvolles Ziel, [Lehman's laws of software e
 
 Die Team Topologies versucht [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]] Rechnung zu tragen und durch eigenständig, unabhängigen Teams Systeme zu entwickeln, welche für einen schnellen Veränderungsfluss ausgelegt sind.
 
-Das Konzept der Team Topologies besteht aus 4 Teamtypen und 3 [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Interaktionsmodi]].
+Das Konzept der Team Topologies besteht aus 4 [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Teamtypen]] und 3 [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Interaktionsmodi]].
 ![Pasted image 20240416191308.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240416191308.png)
 
 Zusammen mit gut gesetzten Systemgrenzen und Teaminteraktionen, sind die folgenden 4 Teamarten alles, was man benötigt, um eine effektive [[3 Resources/Führungsrolle/Organisationsstruktur/Organisationsstruktur\|Organisationsstruktur]] für den Flow zu erstellen: [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Enabling Team\|ET]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Complicated Subsystem Team\|CST]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Platform Team\|PT]].
