@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/p-distributed-adt-types-in-rust/distributed-adt-projektbeschreibung/","created":"2024-04-14T17:32:38.121+02:00","updated":"2024-04-14T17:37:26.099+02:00"}
+{"dg-publish":true,"permalink":"/1-projects/p-distributed-adt-types-in-rust/distributed-adt-projektbeschreibung/","created":"2024-04-14T17:32:38.121+02:00","updated":"2024-04-27T20:17:08.084+02:00"}
 ---
 
 
