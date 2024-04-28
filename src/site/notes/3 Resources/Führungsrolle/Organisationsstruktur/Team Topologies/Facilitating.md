@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/facilitating/","created":"2024-04-28T15:25:48.744+02:00","updated":"2024-04-28T16:47:18.284+02:00"}
+---
+
+
+Dies ist vorallem dann sinnvoll, wenn ein Problem dadurch effizient gelöst werden kann, wenn ein anderes Team ihr wissen durch Coaching oder durch aktive Hilfe weitergibt. Daher ist es auch der Hauptmodus eines ET.
+
+| Vorteile                                                                               | Nachteile                                                                                |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Löst Blockaden bei SATs, um ihren Fluss zu verbessern                                  | Benötigt erfahrenes Lehrpersonal, welches die Dinge "nicht baut" oder "nicht ausführt"   |
+| Legt Lücken und falsch ausgerichtete Befähigungen in Komponenten und Plattformen offen | Dieses Interaktionsmuster könnte ungewöhnlich oder fremd für ein oder beide Teams wirken |
+
+# Einschränkung
+
+Ein Team sollte stets nur mit wenigen anderen Teams helfend interagieren müssen, egal sie Hilfe erhalten oder anbieten.
+
+# Typische Nutzung
+
+- ET hilft SAT, CST oder PT
+- CST, CST, PT helfen SAT
+
+# Verhalten der Teams
+
+Die interagierenden Teams sollten Hilfe erwarten und bereitstellen, wo gebraucht. Sie brauchen einen offenen Geist, um neue Ansätze auszuprobieren.
+
+> [!TIP] How to train for Facilitating
+> Some training or coaching in how to facilitate or how to be helped by another team can be valuable for teams interacting using facilitating modes.
