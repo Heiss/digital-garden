@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-api/","created":"2024-04-28T15:50:02.165+02:00","updated":"2024-04-28T16:47:18.327+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-api/","created":"2024-04-28T15:50:02.165+02:00","updated":"2024-04-28T16:58:46.591+02:00"}
 ---
+
 
 Nachdem das Team und dessen fundamentale Bedeutung für das Erfüllen dargestellt wurde, kann nun über gut definierte Teaminteraktionen gesprochen werden, welche kohärente und dynamische Netzwerke zwischen klar kommunizierenden Teams ermöglichen.
 
