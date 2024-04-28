@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T21:36:17.401+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T21:37:18.987+02:00"}
 ---
 
 
@@ -13,7 +13,7 @@ Die Team Topologies versucht [[3 Resources/Führungsrolle/Organisationsstruktur/
 Das Konzept der Team Topologies besteht aus 4 [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Teamtypen]] und 3 [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Interaktionsmodi]].
 ![Pasted image 20240416191308.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240416191308.png)
 
-Zusammen mit gut gesetzten Systemgrenzen und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Teaminteraktion]], sind die folgenden 4 [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Teamarten]] alles, was man benötigt, um eine effektive [[3 Resources/Führungsrolle/Organisationsstruktur/Organisationsstruktur\|Organisationsstruktur]] für den Flow zu erstellen: [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Enabling Team\|ET]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Complicated Subsystem Team\|CST]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Platform Team\|PT]].
+Zusammen mit gut gesetzten Systemgrenzen und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Teaminteraktion]], sind die folgenden 4 [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Teamarten]] alles, was man benötigt, um eine effektive Organisationsstruktur für den Flow zu erstellen: [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Enabling Team\|ET]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Complicated Subsystem Team\|CST]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Platform Team\|PT]].
 
 ![Pasted image 20240423080532.jpg](/img/user/4%20Archive/Assets/Pasted%20image%2020240423080532.jpg)
 
