@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/x-as-a-service/","created":"2024-04-28T15:25:20.811+02:00","updated":"2024-04-28T16:47:24.440+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/x-as-a-service/","created":"2024-04-28T15:25:20.811+02:00","updated":"2024-04-28T16:59:41.813+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Das bedeutet, dass das zur Verfügung stellende Team eine hohe Servicedienstleis
 | Vorteile                                                                                                       | Nachteile                                                          |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | Klare Ownership und Verantwortlichkeiten                                                                       | Langsamere Innovation in der Domäne oder API, durch Abhängigkeiten |
-| Reduziertes Bedürfnis von Details / Kontext benötigt zwischen den Teams, die kognitive Belastung ist limitiert | Behinderungsgefahr, falls Grenzen oder API nicht effektiv.         |
+| Reduziertes Bedürfnis von Details / Kontext benötigt zwischen den Teams, die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Kognitive Belastung\|kognitive Belastung]] ist limitiert | Behinderungsgefahr, falls Grenzen oder API nicht effektiv.         |
 
 # Einschränkung
 
@@ -17,8 +17,8 @@ Ein Team sollte erwarten, dass es mit vielen anderen Teams gleichzeitig interagi
 
 # Typische Nutzung
 
-- SAT und CST verwenden Dienst eines PT
-- SAT und CST verwenden Dienst eines CST
+- [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Complicated Subsystem Team\|CST]] verwenden Dienst eines [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Platform Team\|PT]]
+- [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Complicated Subsystem Team\|CST]] verwenden Dienst eines [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Complicated Subsystem Team\|CST]]
 
 # Verhalten der Teams
 
