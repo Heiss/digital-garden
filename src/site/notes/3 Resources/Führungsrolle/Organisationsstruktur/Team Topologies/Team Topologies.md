@@ -8,7 +8,7 @@ Kleine und simple Systeme sind ein wertvolles Ziel, [Lehman's laws of software e
 > [!NOTE] Buchempfehlung
 > Das hier vorgestellte Konzept [Team Topologies](teamtopologies.com) stammt aus dem zugehörigen Buch von Matthew Skelton und Manuel Pais. Die hier verwendeten Bildern stammen ebenfalls aus dem Buch.
 
-Die Team Topologies versucht [[3 Resources/Führungsrolle/Architecture for flow/Gesetz von Conway\|Conways Law]] Rechnung zu tragen und durch eigenständig, unabhängigen Teams Systeme zu entwickeln, welche für einen schnellen Veränderungsfluss ausgelegt sind.
+Die Team Topologies versucht [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]] Rechnung zu tragen und durch eigenständig, unabhängigen Teams Systeme zu entwickeln, welche für einen schnellen Veränderungsfluss ausgelegt sind.
 
 Das Konzept der Team Topologies besteht aus 4 Teamtypen und 3 [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Interaktionsmodi]].
 ![Pasted image 20240416191308.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240416191308.png)
@@ -24,7 +24,7 @@ Sie sollten als eine Art Magnet für die Teams funktionieren, die Teams sollten 
 
 # Wozu Team Topologies?
 
-Die unten genannten Organisationsproblemen stammen daraus, dass man [[3 Resources/Führungsrolle/Architecture for flow/Gesetz von Conway\|Conways Law]] ignoriert hat beim Entwurf der Teamstrukturen. Verfolgt man einen Team-first Ansatz mit klaren Aufträgen und der Förderung von wichtigen Interaktionsmuster, welche den Arbeitsfluss und strategische Anpassungsfähigkeit priorisieren, die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Kognitive Belastung\|kognitive Belastung]] bewusst limitieren und [[3 Resources/Führungsrolle/Architecture for flow/Gesetz von Conway\|Conways Law]] bei der Erstellung von Softwarearchitekturen berücksichtigen, kann man diese Probleme lösen und eine Teamstruktur als Schlüsselunterscheider für den zukünftigen Erfolg aufbauen.
+Die unten genannten Organisationsproblemen stammen daraus, dass man [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]] ignoriert hat beim Entwurf der Teamstrukturen. Verfolgt man einen Team-first Ansatz mit klaren Aufträgen und der Förderung von wichtigen Interaktionsmuster, welche den Arbeitsfluss und strategische Anpassungsfähigkeit priorisieren, die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Kognitive Belastung\|kognitive Belastung]] bewusst limitieren und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]] bei der Erstellung von Softwarearchitekturen berücksichtigen, kann man diese Probleme lösen und eine Teamstruktur als Schlüsselunterscheider für den zukünftigen Erfolg aufbauen.
 Es ist das Ziel der Team Topologies, die Organisation zu befähigen, anpassungsfähig aufzustellen und dynamisch den richtigen Ort und Zeit zu finden, wann [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Collaboration\|Kollaboration]] benötigt wird im Arbeitsfluss und wann es besser ist, sich zu fokussieren und den Kommunikationsüberschuss zu reduzieren. 
 
 ## Probleme mit Organisationsdiagrammen
