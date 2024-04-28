@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/gesetz-von-conway/","tags":["revisitMe"],"created":"2024-04-19T07:45:03.668+02:00","updated":"2024-04-28T17:14:15.485+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/gesetz-von-conway/","created":"2024-04-19T07:45:03.668+02:00","updated":"2024-04-28T17:29:14.305+02:00"}
 ---
 
 
