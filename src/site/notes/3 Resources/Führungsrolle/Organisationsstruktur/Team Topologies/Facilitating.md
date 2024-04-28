@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/facilitating/","created":"2024-04-28T15:25:48.744+02:00","updated":"2024-04-28T16:47:18.284+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/facilitating/","created":"2024-04-28T15:25:48.744+02:00","updated":"2024-04-28T16:53:41.712+02:00"}
 ---
 
 
-Dies ist vorallem dann sinnvoll, wenn ein Problem dadurch effizient gelöst werden kann, wenn ein anderes Team ihr wissen durch Coaching oder durch aktive Hilfe weitergibt. Daher ist es auch der Hauptmodus eines ET.
+Dies ist vorallem dann sinnvoll, wenn ein Problem dadurch effizient gelöst werden kann, wenn ein anderes Team ihr wissen durch Coaching oder durch aktive Hilfe weitergibt. Daher ist es auch der Hauptmodus eines [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Enabling Team\|ET]].
 
 | Vorteile                                                                               | Nachteile                                                                                |
 | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -16,8 +16,8 @@ Ein Team sollte stets nur mit wenigen anderen Teams helfend interagieren müssen
 
 # Typische Nutzung
 
-- ET hilft SAT, CST oder PT
-- CST, CST, PT helfen SAT
+- [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Enabling Team\|ET]] hilft [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Complicated Subsystem Team\|CST]] oder [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Platform Team\|PT]]
+- [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Complicated Subsystem Team\|CST]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Complicated Subsystem Team\|CST]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Platform Team\|PT]] helfen [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]]
 
 # Verhalten der Teams
 
