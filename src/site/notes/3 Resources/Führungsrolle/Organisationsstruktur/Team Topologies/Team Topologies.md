@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T21:38:58.912+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T21:40:58.877+02:00"}
 ---
 
 
@@ -29,7 +29,7 @@ Es ist das Ziel der Team Topologies, die Organisation zu befähigen, anpassungsf
 
 ## Probleme mit Organisationsdiagrammen
 
-Viele Organisationen strukturieren ihre Angestellten und Teams so, dass sie kontraproduktiv zur modernen Softwareentwicklung sind. Sie setzen zu sehr auf die Diagramme und Matrizen, um Arbeit aufzuteilen und zu kontrollieren und scheitern damit die notwendigen Bedingungen aufzubauen, um Innovation zu fördern und dennoch schnell Änderungen auszuliefern.
+Viele Organisationen strukturieren ihre Angestellten und Teams so, dass sie kontraproduktiv zur modernen Softwareentwicklung sind. Der [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Einfluss von Organisationsentwürfe auf Softwarearchitektur\|Einfluss von Organisationsentwürfe auf Softwarearchitektur]] ist zu beachten. Sie setzen zu sehr auf die Diagramme und Matrizen, um Arbeit aufzuteilen und zu kontrollieren und scheitern damit die notwendigen Bedingungen aufzubauen, um Innovation zu fördern und dennoch schnell Änderungen auszuliefern.
 Um in der heutigen Zeit zu bestehen, brauchen Organisation stabile, effektive Teammuster und -interaktionen. Sie müssen in selbstständige, eigenverantwortliche, fähige Teams als Grundlage für Agilität und Anpassungsfähigkeit investieren.
 Es muss aufgehört werden, die Menschen in Teams als auswechselbare Individuen zu sehen, welche nur dem "richtigen" Prozess folgen und das "richtige" Tool einsetzen müssen, um erfolgreich zu sein. Um Menschen intrinsisch zu motivieren und ihnen eine realistische Chance zu geben, ihre beste Arbeit zu leisten, müssen wir die Menschen und Technologie als eine einzige Mensch-Computer- / Kohlenstoff-Silizium soziotechnisches Ökosystem verstehen.
 Team Topologies ist ein adaptives Modell für Technologie-Organisationen, welche ein Design für das Business erlaubt, um Geschwindigkeit und Stabilität zu erreichen.
