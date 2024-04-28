@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/stream-aligned-team/","created":"2024-04-28T15:19:49.377+02:00","updated":"2024-04-28T16:47:18.325+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/stream-aligned-team/","created":"2024-04-28T15:19:49.377+02:00","updated":"2024-04-28T16:58:39.345+02:00"}
 ---
 
 
@@ -38,6 +38,6 @@ Ein SAT strebt folgende Dinge an:
 - idealerweise keine Hand-Offs zu anderen Teams / Personen
 - wird evaluiert an ihrem produzierten, nachhaltigen Änderungsstrom, zusammen mit unterstützenden technischen und mental-health Metriken
 - bekommt und nimmt sich die Zeit und den Raum, um Code Qualität hochzuhalten, die [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/technische Schulden\|technischen Schulden]] niedrig, um den Code sicher und zukünftige schnelle Änderungen möglich zu halten
-- ist sich den Interaktionsmodi zu anderen Teams bewusst und nutzt diese proaktiv und regelmäßig
+- ist sich den [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Interaktionsmodi]] zu anderen Teams bewusst und nutzt diese proaktiv und regelmäßig
 - jedes Mitglied des Teams fühlt die 3 Schlüsselkomponenten eines Wissensarbeiters
 	- Autonomie, Beherrschung und Sinnhaftigkeit (Daniel Pink)
