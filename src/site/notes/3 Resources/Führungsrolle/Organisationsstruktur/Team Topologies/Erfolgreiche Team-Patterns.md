@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/erfolgreiche-team-patterns/","created":"2024-04-28T16:20:06.002+02:00","updated":"2024-04-28T16:47:51.113+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/erfolgreiche-team-patterns/","created":"2024-04-28T16:20:06.002+02:00","updated":"2024-04-28T16:53:17.353+02:00"}
 ---
 
 
-Bereits vor den Team Topologies gab es erfolgreiche Entwürfe für Teams. Hier werden einige vorgestellt.
+Bereits vor den [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]] gab es erfolgreiche Entwürfe für Teams. Hier werden einige vorgestellt.
 
 Feature-Teams sind cross-funktionale Teams, welche ein gesamtes Features, kundenzentriert und ganzheitlich konstant ausliefert. Ihr Deployment muss also nicht synchronisiert werden und können so schneller auf Erkenntnisse, z.B. durch Nutzungs- und Performancemetriken, reagieren.
 
-Dafür benötigt es ein hohes Maß an Erfahrung und Teamreife, sodass sie auch der "Boy-Scout Regel" folgen können, da sie mehrere Codebasen und verschiedene Techniken anfassen müssen, um das neue Feature zu erschaffen. Sie müssen dafür Sorge tragen, dass die technischen Schulden nicht zu hoch werden. Sind zusätzlich die Besitzrechte (Ownership) der Codes nicht eindeutig geklärt, so wird der Code degenerieren und das Vertrauen zwischen den Teams und in den Teams selbst wird durch die Fehlschläge zerrieben.
+Dafür benötigt es ein hohes Maß an Erfahrung und Teamreife, sodass sie auch der "Boy-Scout Regel" folgen können, da sie mehrere Codebasen und verschiedene Techniken anfassen müssen, um das neue Feature zu erschaffen. Sie müssen dafür Sorge tragen, dass die [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/technische Schulden\|technischen Schulden]] nicht zu hoch werden. Sind zusätzlich die Besitzrechte (Ownership) der Codes nicht eindeutig geklärt, so wird der Code degenerieren und das Vertrauen zwischen den Teams und in den Teams selbst wird durch die Fehlschläge zerrieben.
 
 > [!NOTE] Boy-Scout Regel
 > Hinterlasse den Code besser als Du ihn vorgefunden hast.
