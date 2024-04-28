@@ -1,27 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T16:47:18.325+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-04-28T16:51:03.487+02:00"}
 ---
 
 
 Kleine und simple Systeme sind ein wertvolles Ziel, [Lehman's laws of software evolution](https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution)  zeigt uns aber, dass dies nicht für erfolgreiche Systeme gilt, denn der Druck neue Funktionen einzubauen und sich neuen Anforderungen anzupassen, wird dieses System automatisch degenerieren.
-Die Team Topologies versucht Conways Law Rechnung zu tragen und durch eigenständig, unabhängigen Teams Systeme zu entwickeln, welche für einen schnellen Veränderungsfluss ausgelegt sind.
+Die Team Topologies versucht [[3 Resources/Führungsrolle/Architecture for flow/Gesetz von Conway\|Conways Law]] Rechnung zu tragen und durch eigenständig, unabhängigen Teams Systeme zu entwickeln, welche für einen schnellen Veränderungsfluss ausgelegt sind.
 
 Das Konzept der Team Topologies besteht aus 4 Teamtypen und 3 [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Interaktionsmodi]].
 ![Pasted image 20240416191308.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240416191308.png)
 
-Zusammen mit gut gesetzten Systemgrenzen und Teaminteraktionen, sind die folgenden 4 Teamarten alles, was man benötigt, um eine effektive Organisationsstruktur für den Flow zu erstellen: [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Enabling Team\|ET]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Complicated Subsystem Team\|CST]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Platform Team\|PT]].
+Zusammen mit gut gesetzten Systemgrenzen und Teaminteraktionen, sind die folgenden 4 Teamarten alles, was man benötigt, um eine effektive [[3 Resources/Führungsrolle/Organisationsstruktur/Organisationsstruktur\|Organisationsstruktur]] für den Flow zu erstellen: [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Enabling Team\|ET]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Complicated Subsystem Team\|CST]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Platform Team\|PT]].
 
 ![Pasted image 20240423080532.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240423080532.png)
 
-Sie sollten als eine Art Magnet für die Teams funktionieren, die Teams sollten also danach streben, eine der 4 Typen zu entsprechen. Dies reduziert die Ambiguität in der Organisation und erleichtert somit auch die Kommunikation. Als Startpunkt fungiert das Stream-aligned Team und nur wenn wirklich nötig bis zu 2 complicated subsystem Teams.
+Sie sollten als eine Art Magnet für die Teams funktionieren, die Teams sollten also danach streben, eine der 4 Typen zu entsprechen. Dies reduziert die Ambiguität in der Organisation und erleichtert somit auch die Kommunikation. Als Startpunkt fungiert das [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|Stream-aligned Team]] und nur wenn wirklich nötig bis zu 2 complicated subsystem Teams.
 
 > [!NOTE] Wo sind die Ops und Support Teams?
 > Es gibt keine. Die Teams der 4 Typen sind cross-funktional und leben genau so lange, wie ihre erstellten Systeme. Es gibt keine Handover zu einem separaten Team. Sogar die SRE (Site Reliability Engineering) Teams, welche die Stabilität der Systeme erhöhen sollen, sind in den Typen enthalten. Die Stream-aligned Teams folgen der guten Auslieferungspraxis (CI/CD) und sind so für den Betrieb verantwortlich.
 
 # Wozu Team Topologies?
 
-Die unten genannten Organisationsproblemen stammen daraus, dass man Conways Law ignoriert hat beim Entwurf der Teamstrukturen. Verfolgt man einen Team-first Ansatz mit klaren Aufträgen und der Förderung von wichtigen Interaktionsmuster, welche den Arbeitsfluss und strategische Anpassungsfähigkeit priorisieren, die kognitive Belastung bewusst limitieren und Conways Law bei der Erstellung von Softwarearchitekturen berücksichtigen, kann man diese Probleme lösen und eine Teamstruktur als Schlüsselunterscheider für den zukünftigen Erfolg aufbauen.
-Es ist das Ziel der Team Topologies, die Organisation zu befähigen, anpassungsfähig aufzustellen und dynamisch den richtigen Ort und Zeit zu finden, wann Kollaboration benötigt wird im Arbeitsfluss und wann es besser ist, sich zu fokussieren und den Kommunikationsüberschuss zu reduzieren. 
+Die unten genannten Organisationsproblemen stammen daraus, dass man [[3 Resources/Führungsrolle/Architecture for flow/Gesetz von Conway\|Conways Law]] ignoriert hat beim Entwurf der Teamstrukturen. Verfolgt man einen Team-first Ansatz mit klaren Aufträgen und der Förderung von wichtigen Interaktionsmuster, welche den Arbeitsfluss und strategische Anpassungsfähigkeit priorisieren, die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Kognitive Belastung\|kognitive Belastung]] bewusst limitieren und [[3 Resources/Führungsrolle/Architecture for flow/Gesetz von Conway\|Conways Law]] bei der Erstellung von Softwarearchitekturen berücksichtigen, kann man diese Probleme lösen und eine Teamstruktur als Schlüsselunterscheider für den zukünftigen Erfolg aufbauen.
+Es ist das Ziel der Team Topologies, die Organisation zu befähigen, anpassungsfähig aufzustellen und dynamisch den richtigen Ort und Zeit zu finden, wann [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Collaboration\|Kollaboration]] benötigt wird im Arbeitsfluss und wann es besser ist, sich zu fokussieren und den Kommunikationsüberschuss zu reduzieren. 
 
 ## Probleme mit Organisationsdiagrammen
 
