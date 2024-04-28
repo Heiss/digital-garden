@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-first-mindset/","created":"2024-04-28T15:50:37.464+02:00","updated":"2024-04-28T16:47:18.353+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-first-mindset/","created":"2024-04-28T15:50:37.464+02:00","updated":"2024-04-28T16:58:59.557+02:00"}
 ---
+
 
 Auf Individuen zu setzen, um die Menge und Komplexität von Informationen in komplexen Systemen zu bewältigen, ist nicht nachhaltig. Bei Google fand man heraus: Es kommt für die Performance nicht darauf an, wer in einem Team ist, sondern wie die Dynamik im Team ist.
 
@@ -9,7 +10,7 @@ Mit Team wird in diesem Buch eine stabile Gruppe von 5 bis 9 Personen gemeint, w
 Die Größe eines Teams wird abgeleitet von Dunbars Number. Robert Dunbar fand heraus, dass man maximal 15 Personen wirklich vertraut. Von diesen kann man lediglich 5 sehr gut kennen und tief vertrauen. Um dieses Vertrauen zu erreichen, wird die Teamgröße limitiert.
 Wenn man schnell ausliefern und Software verändern möchte, so ist dieses Vertrauen notwendig, um sich zu trauen an innovativen Ideen zu experimentieren. 
 
-Aufgrund dieser Gedanken sollte auch die Softwarearchitektur so gestaltet werden, dass die nötige Interaktion durch Dunbars Number [Team Topologies: Teamgrößen – Dunbars Number – Mayflower Blog](https://blog.mayflower.de/13543-team-topologies-dunbars-number.html) gestützt wird und diese nicht überschreiten.
+Aufgrund dieser Gedanken sollte auch die Softwarearchitektur so gestaltet werden, dass die nötige Interaktion durch Dunbars Number [[[Team Topologies\|[Team Topologies]]: Teamgrößen – Dunbars Number – Mayflower Blog](https://blog.mayflower.de/13543-team-topologies-dunbars-number.html) gestützt wird und diese nicht überschreiten.
 Ein Team braucht Zeit, um dieses Vertrauen aufzubauen und damit effektiv zu werden. Dies kann von 2 Wochen bis 3 Monaten dauern oder noch länger, um eine kohärente Einheit zu bilden.
 ![Pasted image 20240420185321.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240420185321.png)
 Eine Person zwischen 2 Teams zu wechseln, wird nur einen kleinen Mehrwert bringen, wenn nicht sogar die Performance beider Teams reduzieren. Wenn ein Projekt nur 6 Monate Laufzeit hat und sich ein Team 6 Monate finden muss, um effektiv zu arbeiten, ist kaum Mehrwert in der Veränderung enthalten.
