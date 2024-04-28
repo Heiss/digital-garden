@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung-limitieren/","created":"2024-04-28T15:53:03.091+02:00","updated":"2024-04-28T16:56:02.209+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung-limitieren/","created":"2024-04-28T15:53:03.091+02:00","updated":"2024-04-28T21:45:07.049+02:00"}
 ---
 
 
@@ -26,7 +26,7 @@ Weitere Möglichkeiten die [[3 Resources/Führungsrolle/Organisationsstruktur/Te
 - Erhöhe die Qualität der Developer-Experience (DevEx) für andere Teams, welche deinen Teamcode verwenden und stelle gute Dokumentation für APIs bereit, erschaffe konsistente und gute User Experience und andere DevEx Praktiken
 - Setze auf eine Plattform, welche explizit zur Reduzierung der kognitiven Belastung konzipiert ist und baue Teamsoftware darauf auf
 
-Durch die Reduzierung der kognitiven Belastung und den team-first Ansatz bei der Bildung von Softwaregrenzen, wird das Team schneller ein gemeinsames mentales Modell entwickeln, welches nach Forschung ein guter Indikator für Teamperformance und weniger Fehlern ist.
-
 >[!NOTE] Tip
 >"Minimize cognitive load for others" is one of the most useful heuristics for good software development.
+
+Durch die Reduzierung der kognitiven Belastung und den [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team-First Mindset\|Team-First Mindset]] bei der Bildung von Softwaregrenzen, wird das Team schneller ein gemeinsames mentales Modell entwickeln, welches nach Forschung ein guter Indikator für Teamperformance und weniger Fehlern ist.
