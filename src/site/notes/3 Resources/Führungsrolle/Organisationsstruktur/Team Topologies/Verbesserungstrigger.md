@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/verbesserungstrigger/","created":"2024-04-28T15:41:05.507+02:00","updated":"2024-04-28T16:47:18.354+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/verbesserungstrigger/","created":"2024-04-28T15:41:05.507+02:00","updated":"2024-04-28T16:59:30.984+02:00"}
 ---
 
 
@@ -29,10 +29,10 @@ In einem langlebigen Team sollten Verbesserungen an ihrem Prozess auch direkt zu
 # Mehrere Businessdienste setzen auf eine große Anzahl darunterliegender Dienste
 
 Symptome:
-- ein SAT hat nur einen limitierten Blick auf den Ende-zu-Ende Fluss innerhalb ihres Dienstbereiches
+- ein [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]] hat nur einen limitierten Blick auf den Ende-zu-Ende Fluss innerhalb ihres Dienstbereiches
 - es wird schwieriger einen reibungslosen und schnelles Änderungsfluss aufrechtzuerhalten durch die Anzahl und dessen Komplexität der Integrationen von Subsystemen
 - Bestrebungen bestehende Dienste nachzunutzen wird immer aufwändiger und langwieriger.
 
-Zum Beispiel in hoch regulierten Bereichen wie das Finanzbusiness gibt es viele Dienste, welche darunterliegende APIs verwenden, um ihre Aufgaben zu erfüllen. Damit nicht jedes SAT mit jedem einzelnen Dienst interagieren muss, kann eine "innere Plattform" etabliert werden, um die DevEx hochzuhalten z.B. mit einer request-tracking correlation ID, Health checks, Servicelevel Objects, und APIs zur Diagnose. Vor allem Fehler in der Ausgabe eines Dienstes, welches bei einem anderen Dienst wiederverwendet werden soll, kann sonst zu einer langen und beschwerlichen Debug-Session führen.
+Zum Beispiel in hoch regulierten Bereichen wie das Finanzbusiness gibt es viele Dienste, welche darunterliegende APIs verwenden, um ihre Aufgaben zu erfüllen. Damit nicht jedes [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]] mit jedem einzelnen Dienst interagieren muss, kann eine "innere Plattform" etabliert werden, um die DevEx hochzuhalten z.B. mit einer request-tracking correlation ID, Health checks, Servicelevel Objects, und APIs zur Diagnose. Vor allem Fehler in der Ausgabe eines Dienstes, welches bei einem anderen Dienst wiederverwendet werden soll, kann sonst zu einer langen und beschwerlichen Debug-Session führen.
 
-Alternativ kann das SAT auch für die Telemetrie- und Diagnosefähigkeit eines unterliegenden Systems verantwortlich gemacht werden, sodass sie für ihren Dienst und die benötigen Dienste sämtliche Werkzeuge selbst entwerfen und ihren Fluss so wieder beschleunigen können.
+Alternativ kann das [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Stream-aligned Team\|SAT]] auch für die Telemetrie- und Diagnosefähigkeit eines unterliegenden Systems verantwortlich gemacht werden, sodass sie für ihren Dienst und die benötigen Dienste sämtliche Werkzeuge selbst entwerfen und ihren Fluss so wieder beschleunigen können.
