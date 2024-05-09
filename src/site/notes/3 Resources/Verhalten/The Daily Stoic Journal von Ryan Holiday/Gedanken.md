@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-04-28T08:41:27.535+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-08T09:07:58.947+02:00"}
 ---
 
 
@@ -232,7 +232,8 @@ Sei Dir sicher, dass das was Du sagst, auch Wert ist, gehört zu werden und das 
 Umstände und Situationen geben nichts auf deine Gefühle oder haben selbst welche. Deine Gefühle diesen gegenüber ändern nichts an diesen und Du kannst sie nicht verletzen. Sie sind keine Menschen. (Feb, 23th){ #dice-11mv}
 
 
-Du entscheidest, ob eine Situation bei Dir eine Emotion hervorruft (Wut, Trauer, etc.). Dieselbe Situation in einer anderen Lebenslage, kann verschiedene Reaktionen hervorrufen. Mit Zeit und Abstand denkst Du wahrscheinlich über die Situation anders: Warum also nicht jetzt schon sich dafür entscheiden und nicht darauf reagieren? (Feb, 24th)
+Du entscheidest, ob eine Situation bei Dir eine Emotion hervorruft (Wut, Trauer, etc.). Dieselbe Situation in einer anderen Lebenslage, kann verschiedene Reaktionen hervorrufen. Mit Zeit und Abstand denkst Du wahrscheinlich über die Situation anders: Warum also nicht jetzt schon sich dafür entscheiden und nicht darauf reagieren? (Feb, 24th){ #dice-9nyv}
+
 
 Du wirst vergessen werden, deine Taten sind Sandschlösser. Warum die kurze Zeit durch Wut, Trauer, Perfektionismus ruinieren, welche uns schlecht und klein fühlen lassen. (Feb, 25th){ #dice-n5gs}
 
@@ -481,7 +482,8 @@ Stoiker sind ein Ideal, nichts was man ist. Stoizismus ist eine Philosophie, wel
 
 So wie irgendwas angehst, gehst Du alles an. (How you do anything is how you do everything.) Sei aufmerksam demgegenüber, was gerade vor Dir liegt. (May, 18th)
 
-Bringe dein gelerntes zur regelmäßigen Anwendung. Nur das Training und die Übung lassen Dich auch in Krisenzeiten darauf zurückgreifen. Alles andere geht verloren. (May, 19th)
+Bringe dein gelerntes zur regelmäßigen Anwendung. Nur das Training und die Übung lassen Dich auch in Krisenzeiten darauf zurückgreifen. Alles andere geht verloren. (May, 19th){ #dice-54xy}
+
 
 Qualität über Quantität. Du wirst nicht alles wissen oder lernen können, aber das was Du lernst, solltest Du gut können und gut verstehen. (May, 20th){ #dice-2j4g}
 
@@ -688,3 +690,19 @@ Wie oft hast Du Dich in Probleme gebracht, weil Du vor Angst, Neid oder anderen 
 "An ounce of prevention is worth a pound of cure." Benjamin Franklin
 
 Philosophie ist kein Trick, nicht zum Spaß. Es soll und wird Dir helfen, Ordnung in dein Leben zu bringen und Situationen zu meistern, wie Du es möchtest. Lass Dich nicht verwirren, verwirre nicht andere. Die Welt ist voller Ablenkungen, die Philosophie wird Dich anleiten, diese zu ignorieren und deine Vernunft Dich leiten lassen. (August, 14th)
+
+Konsistenz ist die eigentliche Tugend, die man verfolgen sollte. Denn dies resultiert aus einer klaren, standfesten Urteilskraft. Die Personen, welche wegen ihrer Tugendhaft verehrt werden, sind die, welche zu Dir stehen, egal ob sie etwas dafür bekommen und ehrlich sind, egal ob es ihnen nützt. (August, 15th)
+
+Alles kann eine Stärke und Vorteil sein, auch wenn es zuerst nicht so scheint. Du musst nur die Situationen erkennen, in dem der Vorteil zum Nachteil wird und umgekehrt. Wenn andere denken, dass Du im Nachteil bist, kannst Du Stärke zeigen. (August, 16th)
+
+Mache niemanden sonst verantwortlich für deine Enttäuschung, denn nur Du kannst deine Erwartungen steuern. Suche den Grund dafür bei Dir. Ist jemand unfreundlich? Wenn Du nicht so sensibel reagieren würdest, wäre es nicht schlimm. Nur deine Haltung demgegenüber erzeugt erst den Groll. vielleicht hättest Du es nicht anders erwarten sollen? (August, 17th)
+
+Denke stark nach, bevor Du eine Wahl triffst. Nur wenn Du Kämpfe eingehst, die Du auch gewinnen kannst, wirst Du unbesiegbar sein. Warum Kämpfe eingehen, wo man nichts gewinnen kann oder nicht der Stärkste von vornherein ist? (August, 18th)
+
+Konzentriere Dich auf die Dinge, die sein müssen und Bedeutung haben. Alles andere lenkt ab und belastet. Bedeutungsvolle Dinge belasten nicht, denn sie sind am Ende eine Hilfe. (August, 19th)
+
+Die Änderung durch die Philosophie muss innen passieren und macht uns einzigartig. Aber von außen müssen wir immernoch kompatibel sein. Die große Änderung im Geist muss nicht außen sichtbar sein. (August, 20th)
+
+Mach Dir keine Sorgen im Voraus, dass etwas schlechtes geschehen *könnte*. Sei vorbereitet, wenn es dich betrifft, aber wenn es nicht eintritt, dann hast Du Zeit verschwendet. (August, 21th)
+
+Du gibst Dingen einen Wert und Bedeutung, indem Du Zeit darauf verlierst. Dinge, die gemacht werden müssen, aber wenig Bedeutung haben, sollten nur wenig Zeit erhalten. (August, 22th)
