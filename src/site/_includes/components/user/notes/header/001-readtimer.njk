@@ -1,9 +1,9 @@
 <script>
 const readspeed = 200;
-const minutes = Math.ceil($(".content").textContent.split(/\s+/).length / readspeed);
+const minutes = Math.ceil(document.getElementsByClassName("content")[0].textContent.split(/\s+/).length / readspeed);
 let element = document.createElement("div");
 element.innerHTML = '<i icon-name="book-open-text"></i> <span>' + minutes + ' min read </span>';
-$('.timestamps').append(element);
+document.getElementsByClassName("timestamps")[0].append(element);
 </script>
 
 <div class="header-readtime" />
