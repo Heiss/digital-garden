@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-08T09:07:58.947+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-16T21:06:07.557+02:00"}
 ---
 
 
@@ -363,7 +363,8 @@ Warum willst Du Menschen beeindrucken? Diese sind auch nur Menschen und von ihre
 Dein Geist färbt sich genau so, wie die Gedanken, mit denen Du ihn befüllst. Ein glücklicher Geist hat auch viele glückliche Gedanken. (Apr, 1st){ #dice-qmrj}
 
 
-Lass keine Dinge deinen Geist berühren, welche Dir nicht gut tun. Genau wie ungebetene Gäste, würdest Du diesen keinen Tee anbieten und zum Bleiben bitten. (Apr, 2nd)
+Lass keine Dinge deinen Geist berühren, welche Dir nicht gut tun. Genau wie ungebetene Gäste, würdest Du diesen keinen Tee anbieten und zum Bleiben bitten. (Apr, 2nd){ #dice-qp0r}
+
 
 Die Umstände täuschen uns. Wir wollen immer mehrere Dinge gleichzeitig, aber bleiben nie stehen und fragen uns, was wir wirklich möchten. Dies trennt uns von uns selbst. Ein gespaltener Geist kann die Inkonsistenz in sich selbst nicht wahrnehmen. (Apr, 3rd){ #dice-m7y2}
 
@@ -473,12 +474,14 @@ Exzellenz ist keine Tätigkeit oder Entscheidung, sondern eine Gewohnheit. Wenn 
 Binde dein Wohlbefinden nicht an Dingen, die Du nicht kontrollierst, z.B. die Rückmeldung von anderen. Sondern tue die Dinge, die richtig sind und mache sie aus vollster Überzeugung und mit dem besten, was Du kannst. Dann wirst Du stets glücklich sein, denn Du brauchst kein Applaus. (May, 14th){ #dice-b0f5}
 
 
-Beneide nicht die Dinge, die andere haben: Womöglich hast Du etwas, was sie möchten. Dieser Teufelskreis macht beide unglücklich. Wenn Du aber das wertschätzt, was Du bereits hast, aber nicht gehortet hast, dann wirst Du glücklich sein. Aber binde Dich nicht zu stark, sonst wirst Du kontrollierbar durch dessen Verlust. (May, 15th)
+Beneide nicht die Dinge, die andere haben: Womöglich hast Du etwas, was sie möchten. Dieser Teufelskreis macht beide unglücklich. Wenn Du aber das wertschätzt, was Du bereits hast, aber nicht gehortet hast, dann wirst Du glücklich sein. Aber binde Dich nicht zu stark, sonst wirst Du kontrollierbar durch dessen Verlust. (May, 15th){ #dice-8e1b}
+
 
 Unterbrich die Kette nicht! Wenn Du neue Gewohnheiten Dir aneignen / alte ablegen möchtest, dann nutze die Kraft der Kette. Markiere Dir in einem Kalender, wann Du deine gewünschte Gewohnheit eingehalten / das ungewünschte nicht gezeigt hast. Schon 2 Tage sind eine Kette. Deine Aufgabe ist es, diese Kette aufrecht zu erhalten. (May, 16th){ #dice-czse}
 
 
-Stoiker sind ein Ideal, nichts was man ist. Stoizismus ist eine Philosophie, welche angewendet wird, nicht inspiriert. Es hat kein Ende, denn niemand kann in jeder Situation perfekt stoisch leben. Aber alleine der Versuch ist es wert. (May, 17th)
+Stoiker sind ein Ideal, nichts was man ist. Stoizismus ist eine Philosophie, welche angewendet wird, nicht inspiriert. Es hat kein Ende, denn niemand kann in jeder Situation perfekt stoisch leben. Aber alleine der Versuch ist es wert. (May, 17th){ #dice-nouf}
+
 
 So wie irgendwas angehst, gehst Du alles an. (How you do anything is how you do everything.) Sei aufmerksam demgegenüber, was gerade vor Dir liegt. (May, 18th)
 
@@ -498,13 +501,15 @@ Ein Leben wird nicht danach bewertet, wie lang es war, sondern wie es gelebt wur
 
 Tu das Richtige zur richtigen Zeit. Dann kommt das Glück von alleine. Glück ist, wenn harte Arbeit und die Gelegenheit zusammen kommen. (May, 24th)
 
-Finde die Arbeit, welche zu deinem Leben gehört. Ein glücklicher Mensch ist der, der für sich die richtige Arbeit findet. Aller Luxus oder Emotionen werden Dich nicht glücklich machen oder erfüllen. (May, 25th)
+Finde die Arbeit, welche zu deinem Leben gehört. Ein glücklicher Mensch ist der, der für sich die richtige Arbeit findet. Aller Luxus oder Emotionen werden Dich nicht glücklich machen oder erfüllen. (May, 25th){ #dice-tacm}
+
 
 Verschwende keine Zeit darauf, was andere Leute denken (könnten), sondern konzentriere Dich auf dein Denken: Welchen Einfluss Du hast, was das Ergebnis deines Handelns sind, darüber, was das Richtige für Dich ist. (May, 26th)
 
 "Dein Wohlbefinden besteht aus kleinen Schritten, aber ist selbst keine Kleinigkeit." Alles kann entweder schnell oder richtig gemacht werden. Wähle stets den richtigen Weg und schaue, wie gut es Dir tun wird. Das bedeutet: Aufstehen zur richtigen Zeit, das Bett machen, in dich selbst investieren, deine Arbeit gut machen, Abkürzungen widerstehen... (May, 27th)
 
-Werde nicht emotional und tue die richtige Sache. Das ist, was Entscheidungsfindung ausmacht. Mehr nicht. Werde Dir bewusst, welche Werte Dir wichtig sind und lass die Möglichkeiten durch diesen Filter. Dann bleiben nur noch die richtigen Dinge übrig. (May, 28th)
+Werde nicht emotional und tue die richtige Sache. Das ist, was Entscheidungsfindung ausmacht. Mehr nicht. Werde Dir bewusst, welche Werte Dir wichtig sind und lass die Möglichkeiten durch diesen Filter. Dann bleiben nur noch die richtigen Dinge übrig. (May, 28th){ #dice-we4j}
+
 
 Die Leere in einem kann nicht durch weltliche Dinge gefüllt werden. Nur mit wahrer, ehrlicher Arbeit für sich selbst. Nur Dinge, die nach dem eigenen Bestreben richtig sind, füllen diese. Also geh raus und arbeite. (May, 29th)
 
@@ -533,7 +538,8 @@ Das Leben mag unfair sein. Aber gejammer wird deine Probleme nicht lösen. Steh 
 Du kannst nicht ändern, was Du warst. Aber Du kannst ändern, wer du bist. Wenn du keine guten Rollenmodelle hattest, such Dir welche. Die Bibliothek ist voll mit Büchern über diese Personen. (June, 7th){ #dice-yl4k}
 
 
-Folge dem Prozess, statt dem großen, unheimlichen Ziel. Mach Dir klar, was das nächste kleine Ziel ist und erledige dies so gut es geht. Du wirst dein großes Ziel erreichen, ohne das du je Angst hattest. (June, 8th)
+Folge dem Prozess, statt dem großen, unheimlichen Ziel. Mach Dir klar, was das nächste kleine Ziel ist und erledige dies so gut es geht. Du wirst dein großes Ziel erreichen, ohne das du je Angst hattest. (June, 8th){ #dice-mv40}
+
 
 Löse Probleme früh: "Flüsse sind an der Quelle am leichtesten zu überqueren." Dein Verhalten änderst Du nicht über Nacht, sondern Stück für Stück. Wenn Du immer weiter zurück an den Ursprung kommst, wird es Dir leichter Fallen, dies zu beeinflussen. (June, 9th){ #dice-n9kg}
 
@@ -558,7 +564,8 @@ Wenn Du Hilfe brauchst, Kamerad, frage danach! Man wird Dir helfen. (June, 16th)
 
 Angriff oder Verteidigung? Manchmal ist es besser sich geschlagen zu geben und in eine Verteidigung zu gehen als weiter offensiv vorzugehen. Ist der Angriff aussichtslos und ermüdend? Dann gehe einen Schritt zurück auf eine Position, in der Du die Oberhand hast. Mach Dich nicht vom Gegenüber abhängig. Zum Beispiel beim Glück: Bleibt es Dir fern und deine Mühen zahlen sich nicht aus? Dann ist es valide, nicht mehr hinterher zu rennen, sich bewusst zu machen wo man steht und auch einen Schritt zurück zu gehen, um die Umwelt, wie sie sich verändert hat, zu begreifen. Es liegt Ruhe darin. (June, 17th)
 
-“Not sharing our creations until they’re ‘ready’ is getting in our own way. It’s procrasti-learning and perfectionism in an expert blend to artificially soothe our sensitive skins… The truth is, you should probably be a little bit uncomfortable. Satisfied is too late. Cozy has no hooks." Kim Witten, in "Feeling Ready is Too Late"
+“Not sharing our creations until they’re ‘ready’ is getting in our own way. It’s procrasti-learning and perfectionism in an expert blend to artificially soothe our sensitive skins… The truth is, you should probably be a little bit uncomfortable. Satisfied is too late. Cozy has no hooks." Kim Witten, in "Feeling Ready is Too Late"{ #dice-vjye}
+
 
 Egal was heute passiert, lass es uns vorbereitet und aktiv vorfinden. Akzeptiere es, wenn heute etwas enttäuschendes oder verwirrendes passiert oder sich Leute so verhalten. Sei vorbereitet und scheue es nicht, aktiv zu werden. Die Welt zu verändern scheint einfacher zu sein, ist es aber nicht und wird auch nicht passieren. (June, 18th)
 
@@ -569,7 +576,9 @@ Ruhe ist ansteckend. Als Anführer musst Du die Ruhe sein, der sich andere anneh
 
 Geh laufen! Die frische Luft und die Bewegung wird Dir helfen, Entscheidungen zu treffen, Kreativ zu sein, Diskussionen zu führen, wenn Du die andere Person mitnimmst und nimmt Dir Stress und die Überwältigung des Alltags. (June, 21th)
 
-Fehler und Scheitern gehört zum Leben, aber daraus zu Lernen ist eine Entscheidung. Hoffnung ist keine Strategie, aber häufig hofft man, wie ein Wahnsinniger, dass etwas anderes geschieht, obwohl man nichts ändert. (June, 22th)
+Fehler und Scheitern gehört zum Leben, aber daraus zu Lernen ist eine Entscheidung. Hoffnung ist keine Strategie, aber häufig hofft man, wie ein Wahnsinniger, dass etwas anderes geschieht, obwohl man nichts ändert. (June, 22th){ #dice-7sv5}
+
+^dice-gd17
 
 Die meisten Menschen wollen Freiheit, Glückseligkeit und Respekt von Gleichgesinnten. Die ersten beiden Dingen sind nur von einem Selbst und dessen Haltung abhängig. Das Letzte hängt nur von den eigenen Entscheidungen ab. (June, 23th){ #dice-yn0l}
 
@@ -706,3 +715,19 @@ Die Änderung durch die Philosophie muss innen passieren und macht uns einzigart
 Mach Dir keine Sorgen im Voraus, dass etwas schlechtes geschehen *könnte*. Sei vorbereitet, wenn es dich betrifft, aber wenn es nicht eintritt, dann hast Du Zeit verschwendet. (August, 21th)
 
 Du gibst Dingen einen Wert und Bedeutung, indem Du Zeit darauf verlierst. Dinge, die gemacht werden müssen, aber wenig Bedeutung haben, sollten nur wenig Zeit erhalten. (August, 22th)
+
+Die beste Form der Veränderung ist das eigene Interesse. Argumentiere nicht, wieso etwas schlecht ist, sondern zeige, dass etwas anderes besser ist. Moralisiere nicht, belehre nicht. Das kannst Du auch auf Dich selbst anwenden. (August, 23th)
+
+Lerne aus allen Quellen und Orten. Ein schlechter Schreiber kann auch gute Dinge sagen. Verwehre Dich nicht der Weißheit, nur weil sie aus unangenehmen Quellen stammt. (August, 24th)
+
+Bestehende Traditionen und Prozesse sind Zeitgehärtet und Best-Practices. Womöglich haben sich aber Dinge geändert? Bedenke das konservative Ideen früher als Innovativ, sogar provokant, gesehen wurden. Verwerfe Ideen nicht, weil sie alt oder zu neu sind. Nutze Sie, wenn sie helfen, Dinge schneller und besser zu erreichen. (August, 25th)
+
+Auch aus dem schrecklichsten Event können gute Dinge entstehen. Du musst bereit und offen sein, diese zu erkennen. Womöglich brauchen sie nur etwas Arbeit, um wahrgenommen zu werden. (August, 26th)
+
+In jeder Situation ist mehr witziges als trauriges zu finden. Suche danach. Lachen ist produktiv, denn es lässt Dinge leichter erscheinen. Lache, statt weine. (August, 27th)
+
+Wohlstand bedeutet nicht, dass Du viel Geld haben musst. Andersherum heißt es nicht, dass Du im Luxus leben musst, weil Du Geld hast. Du kannst Geld und Erfolg besitzen, aber es nicht brauchen für dein Leben. (August, 28th)
+
+Auch mit Reichtum kannst Du Dir nicht alles kaufen; Gesundheit, Respekt, Liebe... Du kannst nach Reichtum streben, es wird immer etwas geben, was Du nicht kriegst. Du kannst auch damit aufhören und einfach weniger wollen. Dann wärst Du sofort Reich, denn wer ist es nicht, wenn Du alles hast was Du willst mit dem Geld, dass Du hast? (August, 29th)
+
+Qualität ist besser als Quantität. Sage nicht ja mit deinem Mund, und nein mit deinen Taten. Niemand wird kommen und Dir deine Arbeit abnehmen oder Dir das Gefühl geben, es ist bedeutsam was Du tust. All diese gegenteiligen Dinge werden Dich schlussendlich zerreißen. (August, 30th)
