@@ -1,10 +1,14 @@
 <script>
+const readspeed = 170;
+let element = document.createElement("div");
+element.innerHTML = '<i icon-name="book-open"></i>';
+document.getElementsByClassName("timestamps")[0].append(element);
+
 function addReadtimer() {
-  const readspeed = 200;
   const minutes = Math.ceil(document.getElementsByClassName("content")[0].textContent.split(/\s+/).length / readspeed);
-  let element = document.createElement("div");
-  element.innerHTML = '<i icon-name="book-open"></i> <span>' + minutes + ' min read </span>';
-  document.getElementsByClassName("timestamps")[0].append(element);
+  let elem = document-createElement("span");
+  elem.innerHTML = minutes + ' min read';
+  element.append(elem);
 }
 
 document.addEventListener("DOMContentLoaded", addReadtimer);
