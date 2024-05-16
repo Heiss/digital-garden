@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategic-approach-to-find-software-boundaries-for-fast-flow/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-16T21:45:36.430+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategic-approach-to-find-software-boundaries-for-fast-flow/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-16T22:00:26.086+02:00"}
 ---
 
 
@@ -66,7 +66,7 @@ Damit wäre eine erste hilfreiche Landschaftskarte erstellt. Bevor nun aber der 
 Das Kernkonzept von [[Domain-Driven Design\|Domain-Driven Design]] ist es, dass bessere Software geschrieben wird, indem der Entwurf entlang der Business Domain, den Bedarfen des Businesses und der [[Business Strategie\|Business Strategie]] konzipiert wird.
 ![Pasted image 20240516171959.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240516171959.png)
 
-Die Landschaft kann nun als Problemlösung definiert werden und DDD bringt uns einen Lösungsraum ins Spiel, indem es uns verschiedene Fragen an das Business stellt und mögliche Lösungen präsentiert. Dabei betrachtet es vor allem die hohen, strategischen Entscheidungen ([[Bounded Contexts\|Bounded Contexts]] und [[Context map\|Context map]], statt die niedrigen, taktischen Entscheidungen, welche erst später in der Implementierungsphase behandelt werden.
+Die Landschaft kann nun als Problemlösung definiert werden und DDD bringt uns einen Lösungsraum ins Spiel, indem es uns verschiedene Fragen an das Business stellt und mögliche Lösungen präsentiert. Dabei betrachtet es vor allem die hohen, strategischen Entscheidungen ([[Bounded Contexts\|Bounded Contexts]] und [[Context map\|Context map]]), statt die niedrigen, taktischen Entscheidungen, welche erst später in der Implementierungsphase behandelt werden.
 ![Pasted image 20240516172417.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240516172417.png)
 
 Mithilfe der zuvor erstellten Landschaft kann nun die [[Value Chain\|Value Chain]] noch weiter einsortiert, zuerst in [[Bounded Contexts\|Bounded Contexts]] und diese später wiederum nach Core Domain, Supporting Subdomain und Generic Subdomain.
