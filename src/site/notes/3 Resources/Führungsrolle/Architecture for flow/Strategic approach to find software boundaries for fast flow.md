@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategic-approach-to-find-software-boundaries-for-fast-flow/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-16T22:07:25.733+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategic-approach-to-find-software-boundaries-for-fast-flow/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-16T23:43:52.344+02:00"}
 ---
 
 
@@ -59,7 +59,7 @@ In der zweiten Stufe wird die X-Achse hinzugefügt, welche die evolutionäre Stu
 
 Dafür werden die vorher identifizierten Komponenten der [[Value Chain\|Value Chain]] nach deren gewünschten Charakteristiken einsortiert auf der Skala von Genesis / Experimentell hin zu Commodity / Handelsware.
 
-Damit wäre eine erste hilfreiche Landschaftskarte erstellt. Bevor nun aber der Aspekt der zukünftigen Entwicklung eingegangen wird, indem das Climate betrachtet wird, schauen wir uns die Möglichkeiten des [[Domain-Driven Design\|Domain-Driven Design]] an.
+Damit wäre eine erste hilfreiche Landschaftskarte erstellt. Bevor nun der Aspekt der zukünftigen Entwicklung mit aufgegriffen wird, indem das Thema Climate betrachtet wird, schauen wir uns die Möglichkeiten des [[Domain-Driven Design\|Domain-Driven Design]] an dieser Stelle an.
 
 ### Die Domain Driven Design Perspektive
 
