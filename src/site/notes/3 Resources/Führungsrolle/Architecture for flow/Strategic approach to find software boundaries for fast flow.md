@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategic-approach-to-find-software-boundaries-for-fast-flow/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-16T22:00:26.086+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategic-approach-to-find-software-boundaries-for-fast-flow/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-16T22:07:25.733+02:00"}
 ---
 
 
@@ -108,3 +108,5 @@ Besonders spannend wird es, wenn man ein Ziel in einer höhere Ebene verfolgt du
 Um die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Interaktionsmodi]] und [[Kommunikationspfade\|Kommunikationspfade]] mit den Teams zu kommunizieren im Kontext der [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]] und die dafür nötigen [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kommunikationskanäle\|Kommunikationskanäle]] einzurichten, könnte es sich anbieten, eine [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Stakeholder-Landkarte\|Stakeholder-Landkarte]] für jedes Team zu erstellen, um die Einarbeitung ins Thema zu vereinfachen und die richtigen Kanäle zu wählen.
 
 Außerdem könnte sich das Etablieren einer organisationsweiten [[3 Resources/Führungsrolle/Prozesssteuerung/Prozesssteuerung\|Prozesssteuerung]], z.B. durch [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban Flight Levels\|Kanban Flight Levels]] 2, um die Erarbeitung und Fortschritte der Wardley Map zu steuern und das Umsetzen der Ergebnisse eng zu begleiten, vor allem das Etablieren der identifizierten Bedingungen im letzten Schritt.
+
+Um taktische Entscheidungen zu dokumentieren und für die Implementierung aufzubereiten, könnte nach Abschluss der strategischen Überlegungen je ein [[C4 Modell\|C4 Modell]] für sämtliche [[Bounded Contexts\|Bounded Contexts]] erstellt werden. Auch hierfür könnte eine [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Stakeholder-Landkarte\|Stakeholder-Landkarte]] helfen, um die Arbeiten zu priorisieren und die Kommunikation anzuleiten, z.B. um nur die wichtigsten Stakeholder zur Konzeptphase einzuladen.
