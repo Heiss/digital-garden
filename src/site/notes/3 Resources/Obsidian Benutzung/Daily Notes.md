@@ -31,7 +31,6 @@ Weiterhin wird noch mittels [GitHub - blacksmithgu/obsidian-dataview: A data ind
 
 - 
 
-
 </div></div>
 
 
