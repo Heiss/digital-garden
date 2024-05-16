@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-05-09T22:44:51.728+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-05-16T23:35:31.891+02:00"}
 ---
 
 
 Kleine und simple Systeme sind ein wertvolles Ziel, [Lehman's laws of software evolution](https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution)  zeigt uns aber, dass dies nicht für erfolgreiche Systeme gilt, denn der Druck neue Funktionen einzubauen und sich neuen Anforderungen anzupassen, wird dieses System automatisch degenerieren.
 
 > [!NOTE] Buchempfehlung
-> Das hier vorgestellte Konzept [Team Topologies](teamtopologies.com) stammt aus dem zugehörigen Buch von Matthew Skelton und Manuel Pais. Die hier verwendeten Bildern stammen ebenfalls aus dem Buch.
+> Das hier vorgestellte Konzept [Team Topologies](https://teamtopologies.com) stammt aus dem zugehörigen Buch von Matthew Skelton und Manuel Pais. Die hier verwendeten Bildern stammen ebenfalls aus dem Buch.
 
 Die Team Topologies versucht [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]] Rechnung zu tragen und durch eigenständig, unabhängigen Teams Systeme zu entwickeln, welche für einen schnellen Veränderungsfluss ausgelegt sind.
 
