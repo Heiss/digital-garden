@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategic-approach-to-find-software-boundaries-for-fast-flow/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-16T23:43:52.344+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategic-approach-to-find-software-boundaries-for-fast-flow/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-17T09:22:28.262+02:00"}
 ---
 
 
