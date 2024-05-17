@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-16T21:06:07.557+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-17T09:22:22.189+02:00"}
 ---
 
 
@@ -344,7 +344,8 @@ Jede Philosophie ist erst etwas wert, wenn Du sie im Leben anwendest und sie dor
 
 Es gibt 2 Wege, um reich zu sein: Entweder alles haben wollen, was man will oder alles wollen, was man bereits hat. Genau so mit der Freiheit: Noch freier sein zu wollen, wird dich nicht frei machen. Finde deine jetzige Freiheit, dann bist Du genau jetzt frei. Und reich. Hier und jetzt. (Mar, 25th)
 
-"Distanz ist, was dein Kopf daraus macht." (Unbekannt, Satz an der Torminbrücke)
+"Distanz ist, was dein Kopf daraus macht." (Unbekannt, Satz an der Torminbrücke){ #dice-ayhq}
+
 
 Was leitet und beeinflusst deine Leitsätze? Hole Dir stets ins Bewusstsein, dass auch deine Regeln bestimmten Regeln folgen. (Mar, 26th){ #dice-bu6i}
 
