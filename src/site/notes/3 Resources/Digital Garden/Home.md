@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-04-14T10:43:50.050+02:00","updated":"2024-04-20T23:35:38.574+02:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-04-14T10:43:50.050+02:00","updated":"2024-05-17T10:38:37.197+02:00"}
 ---
 
 
@@ -7,6 +7,9 @@
 > This page is written in german. Use [Google translate](https://www-netzmuffel-de.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp) or your favourite translator to get a  translated version. Feel free to comment in english. I will answer in english, too. But my vault is mostly german, so it is easier for me to reuse notes.
 
 Hallo und willkommen zu meinem digitalen Garten.
+
+> [!INFO] TL;DR
+> Interessante Listen: [[3 Resources/Digital Garden/Änderungsliste\|Alle Änderungen]] | [[3 Resources/Digital Garden/Blogeinträge\|Alle Blogposts]]
 
 # Über Mich
 
@@ -19,7 +22,6 @@ Zusätzlich nutze ich sehr gerne die [[vim\|vim keybindings]] in sämtlichen Too
 Als zentrales Werkzeug nutze ich [Obsidian - Sharpen your thinking](https://obsidian.md). Wie ich [[3 Resources/Obsidian Benutzung/Obsidian Benutzung\|Obsidian benutze]], habe ich ebenfalls in diesem Garten beschrieben. Da ich selbst denselben Vault für mein [[Second Brain\|Second Brain]] nutze, sind womöglich einige Einträge nicht so ausführlich beschrieben, aber dennoch publiziert.
 Sollten also Dinge zu kurz gekommen sein, fühl Dich frei, in die Kommentare zu schreiben. Dann fülle ich die Leerstellen aus oder beantworte Dir deine Fragen.
 
-Wer möchte, kann auch gerne in meine [[3 Resources/Digital Garden/Blogeinträge\|Blogposts]] schauen.
 
 # Aktuelle Projekte
 
