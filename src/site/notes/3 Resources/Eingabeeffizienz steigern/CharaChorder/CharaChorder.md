@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/eingabeeffizienz-steigern/chara-chorder/chara-chorder/","created":"2024-04-20T21:17:08.301+02:00","updated":"2024-04-20T21:25:25.174+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/eingabeeffizienz-steigern/chara-chorder/chara-chorder/","created":"2024-04-20T21:17:08.301+02:00","updated":"2024-04-22T07:45:16.260+02:00"}
 ---
 
 
