@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/vermeide-teamsilos/","created":"2024-04-28T15:38:24.628+02:00","updated":"2024-04-29T07:29:31.929+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/vermeide-teamsilos/","created":"2024-04-28T15:38:24.628+02:00","updated":"2024-04-28T16:59:34.637+02:00"}
 ---
 
 
