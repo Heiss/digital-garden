@@ -7,9 +7,9 @@ In der folgenden Liste sind alle Dateien der gesamten Webseite gezeigt und nach 
 
 | File                                                                                                                                                                                          | Created Date     | Updated Date   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------------- |
+| [[3 Resources/Führungsrolle/Architecture for flow/Strategischer Ansatz um Fast Flow Softwaregrenzen zu finden\|Strategischer Ansatz um Fast Flow Softwaregrenzen zu finden]]               | April 22, 2024   | May 19, 2024   |
 | [[3 Resources/Verhalten/The Daily Stoic Journal von Ryan Holiday/Gedanken\|Gedanken]]                                                                                                      | October 23, 2023 | May 19, 2024   |
 | [[3 Resources/Führungsrolle/Anforderungsmanagement/Wardley Mapping von Simon Wardley/Wardley Mapping\|Wardley Mapping]]                                                                    | May 18, 2024     | May 18, 2024   |
-| [[3 Resources/Führungsrolle/Architecture for flow/Strategischer Ansatz um Fast Flow Softwaregrenzen zu finden\|Strategischer Ansatz um Fast Flow Softwaregrenzen zu finden]]               | April 22, 2024   | May 18, 2024   |
 | [[3 Resources/Digital Garden/Home\|Home]]                                                                                                                                                  | April 14, 2024   | May 17, 2024   |
 | [[3 Resources/Digital Garden/Änderungsliste\|Änderungsliste]]                                                                                                                              | May 17, 2024     | May 17, 2024   |
 | [[3 Resources/Obsidian Benutzung/Media Backlog\|Media Backlog]]                                                                                                                            | April 21, 2024   | May 17, 2024   |
