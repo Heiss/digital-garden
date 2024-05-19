@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban-in-der-it-von-klaus-leopold/input-queue/","created":"2024-04-17T13:37:01.166+02:00","updated":"2024-04-17T13:39:12.097+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban-in-der-it-von-klaus-leopold/input-queue/","created":"2024-04-17T13:37:01.166+02:00","updated":"2024-04-17T20:14:10.743+02:00"}
 ---
 
 
