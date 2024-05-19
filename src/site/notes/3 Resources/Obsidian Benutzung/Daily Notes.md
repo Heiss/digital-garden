@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/daily-notes/","created":"2024-04-14T12:46:28.250+02:00","updated":"2024-04-15T08:29:50.536+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/daily-notes/","created":"2024-04-14T12:46:28.250+02:00","updated":"2024-04-14T13:02:28.101+02:00"}
 ---
 
 
@@ -20,7 +20,7 @@ Weiterhin wird noch mittels [GitHub - blacksmithgu/obsidian-dataview: A data ind
 
 `<% tp.user.print(`dice-mod: [[3 Resources/Verhalten/The Daily Stoic Journal von Ryan Holiday/Gedanken\|3 Resources/Verhalten/The Daily Stoic Journal von Ryan Holiday/Gedanken]]|paragraph`) %>`
 
-----
+
 
 # Created Files Today
 
