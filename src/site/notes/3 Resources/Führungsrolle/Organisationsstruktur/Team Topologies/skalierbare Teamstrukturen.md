@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/skalierbare-teamstrukturen/","created":"2024-05-19T15:23:34.513+02:00","updated":"2024-05-19T15:32:58.538+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/skalierbare-teamstrukturen/","created":"2024-05-19T15:23:34.513+02:00","updated":"2024-05-19T15:49:12.855+02:00"}
 ---
 
 
@@ -8,7 +8,7 @@ Eine Teamstruktur ist dann skalierbar und damit in ihrer Leistungsfähigkeit fle
 Dies ist keinesfalls Gottgegeben bei allen Formen der Teamstruktur, denn Abhängigkeiten zu anderen Teams kann die Leistungsfähigkeit beschränken, sodass auch neue Ressourcen keine weitere Steigerung erzeugen.
 
 > [!NOTE] Mehr Hardware
-> Nicht jedes Programm profitiert durch eine stärke CPU oder mehr Speicher. Das Programm muss genauso sorgfältig darauf ausgelegt sein mit neuen Ressourcen eine höhere Leistungsfähigkeit zu zeigen, wie es ein Team innerhalb einer Organisation sein muss.
+> Nicht jedes Programm profitiert durch eine stärkere CPU oder mehr Speicher. Das Programm muss genauso sorgfältig darauf ausgelegt sein mit neuen Ressourcen eine höhere Leistungsfähigkeit zu zeigen, wie es ein Team innerhalb einer Organisation sein muss.
 
 Durch die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]] ist bekannt, welche [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Teaminteraktion]] nötig sind und welche Abhängigkeiten dadurch entstehen. Es kann davon ausgegangen werden, dass ein Team ohne Abhängigkeiten in ihrer Arbeit maximal skalierbar ist.
 
