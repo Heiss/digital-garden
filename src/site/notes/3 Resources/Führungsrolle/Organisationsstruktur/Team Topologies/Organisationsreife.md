@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/organisationsreife/","created":"2024-04-28T15:45:21.793+02:00","updated":"2024-04-29T07:29:31.939+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/organisationsreife/","created":"2024-04-28T15:45:21.793+02:00","updated":"2024-04-28T17:02:40.325+02:00"}
 ---
 
 
