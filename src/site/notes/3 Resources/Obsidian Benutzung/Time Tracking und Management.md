@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/time-tracking-und-management/","created":"2024-04-14T11:54:07.119+02:00","updated":"2024-04-15T08:29:50.952+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/time-tracking-und-management/","created":"2024-04-14T11:54:07.119+02:00","updated":"2024-04-14T12:09:59.982+02:00"}
 ---
 
 
