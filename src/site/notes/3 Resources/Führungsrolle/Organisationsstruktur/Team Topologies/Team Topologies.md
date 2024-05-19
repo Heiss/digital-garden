@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-05-16T23:35:31.891+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-04-28T15:43:24.088+02:00","updated":"2024-05-19T15:24:44.578+02:00"}
 ---
 
 
@@ -28,7 +28,7 @@ Sie sollten als eine Art Magnet für die Teams funktionieren. Die Teams sollten 
 # Wozu Team Topologies?
 
 Die unten genannten Organisationsproblemen stammen daraus, dass man [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]] ignoriert hat beim Entwurf der Teamstrukturen. Verfolgt man einen [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team-First Mindset\|Team-first Ansatz]] mit klaren Aufträgen und der Förderung von wichtigen Interaktionsmuster, welche den Arbeitsfluss und strategische Anpassungsfähigkeit priorisieren, die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Kognitive Belastung\|kognitive Belastung]] bewusst limitieren und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]] bei der Erstellung von Softwarearchitekturen berücksichtigen, kann man diese Probleme lösen und eine Teamstruktur als Schlüsselunterscheider für den zukünftigen Erfolg aufbauen.
-Es ist das Ziel der Team Topologies, die Organisation zu befähigen, anpassungsfähig aufzustellen und dynamisch den richtigen Ort und Zeit zu finden, wann [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Collaboration\|Kollaboration]] benötigt wird im Arbeitsfluss und wann es besser ist, sich zu fokussieren und den Kommunikationsüberschuss zu reduzieren. 
+Es ist das Ziel der Team Topologies, die Organisation zu befähigen, anpassungsfähig aufzustellen und dynamisch den richtigen Ort und Zeit zu finden, wann [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Collaboration\|Kollaboration]] benötigt wird im Arbeitsfluss und wann es besser ist, sich zu fokussieren und den Kommunikationsüberschuss zu reduzieren. Außerdem soll nicht nur die Softwarearchitektur skalierbar und anpassbar sein, sondern auch die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/skalierbare Teamstrukturen\|Teamstruktur]].
 
 ## Probleme mit Organisationsdiagrammen
 
