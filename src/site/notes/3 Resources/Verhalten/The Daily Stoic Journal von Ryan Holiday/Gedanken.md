@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-17T09:22:22.189+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-19T10:49:32.032+02:00"}
 ---
 
 
@@ -375,7 +375,8 @@ Lass Dir deine Erfolge und Misserfolge nicht zu Kopf steigen. Nicht sie entschei
 
 Vertraue, aber verifiziere. Du kannst in Bruchteilen von Sekunden Entscheidungen treffen. Aber einen Schlag mehr darauf zu verwenden, diese zu hinterfragen, vor allem wenn es Annahmen sind, wird Dir ein klareres Bild deiner Umwelt geben. Unterziehe deine Eindrücke einem Test. (Apr, 5th)
 
-Mach Dir klar, dass Du heute einen Trottel treffen wirst, so wie Du es auch sein kannst. Bereite Dich auf Negativität vor. Wie wirst Du reagieren? Wenn Du vorbereitet bist, dann mit Ruhe und Gelassenheit. Niemand kann Dich überraschen, wenn Dir dies klar ist: Du wirst keine Wut noch Abscheu verspüren, sondern Verständnis und Empathie. (Apr. 6th)
+Mach Dir klar, dass Du heute einen Trottel treffen wirst, so wie Du es auch sein kannst. Bereite Dich auf Negativität vor. Wie wirst Du reagieren? Wenn Du vorbereitet bist, dann mit Ruhe und Gelassenheit. Niemand kann Dich überraschen, wenn Dir dies klar ist: Du wirst keine Wut noch Abscheu verspüren, sondern Verständnis und Empathie. (Apr. 6th){ #dice-0hg6}
+
 
 Erwarte deine Meinungsänderung! Hinterfrage deine Meinungen und deine Vorurteile. Wie oft lagst Du mit ihnen schon falsch, obwohl Du dachtest, Du wüsstest alles über einen Menschen oder ein Projekt? Frage Dich selbst; was könntest Du vergessen haben, bist Du Teil der Lösung oder des Problems und warum ist es so wie es ist? (Apr, 7th){ #dice-vo86}
 
@@ -656,7 +657,8 @@ Deine Position oder andere Details sagen nichts über Dich als Person aus; nur d
 
 Lass Dich nicht von Neuigkeiten rund um den Globus emotionalisieren, wenn sie kein Verhalten provozieren. Sonst konzentriere Dich auf deine Pflichten, es lenkt Dich sonst nur ab von den wahren Dingen. (July, 24th)
 
-Ränge und Positionen sind nicht das, was deine Arbeit ausmacht, außer das Du sie mit Lebenszeit bezahlst. Sie zeigen nur, was Du bereit warst, aufzugeben für etwas nutzloses. Deine Taten müssen für sich sprechen. Du siehst nicht, wer auf dem Weg zur Spitze liegen geblieben ist und die meisten an der Spitze legen ein egoistisches Verhalten an den Tag. (July, 25th)
+Ränge und Positionen sind nicht das, was deine Arbeit ausmacht, außer das Du sie mit Lebenszeit bezahlst. Sie zeigen nur, was Du bereit warst, aufzugeben für etwas nutzloses. Deine Taten müssen für sich sprechen. Du siehst nicht, wer auf dem Weg zur Spitze liegen geblieben ist und die meisten an der Spitze legen ein egoistisches Verhalten an den Tag. (July, 25th){ #dice-mxi6}
+
 
 Gutes passiert nicht ohne Taten, Böses hingegen schon. Etwas nicht zu tun, kann ebenso Böses erzeugen wie eine Tat an sich. Dies bedeutet, wir müssen etwas tun, um Gutes zu erhalten. (July, 26th)
 
@@ -711,7 +713,8 @@ Denke stark nach, bevor Du eine Wahl triffst. Nur wenn Du Kämpfe eingehst, die 
 
 Konzentriere Dich auf die Dinge, die sein müssen und Bedeutung haben. Alles andere lenkt ab und belastet. Bedeutungsvolle Dinge belasten nicht, denn sie sind am Ende eine Hilfe. (August, 19th)
 
-Die Änderung durch die Philosophie muss innen passieren und macht uns einzigartig. Aber von außen müssen wir immernoch kompatibel sein. Die große Änderung im Geist muss nicht außen sichtbar sein. (August, 20th)
+Die Änderung durch die Philosophie muss innen passieren und macht uns einzigartig. Aber von außen müssen wir immernoch kompatibel sein. Die große Änderung im Geist muss nicht außen sichtbar sein. (August, 20th){ #dice-ho4n}
+
 
 Mach Dir keine Sorgen im Voraus, dass etwas schlechtes geschehen *könnte*. Sei vorbereitet, wenn es dich betrifft, aber wenn es nicht eintritt, dann hast Du Zeit verschwendet. (August, 21th)
 
