@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/digital-garden/aenderungsliste/","created":"2024-05-17T10:32:49.449+02:00","updated":"2024-05-17T18:27:18.357+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/digital-garden/aenderungsliste/","hideInGraph":true,"created":"2024-05-17T10:32:49.449+02:00","updated":"2024-05-19T15:51:17.455+02:00"}
 ---
 
 
@@ -7,13 +7,14 @@ In der folgenden Liste sind alle Dateien der gesamten Webseite gezeigt und nach 
 
 | File                                                                                                                                                                                          | Created Date     | Updated Date   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | -------------- |
+| [[3 Resources/Digital Garden/Blogeinträge\|Blogeinträge]]                                                                                                                                  | April 20, 2024   | May 19, 2024   |
+| [[3 Resources/Digital Garden/Änderungsliste\|Änderungsliste]]                                                                                                                              | May 17, 2024     | May 19, 2024   |
 | [[3 Resources/Führungsrolle/Architecture for flow/Strategischer Ansatz um Fast Flow Softwaregrenzen zu finden\|Strategischer Ansatz um Fast Flow Softwaregrenzen zu finden]]               | April 22, 2024   | May 19, 2024   |
 | [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]]                                                                                       | April 28, 2024   | May 19, 2024   |
 | [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/skalierbare Teamstrukturen\|skalierbare Teamstrukturen]]                                                                 | May 19, 2024     | May 19, 2024   |
 | [[3 Resources/Verhalten/The Daily Stoic Journal von Ryan Holiday/Gedanken\|Gedanken]]                                                                                                      | October 23, 2023 | May 19, 2024   |
 | [[3 Resources/Führungsrolle/Anforderungsmanagement/Wardley Mapping von Simon Wardley/Wardley Mapping\|Wardley Mapping]]                                                                    | May 18, 2024     | May 18, 2024   |
 | [[3 Resources/Digital Garden/Home\|Home]]                                                                                                                                                  | April 14, 2024   | May 17, 2024   |
-| [[3 Resources/Digital Garden/Änderungsliste\|Änderungsliste]]                                                                                                                              | May 17, 2024     | May 17, 2024   |
 | [[3 Resources/Obsidian Benutzung/Media Backlog\|Media Backlog]]                                                                                                                            | April 21, 2024   | May 17, 2024   |
 | [[6 Journal/6 Journal\|6 Journal]]                                                                                                                                                         | April 18, 2024   | May 12, 2024   |
 | [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Stakeholder-Landkarte\|Stakeholder-Landkarte]]                                                                                         | April 10, 2024   | May 09, 2024   |
@@ -59,7 +60,6 @@ In der folgenden Liste sind alle Dateien der gesamten Webseite gezeigt und nach 
 | [[3 Resources/Obsidian Benutzung/Plan your today tasks\|Plan your today tasks]]                                                                                                            | April 14, 2024   | April 21, 2024 |
 | [[3 Resources/Obsidian Benutzung/Streaminganbieter hopping\|Streaminganbieter hopping]]                                                                                                    | April 21, 2024   | April 21, 2024 |
 | [[4 Archive/4 Archive\|4 Archive]]                                                                                                                                                         | April 18, 2024   | April 20, 2024 |
-| [[3 Resources/Digital Garden/Blogeinträge\|Blogeinträge]]                                                                                                                                  | April 20, 2024   | April 20, 2024 |
 | [[3 Resources/Eingabeeffizienz steigern/CharaChorder/CharaChorder\|CharaChorder]]                                                                                                          | April 20, 2024   | April 20, 2024 |
 | [[3 Resources/Eingabeeffizienz steigern/Tastatur/Colemak\|Colemak]]                                                                                                                        | April 20, 2024   | April 20, 2024 |
 | [[3 Resources/Eingabeeffizienz steigern/Tastatur/ZSA Moonlander\|ZSA Moonlander]]                                                                                                          | April 20, 2024   | April 20, 2024 |
