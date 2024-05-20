@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-19T10:49:32.032+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-20T09:17:25.744+02:00"}
 ---
 
 
@@ -569,7 +569,8 @@ Angriff oder Verteidigung? Manchmal ist es besser sich geschlagen zu geben und i
 “Not sharing our creations until they’re ‘ready’ is getting in our own way. It’s procrasti-learning and perfectionism in an expert blend to artificially soothe our sensitive skins… The truth is, you should probably be a little bit uncomfortable. Satisfied is too late. Cozy has no hooks." Kim Witten, in "Feeling Ready is Too Late"{ #dice-vjye}
 
 
-Egal was heute passiert, lass es uns vorbereitet und aktiv vorfinden. Akzeptiere es, wenn heute etwas enttäuschendes oder verwirrendes passiert oder sich Leute so verhalten. Sei vorbereitet und scheue es nicht, aktiv zu werden. Die Welt zu verändern scheint einfacher zu sein, ist es aber nicht und wird auch nicht passieren. (June, 18th)
+Egal was heute passiert, lass es uns vorbereitet und aktiv vorfinden. Akzeptiere es, wenn heute etwas enttäuschendes oder verwirrendes passiert oder sich Leute so verhalten. Sei vorbereitet und scheue es nicht, aktiv zu werden. Die Welt zu verändern scheint einfacher zu sein, ist es aber nicht und wird auch nicht passieren. (June, 18th){ #dice-itik}
+
 
 Schau nicht zu weit in die Zukunft. Habe eine Vision, wohin es geht, aber beschäftige Dich nicht mit allen Details und Konsequenzen. Ansonsten kann es erschlagend und fürchterlich wirken, was noch auf Dich zu kommt. Schaue lieber auf das hier und jetzt und löse die aktuellen und die nächstmöglichen Problemen. Dann wirst Du auch die Zukunft bestmöglich gestalten. (June, 19th)
 
