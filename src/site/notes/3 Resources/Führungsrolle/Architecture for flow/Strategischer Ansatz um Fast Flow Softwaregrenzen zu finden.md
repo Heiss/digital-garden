@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategischer-ansatz-um-fast-flow-softwaregrenzen-zu-finden/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-20T13:55:13.613+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategischer-ansatz-um-fast-flow-softwaregrenzen-zu-finden/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-20T14:16:32.704+02:00"}
 ---
 
 
@@ -68,7 +68,7 @@ Zur Belastung sollte außerdem gesagt werden, dass sich diese erhöht, je weiter
 
 ## Leadership
 
-Als letzter Schritt, nachdem wir so viele Informationen in eine einzige Landkarte gegeben haben, können wir nun die [61 Kriegsstrategien von Wardley](https://learnwardleymapping.com/leadership/) nutzen, um Entscheidungen für unsere Organisation zu tätigen. Dabei überlegen wir uns, was wir erreichen wollen und welche Maßnahmen dies begünstigen würde, statt die nötigen Schritte zu beschreiben.
+Als letzter Schritt, nachdem wir so viele Informationen in eine einzige Landkarte gegossen haben, können wir nun die [61 Kriegsstrategien von Wardley](https://learnwardleymapping.com/leadership/) nutzen, um Entscheidungen für unsere Organisation zu tätigen. Dabei überlegen wir uns, was wir erreichen wollen und welche Maßnahmen dies begünstigen würde, statt die nötigen Schritte zu beschreiben.
 > An alternative approach is to examine the _conditions_ that would make desirable _consequences_ inevitable.
 
 Wir fragen also nicht "was müssen wir nun tun?", sondern "welche Bedingungen brauchen wir, damit wir unausweichlich unsere Vision erreichen?". Und dadurch haben wir unsere (Kriegs-)Strategie und die Taktik versucht nun, die Bedingungen aufzustellen, statt das Ergebnis, meist vergeblich, mittels brachialer Gewalt (Brute-Force) zu erreichen.
