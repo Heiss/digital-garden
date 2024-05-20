@@ -11,7 +11,7 @@ In einer Welt, in der schnelle Änderungen notwendig werden, um sich der unbesti
 >[[3 Resources/Führungsrolle/Softwarearchitektur/Domain Driven Design von Eric Evans/Domain Driven Design von Eric Evans\|Domain Driven Design von Eric Evans]]
 >[[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies von Matthew Skelton/Team Topologies von Matthew Skelton\|Team Topologies von Matthew Skelton]]
 
-Kombiniert man [[3 Resources/Führungsrolle/Anforderungsmanagement/Wardley Mapping von Simon Wardley/Wardley Mapping\|Wardley Mapping]], [[Domain-Driven Design\|Domain-Driven Design]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]], kann dies helfen die Punkte zwischen der [[Business Strategie\|Business Strategie]], des Softwaredesigns und der Architektur zu verbinden und so eine teamorientierte Organisation zu konzipieren, welche für einen [[Fast Flow of Change\|Fast Flow of Change]] und Adaption ausgelegt ist.
+Kombiniert man [[3 Resources/Führungsrolle/Anforderungsmanagement/Wardley Mapping\|Wardley Mapping]], [[Domain-Driven Design\|Domain-Driven Design]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]], kann dies helfen die Punkte zwischen der [[Business Strategie\|Business Strategie]], des Softwaredesigns und der Architektur zu verbinden und so eine teamorientierte Organisation zu konzipieren, welche für einen [[Fast Flow of Change\|Fast Flow of Change]] und Adaption ausgelegt ist.
 
 Mithilfe des folgenden Ablaufs wird eine Idee über mehrere Etappen hin zu einer Architektur für die Organisation, der Software und einer Business Strategie ausgebaut.
 
