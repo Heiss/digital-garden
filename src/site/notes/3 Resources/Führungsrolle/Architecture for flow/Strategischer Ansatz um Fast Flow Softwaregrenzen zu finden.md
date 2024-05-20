@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategischer-ansatz-um-fast-flow-softwaregrenzen-zu-finden/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-19T14:18:33.266+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategischer-ansatz-um-fast-flow-softwaregrenzen-zu-finden/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-20T13:55:13.613+02:00"}
 ---
 
 
@@ -64,7 +64,7 @@ Außerdem haben wir bisher nicht von UI, Backend oder Datenbank gesprochen, denn
 Eine ausgearbeitete Landschaft zeigt nun eindrücklich alle notwendigen Kommunikationen, Abhängigkeiten und Zuständigkeiten. Die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Software Ownership\|Software Ownership]] ist geklärt und auch die Nachnutzung von Dingen ist geklärt.
 ![Pasted image 20240516174017.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240516174017.png)
 
-Zur Belastung sollte außerdem gesagt werden, dass sich diese erhöht, je weiter links eine Komponente sich auf der Evolutionsachse befindet. Bedeutet also auch, dass das jeweilige Team nicht wesentlich mehr Kontexte bearbeiten können wird. Je weiter sich andere Kontexte von diesem experimentellen Kontext befinden, je schwächer wird die Leistung des Teams. Kontexte die sich stark ähneln und mit ähnlichen Tools und Methoden bearbeitet werden können, können von einem Team wesentlich effizienter bearbeitet und Änderungen effektiver vorgenommen werden.
+Zur Belastung sollte außerdem gesagt werden, dass sich diese erhöht, je weiter links eine Komponente sich auf der Evolutionsachse befindet. Bedeutet also auch, dass das jeweilige Team nicht wesentlich mehr Kontexte bearbeiten können wird. Je weiter sich andere Kontexte von diesem experimentellen Kontext entfernt befinden, je schwächer wird die Leistung des Teams. Kontexte die sich stark ähneln und mit ähnlichen Tools und Methoden bearbeitet werden können, können von einem Team wesentlich effizienter bearbeitet und Änderungen effektiver vorgenommen werden. Für die Zuweisung und Aufspaltung von Domänen, beachte auch wie [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Kognitive Belastung limitieren#^025d64\|kognitive Belastung limitiert]] werden kann.
 
 ## Leadership
 
