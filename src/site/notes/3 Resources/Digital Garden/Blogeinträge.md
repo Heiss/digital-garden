@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/digital-garden/blogeintraege/","hideInGraph":true,"created":"2024-04-20T07:50:31.735+02:00","updated":"2024-05-19T15:51:37.085+02:00"}
+{"dg-publish":true,"dg-path":"Blog.md","permalink":"/blog/","hideInGraph":true,"created":"2024-04-20T07:50:31.735+02:00","updated":"2024-05-20T23:32:04.637+02:00"}
 ---
 
 
