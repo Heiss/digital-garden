@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung-limitieren/","created":"2024-04-28T15:53:03.091+02:00","updated":"2024-04-28T21:45:07.049+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung-limitieren/","created":"2024-04-28T15:53:03.091+02:00","updated":"2024-05-20T13:49:44.481+02:00"}
 ---
 
 
-Es hilft nicht, Komplexität herunterzureden. Die Belastung wird durch schlechte Performance und reduzierte Effektivität sichtbar. Zu gering eingeschätzte Komplexität hingegen, wirkt sich nicht negativ auf das Team aus.
+Es hilft nicht, Komplexität herunterzureden. Die Belastung wird durch schlechte Performance und reduzierte Effektivität sichtbar. Zu hoch eingeschätzte Komplexität hingegen, wirkt sich nicht negativ auf das Team aus.
 
 Identifiziere die verschiedenen Domänen eindeutig und ordne sie nach folgenden Themen ein:
 - simpel: der Weg ist meistens klar
