@@ -1,22 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung-limitieren/","created":"2024-04-28T15:53:03.091+02:00","updated":"2024-05-20T13:49:44.481+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung-limitieren/","created":"2024-04-28T15:53:03.091+02:00","updated":"2024-05-20T13:54:39.928+02:00"}
 ---
 
 
-Es hilft nicht, Komplexität herunterzureden. Die Belastung wird durch schlechte Performance und reduzierte Effektivität sichtbar. Zu hoch eingeschätzte Komplexität hingegen, wirkt sich nicht negativ auf das Team aus.
+Es hilft nicht, Komplexität herunterzureden. Die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Kognitive Belastung\|Kognitive Belastung]] wird durch schlechte Performance und reduzierte Effektivität sichtbar. Zu hoch eingeschätzte Komplexität hingegen, wirkt sich nicht negativ auf das Team aus.
 
-Identifiziere die verschiedenen Domänen eindeutig und ordne sie nach folgenden Themen ein:
+# Identifikation von Schwierigkeitsgraden
+
+Identifiziere die verschiedenen Domänen eindeutig und ordne sie nach folgenden Schwierigkeitsgraden ein:
 - simpel: der Weg ist meistens klar
 - kompliziert: Änderungen müssen analysiert werden und können einige Interaktionen benötigen
 - komplex: Lösung benötigt mehrere Experimente, Entdeckungen und Iterationen
 
 Vor allem die Domänen gegeneinander einzuordnen, wird das Verständnis schärfen.
 
+# Heuristiken zur Domänenwahl
+{ #025d64}
+
+
 Folgende Heuristiken können helfen, die Domänen Teams zuzuordnen und sollten lediglich als Hilfen, jedoch nicht als Gesetze, verstanden werden:
 1. Weise jeder Domain ein einziges Team zu. Ist eine Domäne zu groß, wird sie zerlegt in Unterdomänen, welche jeweils einem Teams zugewiesen werden
 2. Jedes Team sollte fähig sein, 2-3 simple Domänen zu übernehmen, da sie wenig Belastung durch [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kontextwechsel\|Kontextwechsel]] erzeugen.
 3. Ein Team, welches eine komplexe Domäne betreut, sollte keine weiteren Domänen betreuen, nicht mal eine simple. Dies folgt daraus, dass die teaminterne Priorisierung meist zugunsten der simplen ausfällt, sowie komplexe Domänen unüberschaubar sind.
 4. Verhindere, dass ein Team für 2 komplizierte Domänen verantwortlich ist. Das Team wird sich sonst aufspalten, was die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Kognitive Belastung\|kognitive Belastung]] erhöht. Dann zerlege das Team eher (Beachte: 5-9 Personen / Team).
+
+# Möglichkeiten zur Reduzierung von kognitiver Belastung
 
 Weitere Möglichkeiten die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Kognitive Belastung\|kognitive Belastung]] (v.a. intrinsisch und extrinsisch) zu reduzieren:
 - Stelle eine team-first Umgebung bereit (physisch oder virtuell)
