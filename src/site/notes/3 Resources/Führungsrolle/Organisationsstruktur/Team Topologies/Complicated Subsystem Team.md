@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/complicated-subsystem-team/","created":"2024-04-28T15:21:46.606+02:00","updated":"2024-04-28T16:51:23.828+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/complicated-subsystem-team/","created":"2024-04-28T15:21:46.606+02:00","updated":"2024-04-29T07:29:26.990+02:00"}
 ---
 
 
