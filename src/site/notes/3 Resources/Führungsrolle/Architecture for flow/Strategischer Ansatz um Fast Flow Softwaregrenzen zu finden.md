@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategischer-ansatz-um-fast-flow-softwaregrenzen-zu-finden/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-20T14:16:46.896+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategischer-ansatz-um-fast-flow-softwaregrenzen-zu-finden/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-21T14:51:43.671+02:00"}
 ---
 
 
@@ -24,7 +24,7 @@ Die erste Etappe verbindet Purpose und Landscape, da diese stark zusammen spiele
 Besonderer Wert sollte auf das Landscape und die Doctrine gelegt werden.
 ![Pasted image 20240516170123.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240516170123.png)
 
-Das Bild zeigt eine Wardley Map in erster Ausbaustufe. Die Y-Achse stellt die Sichtbarkeit einer Komponente in einer [[Value Chain\|Value Chain]] dar. Je niedriger, desto unsichtbarer ist sie. Das Erstellen der Kette beginnt von den [[Persona\|Persona]] aus, für die das Business konzipiert wird.
+Das Bild zeigt eine [[3 Resources/Führungsrolle/Anforderungsmanagement/Wardley Mapping\|Wardley Map]] in erster Ausbaustufe. Die Y-Achse stellt die Sichtbarkeit einer Komponente in einer [[Value Chain\|Value Chain]] dar. Je niedriger, desto unsichtbarer ist sie. Das Erstellen der Kette beginnt von den [[Persona\|Persona]] aus, für die das Business konzipiert wird.
 
 In der zweiten Stufe wird die X-Achse hinzugefügt, welche die evolutionäre Stufe darstellt.
 ![Pasted image 20240516171308.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240516171308.png)
@@ -80,6 +80,10 @@ Besonders spannend wird es, wenn man ein Ziel in einer höhere Ebene verfolgt du
 
 Um die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Interaktionsmodi]] und [[Kommunikationspfade\|Kommunikationspfade]] mit den Teams zu kommunizieren im Kontext der [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]] und die dafür nötigen [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kommunikationskanäle\|Kommunikationskanäle]] einzurichten, könnte es sich anbieten, eine [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Stakeholder-Landkarte\|Stakeholder-Landkarte]] für jedes Team zu erstellen, um die Einarbeitung ins Thema zu vereinfachen und die richtigen Kanäle zu wählen.
 
-Außerdem könnte sich das Etablieren einer organisationsweiten [[3 Resources/Führungsrolle/Prozesssteuerung/Prozesssteuerung\|Prozesssteuerung]], z.B. durch [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban Flight Levels\|Kanban Flight Levels]] 2, um die Erarbeitung und Fortschritte der Wardley Map zu steuern und das Umsetzen der Ergebnisse eng zu begleiten, vor allem das Etablieren der identifizierten Bedingungen im letzten Schritt.
+Aufgrund der homomorphen Verbindung durch [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]] zwischen [[3 Resources/Führungsrolle/Softwarearchitektur/Softwarearchitektur\|Softwarearchitektur]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Organisationsstruktur\|Organisationsstruktur]] kann auch eine Verbindung zwischen [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Interaktionsmodi]] der [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]] und die Beziehungen der [[Bounded Contexts\|Bounded Contexts]] in den [[Domain-Driven Design\|Domain-Driven Design]] hergestellt werden. Das folgende Bild beschreibt diese Relation.
+
+![Pasted image 20240521142809.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240521142809.png) (Quelle: [Development Teams Are Software: Team Topologies and Domain-Driven Design Map How | Medium | Medium](https://lucavettor.medium.com/development-teams-are-software-team-topologies-and-domain-driven-design-map-how-4a49fb4cd449))
+
+Außerdem könnte sich das Etablieren einer organisationsweiten [[3 Resources/Führungsrolle/Prozesssteuerung/Prozesssteuerung\|Prozesssteuerung]], z.B. durch [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban Flight Levels\|Kanban Flight Levels]] 2, um die Erarbeitung und Fortschritte der [[3 Resources/Führungsrolle/Anforderungsmanagement/Wardley Mapping\|Wardley Map]] zu steuern und das Umsetzen der Ergebnisse eng zu begleiten, vor allem das Etablieren der identifizierten Bedingungen im letzten Schritt.
 
 Um taktische Entscheidungen zu dokumentieren und für die Implementierung aufzubereiten, könnte nach Abschluss der strategischen Überlegungen je ein [[C4 Modell\|C4 Modell]] für sämtliche [[Bounded Contexts\|Bounded Contexts]] erstellt werden. Auch hierfür könnte eine [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Stakeholder-Landkarte\|Stakeholder-Landkarte]] helfen, um die Arbeiten zu priorisieren und die Kommunikation anzuleiten, z.B. um nur die wichtigsten Stakeholder zur Konzeptphase einzuladen.

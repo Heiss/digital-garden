@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/anforderungsmanagement/wardley-mapping/","created":"2024-05-18T14:42:51.976+02:00","updated":"2024-05-18T14:44:17.600+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/anforderungsmanagement/wardley-mapping/","created":"2024-05-18T14:42:51.976+02:00","updated":"2024-05-21T14:51:20.617+02:00"}
 ---
 
 
