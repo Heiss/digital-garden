@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategischer-ansatz-um-fast-flow-softwaregrenzen-zu-finden/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-20T14:16:46.896+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategischer-ansatz-um-fast-flow-softwaregrenzen-zu-finden/","created":"2024-04-22T11:06:52.363+02:00","updated":"2024-05-21T14:28:27.919+02:00"}
 ---
 
 
@@ -79,6 +79,10 @@ Besonders spannend wird es, wenn man ein Ziel in einer höhere Ebene verfolgt du
 # Weiterführende Überlegungen
 
 Um die [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Interaktionsmodi]] und [[Kommunikationspfade\|Kommunikationspfade]] mit den Teams zu kommunizieren im Kontext der [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]] und die dafür nötigen [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kommunikationskanäle\|Kommunikationskanäle]] einzurichten, könnte es sich anbieten, eine [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Stakeholder-Landkarte\|Stakeholder-Landkarte]] für jedes Team zu erstellen, um die Einarbeitung ins Thema zu vereinfachen und die richtigen Kanäle zu wählen.
+
+Aufgrund der homomorphen Verbindung durch [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]] zwischen [[3 Resources/Führungsrolle/Softwarearchitektur/Softwarearchitektur\|Softwarearchitektur]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Organisationsstruktur\|Organisationsstruktur]] kann auch eine Verbindung zwischen [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Interaktionsmodi\|Interaktionsmodi]] der [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]] und die Beziehungen der [[Bounded Contexts\|Bounded Contexts]] in den [[Domain-Driven Design\|Domain-Driven Design]] hergestellt werden. Das folgende Bild beschreibt diese Relation.
+
+![Pasted image 20240521142809.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240521142809.png) (Quelle: [Development Teams Are Software: Team Topologies and Domain-Driven Design Map How | Medium | Medium](https://lucavettor.medium.com/development-teams-are-software-team-topologies-and-domain-driven-design-map-how-4a49fb4cd449))
 
 Außerdem könnte sich das Etablieren einer organisationsweiten [[3 Resources/Führungsrolle/Prozesssteuerung/Prozesssteuerung\|Prozesssteuerung]], z.B. durch [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban Flight Levels\|Kanban Flight Levels]] 2, um die Erarbeitung und Fortschritte der Wardley Map zu steuern und das Umsetzen der Ergebnisse eng zu begleiten, vor allem das Etablieren der identifizierten Bedingungen im letzten Schritt.
 
