@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-20T09:17:25.744+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-21T10:01:12.216+02:00"}
 ---
 
 
@@ -525,7 +525,8 @@ Du kannst nicht verhindern, dass Dinge schief gehen. Du kannst aber verhindern, 
 
 Die Vergangenheit bedauern ist nicht akzeptieren; jedoch kannst Du es nicht mehr ändern. Nicht mal die Zukunft kannst Du verändern. Nur die Gegenwart ist zum Teil unter deiner Kontrolle. Akzeptiere deine jetzige Situation: One sentence—if I knew then what I know now, I would have done things differently. ([How To Deal With Regret ( 3 Stoic Strategies to Live Free)](https://dailystoic.com/how-to-deal-with-regret-3-stoic-strategies-to-live-free/))
 
-Wenn etwas schwer, unüberwindbar oder festgefahren wirkt, dann nimm Plato\`s Sicht ein, eine Adlersicht, welche von weit oben auf die Dinge schaut. Dort wirken unsere Probleme klein und unbedeutend und nur die, die es wert sind, bleiben sichtbar. (June, 2nd)
+Wenn etwas schwer, unüberwindbar oder festgefahren wirkt, dann nimm Plato\`s Sicht ein, eine Adlersicht, welche von weit oben auf die Dinge schaut. Dort wirken unsere Probleme klein und unbedeutend und nur die, die es wert sind, bleiben sichtbar. (June, 2nd){ #dice-0mju}
+
 
 Es gibt immer eine Alternative. Wenn das eine nicht klappt, probiere etwas anderes. Am Ende bleibt immer noch die Übung, ein guter Mensch zu sein und seine Philosophie zu erproben. Sei flexibel und nicht festgefahren in deinen Aufgaben und Überzeugungen. (June, 3rd){ #dice-lnt6}
 
@@ -546,7 +547,8 @@ Folge dem Prozess, statt dem großen, unheimlichen Ziel. Mach Dir klar, was das 
 Löse Probleme früh: "Flüsse sind an der Quelle am leichtesten zu überqueren." Dein Verhalten änderst Du nicht über Nacht, sondern Stück für Stück. Wenn Du immer weiter zurück an den Ursprung kommst, wird es Dir leichter Fallen, dies zu beeinflussen. (June, 9th){ #dice-n9kg}
 
 
-Es gibt 2 Arten von Personen: Diejenigen, die auf andere schauen und fragen "Warum sie und nicht ich?" und die, die sagen: "Wenn die das schaffen, kann ich das auch." Wer willst Du sein? Wer wirst Du sein? (June, 10th)
+Es gibt 2 Arten von Personen: Diejenigen, die auf andere schauen und fragen "Warum sie und nicht ich?" und die, die sagen: "Wenn die das schaffen, kann ich das auch." Wer willst Du sein? Wer wirst Du sein? (June, 10th){ #dice-fjv1}
+
 
 "Wenn Du in einem Loch sitzt, höre auf zu graben". Mach die Dinge nicht schlimmer als sie sind, z.B. indem Du Wut und Emotionen hinzufügst. Sehe die Dinge wie sie sind und suche nach einem Ausweg. (June, 11th)
 
@@ -736,3 +738,5 @@ Wohlstand bedeutet nicht, dass Du viel Geld haben musst. Andersherum heißt es n
 Auch mit Reichtum kannst Du Dir nicht alles kaufen; Gesundheit, Respekt, Liebe... Du kannst nach Reichtum streben, es wird immer etwas geben, was Du nicht kriegst. Du kannst auch damit aufhören und einfach weniger wollen. Dann wärst Du sofort Reich, denn wer ist es nicht, wenn Du alles hast was Du willst mit dem Geld, dass Du hast? (August, 29th)
 
 Qualität ist besser als Quantität. Sage nicht ja mit deinem Mund, und nein mit deinen Taten. Niemand wird kommen und Dir deine Arbeit abnehmen oder Dir das Gefühl geben, es ist bedeutsam was Du tust. All diese gegenteiligen Dinge werden Dich schlussendlich zerreißen. (August, 30th)
+
+Niemand ist der Bösewicht seiner eigenen Geschichte und niemand macht etwas aus Absicht falsch. Fehlentscheidungen sind nicht gegen Dich gerichtet. Verzeihe ihnen, wie Du Dir auch bei Fehlern verzeihst. (August, 31th)
