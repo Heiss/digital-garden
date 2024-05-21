@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kanban/","pinned":true,"created":"2024-04-10T09:50:55.146+02:00","updated":"2024-04-20T08:02:44.818+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kanban/","pinned":true,"created":"2024-04-10T09:50:55.146+02:00","updated":"2024-04-17T13:41:27.093+02:00"}
 ---
 
 
