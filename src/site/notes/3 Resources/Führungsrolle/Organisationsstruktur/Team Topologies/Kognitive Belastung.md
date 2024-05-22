@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung/","created":"2024-04-28T15:51:42.550+02:00","updated":"2024-04-29T07:29:36.809+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung/","created":"2024-04-28T15:51:42.550+02:00","updated":"2024-05-22T11:10:39.233+02:00"}
 ---
 
 
@@ -16,6 +16,8 @@ Kognitive Belastung wurde von John Sweller 1988 als "the total amount of mental 
 - Intrinsische kognitive Belastung: Dinge, die fundamental mit der Aufgabe zu tun haben
 - Extrinsische kognitive Belastung: Die Umgebung, in der die Aufgabe erledigt wird
 - Germane / relevanter kognitive Belastung: Aspekte der Aufgabe, welche besondere Aufmerksamkeit benötigt, wie High Performance Bedingungen oder zu lernende Informationen
+{ #ea3558}
+
 
 Im besten Falle wird das Team wenig intrinsischer, keiner extrinsischer und maximaler relevanter kognitiver Belastung ausgesetzt, worin die wirkliche Wertgenerierung stattfindet.
 
