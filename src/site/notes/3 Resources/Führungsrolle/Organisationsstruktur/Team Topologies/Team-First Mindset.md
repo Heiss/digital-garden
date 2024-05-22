@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-first-mindset/","created":"2024-04-28T15:50:37.464+02:00","updated":"2024-05-22T11:29:07.014+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-first-mindset/","created":"2024-04-28T15:50:37.464+02:00","updated":"2024-05-22T11:33:38.702+02:00"}
 ---
 
 
@@ -36,6 +36,6 @@ Wenn wir den oben beschrieben Team-first Ansatz verfolgen, dann brauchen auch di
 
 Beachte: Es gibt teamtoxische Personen, welche in extremen Fällen sogar ein etabliertes Team zerstören können. Diese müssen aus dem Team entfernt werden.
 
-Je diverser ein Team aufgestellt ist, desto größer kann der Aufgabenspektrum gewählt werden, da diese schneller innovative Ideen ausprobieren können - es fehlt die nötige Einarbeitungszeit. Die verschiedenen Sichtweisen und Perspektiven auf dasselbe Themen werden die Kreativität beflügeln. Bedeutet auch, dass die Diversität in einem Team positiv wahrgenommen werden muss und sogar explizit gefördert werden muss.
+Je diverser ein Team aufgestellt ist, desto breiter kann das Aufgabenspektrum gewählt werden, da diese schneller innovative Ideen ausprobieren können - es fehlt die nötige Einarbeitungszeit. Die verschiedenen Sichtweisen und Perspektiven auf dasselbe Thema werden die Kreativität beflügeln. Bedeutet auch, dass die Diversität in einem Team positiv wahrgenommen werden muss und sogar explizit gefördert werden muss.
 
 Wenn eine Belohnung ausgeteilt werden soll, wird stets das gesamte Team belohnt, niemals einzelne Personen, um das Team-Mindset nicht zu torpedieren, da lediglich die eine Person aus der Teamleistung heraus das Resultat erarbeiten konnte. Dies gilt auch für Trainings oder Ausbildungsbudgets; es wird das gesamte Team weitergebildet, nicht einzelne Personen. Auch das Aussenden zu Konferenzen sollte eine Teamentscheidung sein, denn wenn das Team eine Person zu 8 Konferenzen schicken möchte, weil sie ein gutes Berichtswesen besitzt, dann ist das in Ordnung, statt mittels Round-robin jeden "fair" zu senden.
