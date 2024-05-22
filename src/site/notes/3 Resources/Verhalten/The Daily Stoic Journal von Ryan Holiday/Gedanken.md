@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-21T10:01:12.216+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-22T09:21:44.691+02:00"}
 ---
 
 
@@ -673,7 +673,8 @@ Philosophie ist seit jeher für die Verarbeitung von mentalen Dingen und schlech
 
 Stoische Freude - sie kommt aus einem Zweck, der Exzellenz und der Pflicht. Sie kommt, wenn man ein Vorbild oder Inspiration für andere sein kann. Sie kommt von innen und ist von außen nicht zu sehen noch zu beeinflussen. (July, 30th)
 
-Sei stolz auf deine Arbeit, aber sei sie nicht. Oder hast Du kein Leben, dass Dich anderweitig definiert? Denke nicht, du seist Immun gegen das Problem des Loslassens. Oder möchtest Du von der Arbeit in einem Sarg getragen werden? Darin ist keine Ehre. (July, 31th)
+Sei stolz auf deine Arbeit, aber sei sie nicht. Oder hast Du kein Leben, dass Dich anderweitig definiert? Denke nicht, du seist Immun gegen das Problem des Loslassens. Oder möchtest Du von der Arbeit in einem Sarg getragen werden? Darin ist keine Ehre. (July, 31th){ #dice-v7e2}
+
 
 Du weißt, was zu tun ist. Warte nicht auf den richtigen Augenblick oder die perfekten Bedingungen. Mach Dir bewusst, wie die aktuelle Situation ist und handle danach. Erwarte das Unerwartete. (August, 1st)
 
@@ -740,3 +741,5 @@ Auch mit Reichtum kannst Du Dir nicht alles kaufen; Gesundheit, Respekt, Liebe..
 Qualität ist besser als Quantität. Sage nicht ja mit deinem Mund, und nein mit deinen Taten. Niemand wird kommen und Dir deine Arbeit abnehmen oder Dir das Gefühl geben, es ist bedeutsam was Du tust. All diese gegenteiligen Dinge werden Dich schlussendlich zerreißen. (August, 30th)
 
 Niemand ist der Bösewicht seiner eigenen Geschichte und niemand macht etwas aus Absicht falsch. Fehlentscheidungen sind nicht gegen Dich gerichtet. Verzeihe ihnen, wie Du Dir auch bei Fehlern verzeihst. (August, 31th)
+
+Trainiere deine Seele und damit auch Dich, denn dann bist Du unabhängig von deinem Glück. Wenn Du in allen Situationen nach deinen Regeln und Wünschen agierst, dann brauchst Du kein Glück. Du bist deines eigen Glückes Schmied. (September, 1st)
