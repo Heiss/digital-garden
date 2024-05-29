@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/interaktionsmodi/","created":"2024-04-28T15:27:23.449+02:00","updated":"2024-04-29T07:29:36.797+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/interaktionsmodi/","created":"2024-04-28T15:27:23.449+02:00","updated":"2024-04-28T21:36:22.204+02:00"}
 ---
 
 
