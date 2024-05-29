@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/anforderungsmanagement/smart-prinzip/","created":"2024-05-20T13:18:23.569+02:00","updated":"2024-05-21T08:23:33.077+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/anforderungsmanagement/smart-prinzip/","created":"2024-05-20T13:18:23.569+02:00","updated":"2024-05-20T13:27:45.887+02:00"}
 ---
 
 
