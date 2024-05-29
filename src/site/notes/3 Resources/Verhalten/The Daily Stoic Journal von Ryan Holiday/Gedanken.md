@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-22T09:21:44.691+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2023-10-23T06:51:44.223+02:00","updated":"2024-05-29T17:46:35.607+02:00"}
 ---
 
 
@@ -56,7 +56,8 @@ Wenn Du Klarheit suchst und beständig sein willst, dann ist ein geeignetes Urte
 Stoiker suchen Beständigkeit, Stabilität und Ruhe. Die meisten suchen diese Eigenschaften, erreichen sie aber nur selten. Man erreicht sie nicht, indem man von externen Einflüssen wegläuft, sondern indem man sie durch sein Richtapperat (Wichtig, Dringend, Ist es notwendig zu wissen) des Urteilsvermögen filtert. (Jan, 10th){ #dice-32a1}
 
 
-Wenn die Entscheidung nicht gerade und unehrlich ist, dann sind es auch die Konsequenzen.  Dadurch kann die Welt überwältigend und verwirrend sein. (Jan, 10th)
+Wenn die Entscheidung nicht gerade und unehrlich ist, dann sind es auch die Konsequenzen.  Dadurch kann die Welt überwältigend und verwirrend sein. (Jan, 10th){ #dice-67ui}
+
 
 Wenn Du schädliche und störende Entscheidungen, welche Dir Probleme erzeugen, vermeidest, dann wirst Du beständig und stabil, egal wo Du bist oder was Dir passiert. (Jan, 11th){ #dice-c27s}
 
@@ -321,7 +322,8 @@ Du bist nicht dein Job, Du bist nicht das Geld auf deinem Konto, Du bist nicht d
 Stress, Überwältigung, Frust - alle Emotionen kommen von innen, die Auslöser können von außen kommen. Aber über das Innere haben wir Kontrolle. Wir können uns also nur gestresst fühlen, wenn wir es zulassen. (Mar, 18th){ #dice-qnux}
 
 
-Hypolêpsis - Das aufgreifen von Emotionen, Wahrnehmung, Gedanken und Urteile des Geistes. (Mar, 18th)
+Hypolêpsis - Das aufgreifen von Emotionen, Wahrnehmung, Gedanken und Urteile des Geistes. (Mar, 18th){ #dice-ji4f}
+
 
 Alles um uns herum - ob gut oder schlecht - wird durch uns wahrgenommen und dadurch erst gut oder schlecht. Es ist also nicht von sich aus gut oder schlecht. Das bedeutet, es bekommt diese Eigenschaft durch uns. Und das können wir ändern: Wie wir etwas finden, hat mit den Erwartungen und Erfahrungen zu tun. Dieses Label können wir ändern. (Mar, 19th){ #dice-oiye}
 
@@ -342,7 +344,8 @@ Erkenne deine Gier, Schwächen und Laster. Andere dafür zu verurteilen, dass si
 Jede Philosophie ist erst etwas wert, wenn Du sie im Leben anwendest und sie dort wiederfindest. Erst das füllt die Worte mit Bedeutung. (Mar, 24th){ #dice-1p09}
 
 
-Es gibt 2 Wege, um reich zu sein: Entweder alles haben wollen, was man will oder alles wollen, was man bereits hat. Genau so mit der Freiheit: Noch freier sein zu wollen, wird dich nicht frei machen. Finde deine jetzige Freiheit, dann bist Du genau jetzt frei. Und reich. Hier und jetzt. (Mar, 25th)
+Es gibt 2 Wege, um reich zu sein: Entweder alles haben wollen, was man will oder alles wollen, was man bereits hat. Genau so mit der Freiheit: Noch freier sein zu wollen, wird dich nicht frei machen. Finde deine jetzige Freiheit, dann bist Du genau jetzt frei. Und reich. Hier und jetzt. (Mar, 25th){ #dice-btql}
+
 
 "Distanz ist, was dein Kopf daraus macht." (Unbekannt, Satz an der Torminbrücke){ #dice-ayhq}
 
@@ -398,7 +401,8 @@ Meistens ist weniger Mehr. Verstecke deine Aussagen nicht hinter schwierigen ode
 Überlege Dir genau, worin Du ein Experte sein möchtest. Hilft es deinen Kindern Experte in den politischen Nachrichten zu sein oder das Du weißt, wie Du glücklich und ausgeglichen bist? (Apr, 14th){ #dice-nu32}
 
 
-Arrangiere Dich mit deinen Steuern. Alles kostet Steuern, in verschiedenen, nicht geldlichen, Formen. Das Warten ist die Steuer des Reisens, Stress und Probleme sind die Steuern des Erfolgs. Akzeptiere sie und erfreue Dich an den Dingen, die sie dir geben. (Apr, 15th)
+Arrangiere Dich mit deinen Steuern. Alles kostet Steuern, in verschiedenen, nicht geldlichen, Formen. Das Warten ist die Steuer des Reisens, Stress und Probleme sind die Steuern des Erfolgs. Akzeptiere sie und erfreue Dich an den Dingen, die sie dir geben. (Apr, 15th){ #dice-aem9}
+
 
 Achte auf deine Gedanken und in welchen Aktionen sie resultieren und frage dich, woher diese Gedanken kamen. Erst dann kannst Du negative Gedanken umwandeln in Positive. (Apr, 16th)
 
@@ -493,7 +497,8 @@ Bringe dein gelerntes zur regelmäßigen Anwendung. Nur das Training und die Üb
 Qualität über Quantität. Du wirst nicht alles wissen oder lernen können, aber das was Du lernst, solltest Du gut können und gut verstehen. (May, 20th){ #dice-2j4g}
 
 
-Sollte Dich Widerstand stoppen in deiner Disziplin? Oder sollte es Dich ermutigen noch härter für deine Überzeugungen zu kämpfen? Welche Art von Boxer möchtest Du sein, wenn Du getroffen wirst? (May, 21st)
+Sollte Dich Widerstand stoppen in deiner Disziplin? Oder sollte es Dich ermutigen noch härter für deine Überzeugungen zu kämpfen? Welche Art von Boxer möchtest Du sein, wenn Du getroffen wirst? (May, 21st){ #dice-h8pu}
+
 
 "Heute ist der Tag", nicht morgen, an dem Du etwas starten wirst. Was hat der morgige Tag, was der heute nicht hat? (May, 22nd){ #dice-5u0e}
 
@@ -555,11 +560,14 @@ Es gibt 2 Arten von Personen: Diejenigen, die auf andere schauen und fragen "War
 Übe Dich der Situation anzupassen und eine Lösung zu adaptieren, statt dich an einen Plan zu halten. Ein Plan wird Dich nicht für alles vorbereiten. Aber wenn Du die Situation adaptieren kannst mit Kreativität, Selbstbewusstsein und Wissen, dann kannst Du alles lösen. (June, 12th){ #dice-xbiy}
 
 
-"Leben heißt Kampf". Du brauchst dieselben Eigenschaften wie ein Soldat (Disziplin, Selbstlosigkeit, Klaren Kopf behalten, Courage, Standfestigkeit, ...), um deine Impulse zu überwinden, um der Mensch zu werden, der Du sein möchtest. Mache Dir bewusst, dass deine Position auf dem Schlachtfeld des Lebens keine Unbedeutende ist, denn andere Leben fußen auf Dir und sind angewiesen darauf, dass Du deine Arbeit gut machst. (June, 13th)
+"Leben heißt Kampf". Du brauchst dieselben Eigenschaften wie ein Soldat (Disziplin, Selbstlosigkeit, Klaren Kopf behalten, Courage, Standfestigkeit, ...), um deine Impulse zu überwinden, um der Mensch zu werden, der Du sein möchtest. Mache Dir bewusst, dass deine Position auf dem Schlachtfeld des Lebens keine Unbedeutende ist, denn andere Leben fußen auf Dir und sind angewiesen darauf, dass Du deine Arbeit gut machst. (June, 13th){ #dice-4hnp}
 
-Alle Dinge haben 2 Griffe. Wenn der eine nicht für Dich funktioniert, versuche den anderen. Probiere aus und sei nicht stur in der Verwendung eines Griffes. (June, 14th)
 
-"Der Mensch hat aus einem Grund 2 Ohren, aber nur einen Mund: Mehr zuhören als reden." Der Weise folgt 3 Prinzipien: 
+Alle Dinge haben 2 Griffe. Wenn der eine nicht für Dich funktioniert, versuche den anderen. Probiere aus und sei nicht stur in der Verwendung eines Griffes. (June, 14th){ #dice-zmf3}
+
+
+"Der Mensch hat aus einem Grund 2 Ohren, aber nur einen Mund: Mehr zuhören als reden." Der Weise folgt 3 Prinzipien: { #dice-dnjw}
+
 - Er kann seine Erwartungen verwalten. Er weiß was er möchte und was realistisch passieren wird.
 - Er betrachtet den besten und schlechtesten Fall und bereitet sich auf beide vor.
 - Wenn alles wie gewünscht passiert, ist es eine Gelegenheit für Exzellenz und Tugend (June, 15th)
@@ -658,7 +666,8 @@ Du möchtest deine Pflichten erfüllen und das richtige tun. Nicht weil Dich jem
 
 Deine Position oder andere Details sagen nichts über Dich als Person aus; nur dein Verhalten ist etwas wert. (July, 23th)
 
-Lass Dich nicht von Neuigkeiten rund um den Globus emotionalisieren, wenn sie kein Verhalten provozieren. Sonst konzentriere Dich auf deine Pflichten, es lenkt Dich sonst nur ab von den wahren Dingen. (July, 24th)
+Lass Dich nicht von Neuigkeiten rund um den Globus emotionalisieren, wenn sie kein Verhalten provozieren. Sonst konzentriere Dich auf deine Pflichten, es lenkt Dich sonst nur ab von den wahren Dingen. (July, 24th){ #dice-jpyi}
+
 
 Ränge und Positionen sind nicht das, was deine Arbeit ausmacht, außer das Du sie mit Lebenszeit bezahlst. Sie zeigen nur, was Du bereit warst, aufzugeben für etwas nutzloses. Deine Taten müssen für sich sprechen. Du siehst nicht, wer auf dem Weg zur Spitze liegen geblieben ist und die meisten an der Spitze legen ein egoistisches Verhalten an den Tag. (July, 25th){ #dice-mxi6}
 
@@ -743,3 +752,20 @@ Qualität ist besser als Quantität. Sage nicht ja mit deinem Mund, und nein mit
 Niemand ist der Bösewicht seiner eigenen Geschichte und niemand macht etwas aus Absicht falsch. Fehlentscheidungen sind nicht gegen Dich gerichtet. Verzeihe ihnen, wie Du Dir auch bei Fehlern verzeihst. (August, 31th)
 
 Trainiere deine Seele und damit auch Dich, denn dann bist Du unabhängig von deinem Glück. Wenn Du in allen Situationen nach deinen Regeln und Wünschen agierst, dann brauchst Du kein Glück. Du bist deines eigen Glückes Schmied. (September, 1st)
+
+Philosophie ist wie ein Krankenhaus. Häufig geht man erst durch Schmerzen hindurch, bevor es besser wird. Denn der Schmerz ist der Druck auf den Stellen, die weh tun. (September, 2nd)
+
+Es gibt keine Pause vom Leben, also auch nicht von unseren Vorbereitungen und Gedanken dazu. Bereite Dich in ruhigen Zeiten auf stürmische vor und arbeite solange an ihnen, bis sie erledigt sind. (September, 3rd)
+
+Habe keine Angst vor Anstrengungen, sie können eine prägende Erfahrung sein; "Was mich nicht umbringt, macht mich stärker" (Nietzsche). Wenn Du keinen Gegner besiegen musst, weißt Du nicht, zu was Du fähig bist und wo deine Kapazitäten liegen. (September, 4th)
+
+Fokussiere Dich auf das, was Du alleine kontrollierst: Du selbst. Du wirst niemals wieder jemanden für etwas verantwortlich machen (nichtmal du selbst) zu Dingen, die du nicht kontrollierst. (September, 5th){ #dice-ia9d}
+
+
+Niemand kann Dir die Freiheit deines eigenen freien Willens nehmen, nur Du selbst. (September, 6th)
+
+Finde das Positive in deiner Situation und deine Möglichkeiten deiner Wahl. Du kannst sicherlich mehr ändern als Dir bewusst ist. Das ist deine Superkraft, die in jedem Menschen wohnt. (September, 7th)
+
+Übe die Notlage in ruhigen, sonnigen Tagen. Dann weißt Du, du wirst auch in Armut, Krankheit oder Hunger funktionieren und Lösungen finden. Lass Dich auf den Kulturschock ein und lasse deinen Verstand arbeiten. "Bereite Dich im Frieden auf den Krieg vor." (September, 8th)
+
+Wir können uns dazu zwingen mit weniger klarzukommen. Dann sind wir gut gerüstet für solche Zeiten. Verzichte bewusst auf Luxus oder Annehmlichkeiten. (September, 9th)
