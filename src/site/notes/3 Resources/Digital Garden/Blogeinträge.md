@@ -8,5 +8,6 @@ Die folgende Tabelle zeigt alle veröffentlichten Beiträge, welche als Blogpost
 | File                                                                                                            | Created Date  | Updated Date   |
 | --------------------------------------------------------------------------------------------------------------- | ------------- | -------------- |
 | [[3 Resources/Nix & NixOS/Publish hugo blog with asciidoc and Nix\|Publish hugo blog with asciidoc and Nix]] | June 23, 2024 | April 20, 2024 |
+| [[3 Resources/Softwarearchitektur/Arc42 in AsciiDoc/Arc42 in AsciiDoc\|Arc42 in AsciiDoc]]                   | July 07, 2024 | July 07, 2024  |
 
 { .block-language-dataview}

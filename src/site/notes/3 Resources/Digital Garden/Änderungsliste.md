@@ -9,6 +9,9 @@ In der folgenden Liste sind alle Dateien der gesamten Webseite gezeigt und nach 
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | -------------- |
 | [[3 Resources/Führungsrolle/Architecture for flow/Strategischer Ansatz um Fast Flow Softwaregrenzen zu finden\|Strategischer Ansatz um Fast Flow Softwaregrenzen zu finden]]                     | June 23, 2024 | July 07, 2024  |
 | [[3 Resources/Führungsrolle/Change Management/Change Management nach Kotter/Management vs. Führung\|Management vs. Führung]]                                                                     | June 23, 2024 | July 07, 2024  |
+| [[3 Resources/Obsidian Benutzung/Task Management\|Task Management]]                                                                                                                              | June 23, 2024 | July 07, 2024  |
+| [[3 Resources/Obsidian Benutzung/Wissensarbeit Zettelkasten\|Wissensarbeit Zettelkasten]]                                                                                                        | June 23, 2024 | July 07, 2024  |
+| [[3 Resources/Obsidian Benutzung/Time Tracking und Management\|Time Tracking und Management]]                                                                                                    | June 23, 2024 | July 07, 2024  |
 | [[3 Resources/Verhalten/The Daily Stoic Journal von Ryan Holiday/Gedanken\|Gedanken]]                                                                                                            | June 23, 2024 | July 07, 2024  |
 | [[3 Resources/Softwarearchitektur/Arc42 in AsciiDoc/Arc42 in AsciiDoc\|Arc42 in AsciiDoc]]                                                                                                       | July 07, 2024 | July 07, 2024  |
 | [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team-First Mindset\|Team-First Mindset]]                                                                                       | June 23, 2024 | June 06, 2024  |
@@ -69,7 +72,6 @@ In der folgenden Liste sind alle Dateien der gesamten Webseite gezeigt und nach 
 | [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/technische Schulden\|technische Schulden]]                                                                                                   | June 23, 2024 | April 28, 2024 |
 | [[3 Resources/Verhalten/The Daily Stoic Journal von Ryan Holiday/The Daily Stoic Journal von Ryan Holiday\|The Daily Stoic Journal von Ryan Holiday]]                                            | June 23, 2024 | April 28, 2024 |
 | [[1 Projects/P Distributed ADT types in Rust/Distributed ADT Projektbeschreibung\|Distributed ADT Projektbeschreibung]]                                                                          | June 23, 2024 | April 27, 2024 |
-| [[3 Resources/Obsidian Benutzung/Task Management\|Task Management]]                                                                                                                              | June 23, 2024 | April 26, 2024 |
 | [[0 Inbox/0 Inbox\|0 Inbox]]                                                                                                                                                                     | June 23, 2024 | April 25, 2024 |
 | [[3 Resources/Obsidian Benutzung/Integration/Outlook\|Outlook]]                                                                                                                                  | June 23, 2024 | April 25, 2024 |
 | [[3 Resources/Obsidian Benutzung/Read-It-Later\|Read-It-Later]]                                                                                                                                  | June 23, 2024 | April 25, 2024 |
@@ -117,7 +119,5 @@ In der folgenden Liste sind alle Dateien der gesamten Webseite gezeigt und nach 
 | [[3 Resources/Obsidian Benutzung/Integration/Outlook - Integration Anleitung\|Outlook - Integration Anleitung]]                                                                                  | June 23, 2024 | April 14, 2024 |
 | [[3 Resources/Obsidian Benutzung/Glossar\|Glossar]]                                                                                                                                              | June 23, 2024 | April 14, 2024 |
 | [[3 Resources/Obsidian Benutzung/Maps of Content\|Maps of Content]]                                                                                                                              | June 23, 2024 | April 14, 2024 |
-| [[3 Resources/Obsidian Benutzung/Wissensarbeit Zettelkasten\|Wissensarbeit Zettelkasten]]                                                                                                        | June 23, 2024 | April 14, 2024 |
-| [[3 Resources/Obsidian Benutzung/Time Tracking und Management\|Time Tracking und Management]]                                                                                                    | June 23, 2024 | April 14, 2024 |
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/task-management/","created":"2024-06-23T19:46:00.905+02:00","updated":"2024-04-26T15:02:36.310+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/task-management/","created":"2024-06-23T19:46:00.905+02:00","updated":"2024-07-07T19:16:23.363+02:00"}
 ---
 
 
@@ -11,6 +11,12 @@ Zu Beginn meiner PKM-Reise habe ich die [[Eisenhower-Matrix\|Eisenhower-Matrix]]
 Vor allem kommt Todoist zum Einsatz, weil die App ein Widget für den Android Homescreen bereitstellt. Damit kann ich kurzerhand Aufgaben aufnehmen ohne Obsidian erst starten zu müssen. Dies reduziert die Schwelle immens und man kann sich weiterhin auf seine aktuelle Aufgabe konzentrieren.
 
 # Überlegungen für Datenschutz
+
+## Aktuelle Migration
+
+Sobald mein [PR](https://github.com/obsidianmd/obsidian-releases/pull/3749) in Obsidian angenommen wird, werde ich auf ein selbst gehostetes [The open-source, self-hostable to-do app | Vikunja](https://vikunja.io) umsteigen. Es wird sehr ähnlich meinem aktuellen Todoist-Workflow sein.
+
+## Veraltet
 
 Ich würde gerne eher auf Systeme wie [todo.txt](http://todotxt.org) setzen, da diese deine Daten, wie Obsidian, lokal hält. Um sowas zu nutzen, aber meinen Workflow beizubehalten, brauche ich dann auch eine entsprechende [App für Android](https://play.google.com/store/apps/details?id=net.c306.ttsuper).
 Leider gibt es kein gutes Plugin für Obsidian, welches die entsprechende Datei versteckt und diese mit den Infos aus dem Vault befüllt. Stattdessen machen alle Plugins die Funktionalität der Desktop-Anwendungen.
