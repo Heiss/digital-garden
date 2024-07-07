@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/change-management-nach-kotter/","created":"2024-05-26T18:57:23.950+02:00","updated":"2024-05-26T18:57:49.965+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/change-management-nach-kotter/","created":"2024-06-23T19:46:00.367+02:00","updated":"2024-05-26T18:57:49.965+02:00"}
 ---
 
 

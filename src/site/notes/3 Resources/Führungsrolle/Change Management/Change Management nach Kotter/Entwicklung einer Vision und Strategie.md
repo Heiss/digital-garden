@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/entwicklung-einer-vision-und-strategie/","created":"2024-05-26T15:26:42.043+02:00","updated":"2024-05-26T18:57:10.396+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/entwicklung-einer-vision-und-strategie/","created":"2024-06-23T19:46:00.371+02:00","updated":"2024-05-26T18:57:10.396+02:00"}
 ---
 
 
@@ -51,7 +51,7 @@ Hier wird sich auf die Randbedingungen fokussiert, die Gründe für das Warum un
 - Wünschenswert (Desirable): Greift die Langzeitwünsche von Mitarbeitern und Stakeholdern auf
 - Machbar (Feasible): Umfasst realistische, erreichbare Ziele
 - Fokussiert (Focused): Ist klar genug, um eine Richtung bei Entscheidungsfindungen zu geben
-- Flexibel (Flexible): Ist Allgemein genug um einzelnen Initiativen und alternative Antworten Bewegungsspielraum zu geben im Anbetracht der sich verändernden Bedingungen (Siehe auch Kriegsstrategien bei [[3 Resources/Führungsrolle/Anforderungsmanagement/Wardley Mapping\|Wardley Mapping]])
+- Flexibel (Flexible): Ist Allgemein genug um einzelnen Initiativen und alternative Antworten Bewegungsspielraum zu geben im Anbetracht der sich verändernden Bedingungen (Siehe auch Kriegsstrategien bei [[3 Resources/Anforderungsmanagement/Wardley Mapping\|Wardley Mapping]])
 - Kommunizierbar (Communicable): Ist leicht zu kommunizieren und kann erfolgreich innerhalb von 5 Minuten erklärt werden
 
 > [!NOTE] 

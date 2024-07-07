@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/p-godot-game/game-design-document/core/game-loop/","created":"2024-04-14T18:05:08.047+02:00","updated":"2024-04-14T18:18:36.490+02:00"}
+{"dg-publish":true,"permalink":"/1-projects/p-godot-game/game-design-document/core/game-loop/","created":"2024-06-23T19:45:59.742+02:00","updated":"2024-04-14T18:18:36.490+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/platform-team/","created":"2024-04-28T15:22:45.654+02:00","updated":"2024-04-28T16:56:53.062+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/platform-team/","created":"2024-06-23T19:46:00.560+02:00","updated":"2024-04-28T16:56:53.062+02:00"}
 ---
 
 

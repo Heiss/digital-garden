@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-04-14T10:43:50.050+02:00","updated":"2024-05-17T10:39:18.589+02:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-06-23T19:46:00.210+02:00","updated":"2024-05-17T10:39:18.589+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@ Hallo und willkommen zu meinem digitalen Garten.
 
 Mein Name ist [Peter Heiss](https://github.com/Heiss). Ich arbeite an der Universitäts- und Landesbibliothek Münster und würde mich selbst als technischen Allrounder bezeichnen. Studiert habe ich an der Universität Münster Mathematik, Informatik und Erziehungswissenschaften, wobei ich selbst stets ein sehr hohes Interesse an der Informatik hatte. Das habe ich wohl aus meinem vorherigen Studium der technischen Informatik an der TU Berlin mitgenommen. Dieses hohe Interesse hat mich dann auch nach meinem "Master of Education"-Abschluss 3 Jahre als Programmierer beschäftigt. Nun bin ich in leitender Position und interessiere mich sehr dafür, wie man die Arbeit einer größeren Abteilung plant, strukturiert und effizient anleitet.
 
-Daher wirst Du hier viele verschiedene Themenbereiche finden. Darunter sind die Themen [[3 Resources/Programmierung/Programmierung\|Programmierung]], [[Nix & NixOS\|seiteneffektfreies Deployment mit nixOS]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]] oder die Prozesssteuerungsmethode [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban\|Kanban]]. Aber auch die Theorie und Praxis von modernen [[3 Resources/Führungsrolle/Softwarearchitektur/Softwarearchitektur\|Softwarearchitektur]]en interessiert mich sehr.
+Daher wirst Du hier viele verschiedene Themenbereiche finden. Darunter sind die Themen [[3 Resources/Programmierung/Programmierung\|Programmierung]], [[Nix & NixOS\|seiteneffektfreies Deployment mit nixOS]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]] oder die Prozesssteuerungsmethode [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban\|Kanban]]. Aber auch die Theorie und Praxis von modernen [[3 Resources/Softwarearchitektur/Softwarearchitektur\|Softwarearchitektur]]en interessiert mich sehr.
 Die theoretische Informatik lässt mich auch nach dem Studium nicht los, da mich aktuell zum Beispiel die Arbeit mit [[3 Resources/Programmierung/TLA+/TLA+\|TLA+]] sehr fasziniert sowie die Arbeit an komplexen Aufgabenstellungen wie [Codewars - Achieve mastery through coding practice and developer mentorship](https://www.codewars.com) oder [Advent of Code 2023](https://github.com/Heiss/learning_tasks/tree/develop/Rust/adventofcode23/src).
 Zusätzlich nutze ich sehr gerne die [[vim\|vim keybindings]] in sämtlichen Tools und versuche meine Eingabeperformance weiter zu verbessern z.B. durch die Nutzung des [[3 Resources/Eingabeeffizienz steigern/Tastatur/Colemak\|Colemak]]-Layouts, der [[3 Resources/Eingabeeffizienz steigern/Tastatur/ZSA Moonlander\|ZSA Moonlander]] und dem Einsatz der [[3 Resources/Eingabeeffizienz steigern/CharaChorder/CharaChorder\|CharaChorder]]. 
 
@@ -26,7 +26,7 @@ Sollten also Dinge zu kurz gekommen sein, fühl Dich frei, in die Kommentare zu 
 
 In meiner Freizeit schreibe ich aktuell meine Masterarbeit für den Studiengang [Master of library and information systems](https://www.th-koeln.de/studium/bibliotheks--und-informationswissenschaft-master_3202.php), welcher mir eine bessere Arbeit im Kontext des deutschen Bibliothekssystems erlaubt.
 
-Darüber hinaus arbeite ich an einer Rust-Bibliothek für [[1 Projects/P Distributed ADT types in Rust/Distributed ADT Projektbeschreibung\|verteilte abstrakte Datentypen]], um mein Wissen in dieser Thematik aufzufrischen und Rust zu vertiefen. Außerdem nutze ich dieses Thema, um mich mit verteilten Systemen und damit modernen [[3 Resources/Führungsrolle/Softwarearchitektur/Softwarearchitektur\|Softwarearchitektur]]en zu beschäftigen.
+Darüber hinaus arbeite ich an einer Rust-Bibliothek für [[1 Projects/P Distributed ADT types in Rust/Distributed ADT Projektbeschreibung\|verteilte abstrakte Datentypen]], um mein Wissen in dieser Thematik aufzufrischen und Rust zu vertiefen. Außerdem nutze ich dieses Thema, um mich mit verteilten Systemen und damit modernen [[3 Resources/Softwarearchitektur/Softwarearchitektur\|Softwarearchitektur]]en zu beschäftigen.
 
 Zusätzlich schreibe ich an einem [[1 Projects/P Godot Game/Game Design Document/Game Design Document\|Game Design Document]], um daraus ggf. ein Spiel auf Basis der [[3 Resources/Godot Engine/Godot Engine\|Godot Engine]] und dessen [[3 Resources/Godot Engine/gdext-rust/gdext-rust\|Rust-bindings]] zu erstellen.
 

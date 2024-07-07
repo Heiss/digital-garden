@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/fuehrung-und-lebenslanges-lernen/","created":"2024-05-26T15:30:09.769+02:00","updated":"2024-05-26T18:57:10.410+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/fuehrung-und-lebenslanges-lernen/","created":"2024-06-23T19:46:00.375+02:00","updated":"2024-05-26T18:57:10.410+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/collaboration/","created":"2024-04-28T15:24:51.653+02:00","updated":"2024-04-28T16:47:39.475+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/collaboration/","created":"2024-06-23T19:46:00.529+02:00","updated":"2024-04-28T16:47:39.475+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/softwarearchitektur/arc42-in-ascii-doc/arc42-in-ascii-doc/","created":"2024-07-07T12:55:03.316+02:00","updated":"2024-07-07T13:32:24.390+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/softwarearchitektur/arc42-in-ascii-doc/arc42-in-ascii-doc/","created":"2024-07-07T12:55:03.316+02:00","updated":"2024-07-07T13:46:23.110+02:00"}
 ---
 
 
@@ -153,7 +153,14 @@ include::../c4model/workspace.dsl[]
 ```
 
 This asciidoc example show two different diagrams, generated from the same file. Nice!
-In the future, if my [PR](https://github.com/yuzutech/kroki/pull/1684) got merged, you can also use [[3 Resources/Anforderungsmanagement/Wardley Mapping\|Wardley Maps]] easily in your arc42 doc.
+In the future, if my [PR](https://github.com/yuzutech/kroki/pull/1684) got merged, you can also use [[3 Resources/Anforderungsmanagement/Wardley Mapping\|Wardley Maps]] easily in your arc42 doc for example created by [OnlineWardleyMaps.com](https://onlinewardleymaps.com).
+
+```asciidoc
+[wardleymap]
+....
+include::../wardleymap/wardley.map
+....
+```
 
 ## Bibtex
 

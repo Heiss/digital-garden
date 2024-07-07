@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/erstellung-einer-fuehrungskoalition/","created":"2024-05-26T15:25:59.374+02:00","updated":"2024-05-26T18:57:10.402+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/erstellung-einer-fuehrungskoalition/","created":"2024-06-23T19:46:00.373+02:00","updated":"2024-05-26T18:57:10.402+02:00"}
 ---
 
 

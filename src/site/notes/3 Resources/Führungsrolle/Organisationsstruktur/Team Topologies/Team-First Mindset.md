@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-first-mindset/","created":"2024-04-28T15:50:37.464+02:00","updated":"2024-05-22T11:33:53.962+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-first-mindset/","created":"2024-06-23T19:46:00.576+02:00","updated":"2024-06-06T19:01:26.372+02:00"}
 ---
 
 
@@ -22,6 +22,7 @@ Tuckman Teal Performance Model [The Tuckman Model: A Roadmap for Team Developmen
 2. Storming: working through initial differences in personality and ways of working
 4. Norming: evolving standard ways of working together
 5. Performing: reaching a state of high effectiveness
+
 Dieses Modell ist nach aktueller Forschung nicht ganz akkurat, denn Storming findet durch die gesamte Lebenszeit eines Teams punktuell statt. Dies kommt durch die Natur der Organisation und dessen Dynamik sowie der Teamdynamik.
 
 # Umsetzung

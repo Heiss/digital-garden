@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/einen-sinn-fuer-dringlichkeit-etablieren/","created":"2024-05-26T15:25:12.925+02:00","updated":"2024-05-26T18:57:10.390+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/einen-sinn-fuer-dringlichkeit-etablieren/","created":"2024-06-23T19:46:00.369+02:00","updated":"2024-05-26T18:57:10.390+02:00"}
 ---
 
 

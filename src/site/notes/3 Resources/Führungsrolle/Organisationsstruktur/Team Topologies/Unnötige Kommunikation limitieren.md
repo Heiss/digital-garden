@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/unnoetige-kommunikation-limitieren/","created":"2024-04-28T16:26:05.315+02:00","updated":"2024-04-28T16:59:22.647+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/unnoetige-kommunikation-limitieren/","created":"2024-06-23T19:46:00.578+02:00","updated":"2024-06-02T19:20:40.376+02:00"}
 ---
 
 
@@ -19,6 +19,7 @@ Gleiches gilt für ein Team, welches mehrere Bereiche eines Systems bearbeiten; 
 # Nicht jeder muss mit jedem reden
 
 Bei Many-to-many Kommunikation, z.B. durch "demokratische Meeting" (jeder wird eingeladen), besagt [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]], dass monolithische, hoch verknüpfte, verschränkte, abhängige Systeme entstehen müssen, welche nicht fast flow unterstützen, denn es benötigt viel Kommunikation die Veränderungen zu entscheiden und umzusetzen.
+
 > [!NOTE] Überlegung
 > Ein Hinweis für eine solche Policy könnte sein, wenn mehrere Chats existieren, worin eine hohe Überschneidung der Teilnehmer existiert, denn "jeder soll die Nachrichten sehen".
 
