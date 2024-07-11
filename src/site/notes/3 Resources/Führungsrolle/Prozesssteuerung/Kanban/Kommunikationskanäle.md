@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kommunikationskanaele/","created":"2024-06-23T19:46:00.651+02:00","updated":"2024-04-14T16:10:22.065+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kommunikationskanaele/","created":"2024-06-23T19:53:53.875+02:00","updated":"2024-04-14T16:10:22.065+02:00"}
 ---
 
 
