@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/8-stufen-prozess-fuer-grosse-aenderungen/","created":"2024-06-23T19:46:00.361+02:00","updated":"2024-05-26T18:57:10.377+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/8-stufen-prozess-fuer-grosse-aenderungen/","created":"2024-06-23T19:53:51.935+02:00","updated":"2024-05-27T08:20:57.653+02:00"}
 ---
 
 
