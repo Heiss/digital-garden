@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/verbesserungstrigger/","created":"2024-06-23T19:46:00.582+02:00","updated":"2024-04-28T16:59:30.984+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/verbesserungstrigger/","created":"2024-06-23T19:53:53.532+02:00","updated":"2024-04-29T07:29:31.932+02:00"}
 ---
 
 
