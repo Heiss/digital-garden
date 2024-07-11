@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/x-as-a-service/","created":"2024-06-23T19:46:00.586+02:00","updated":"2024-04-28T16:59:41.813+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/x-as-a-service/","created":"2024-06-23T19:53:53.564+02:00","updated":"2024-04-29T07:29:31.934+02:00"}
 ---
 
 
