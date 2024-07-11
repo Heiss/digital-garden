@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban-in-der-it-von-klaus-leopold/nachschubmeeting/","created":"2024-06-23T19:46:00.682+02:00","updated":"2024-04-17T20:14:12.754+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban-in-der-it-von-klaus-leopold/nachschubmeeting/","created":"2024-06-23T19:53:54.010+02:00","updated":"2024-04-17T14:17:13.785+02:00"}
 ---
 
 
