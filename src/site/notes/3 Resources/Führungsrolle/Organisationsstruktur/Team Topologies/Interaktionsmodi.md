@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/interaktionsmodi/","created":"2024-06-23T19:46:00.550+02:00","updated":"2024-04-28T21:36:22.204+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/interaktionsmodi/","created":"2024-06-23T19:53:53.310+02:00","updated":"2024-07-11T10:52:35.484+02:00"}
 ---
 
 
@@ -9,6 +9,8 @@ Durch nicht klar definierte Interaktionen zwischen den Teams, kann es zu Brüche
 > Unregelmäßige, kurzfristige Kommunikation bringt die besten Resultate und erhöht die durchschnittliche Qualität. Diese Form der Kommunikation findet bessere Lösungen als konstante Interaktion.
 
 Es konnten 3 Modi identifiziert werden, welche [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Gesetz von Conway\|Conways Law]] und die Team-first Dynamiken berücksichtigen: [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Collaboration\|Collaboration]], [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/X-as-a-Service\|XaaS]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Facilitating\|Facilitating]].
+
+![Pasted image 20240416191308.png](/img/user/4%20Archive/Assets/Pasted%20image%2020240416191308.png)
 
 Für die meisten mittleren bis großen Unternehmungen wird eine Mischung aus allen 3 Modi gebraucht, um die Arbeit effizient zu unterstützen. Aber auch für kleine Organisation wird eine der Modi früher nötig sein als einem bewusst ist.
 Ein Team sollte nicht zwangsweise sämtliche Kommunikation auf eine der Modi reduzieren, sondern die Interaktion wird angepasst, je nach Situationsbedarf. Zwischen denselben Teams sollte jedoch nur eine der Modi vereinbart werden. Ein Wechsel ist möglich, aber muss bewusst kommuniziert werden.
