@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2024-06-23T19:46:01.075+02:00","updated":"2024-07-07T12:29:11.885+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2024-06-23T19:46:01.075+02:00","updated":"2024-07-11T10:09:00.948+02:00"}
 ---
 
 
@@ -520,7 +520,8 @@ Finde die Arbeit, welche zu deinem Leben gehört. Ein glücklicher Mensch ist de
 
 Verschwende keine Zeit darauf, was andere Leute denken (könnten), sondern konzentriere Dich auf dein Denken: Welchen Einfluss Du hast, was das Ergebnis deines Handelns sind, darüber, was das Richtige für Dich ist. (May, 26th)
 
-"Dein Wohlbefinden besteht aus kleinen Schritten, aber ist selbst keine Kleinigkeit." Alles kann entweder schnell oder richtig gemacht werden. Wähle stets den richtigen Weg und schaue, wie gut es Dir tun wird. Das bedeutet: Aufstehen zur richtigen Zeit, das Bett machen, in dich selbst investieren, deine Arbeit gut machen, Abkürzungen widerstehen... (May, 27th)
+"Dein Wohlbefinden besteht aus kleinen Schritten, aber ist selbst keine Kleinigkeit." Alles kann entweder schnell oder richtig gemacht werden. Wähle stets den richtigen Weg und schaue, wie gut es Dir tun wird. Das bedeutet: Aufstehen zur richtigen Zeit, das Bett machen, in dich selbst investieren, deine Arbeit gut machen, Abkürzungen widerstehen... (May, 27th){ #dice-zfny}
+
 
 Werde nicht emotional und tue die richtige Sache. Das ist, was Entscheidungsfindung ausmacht. Mehr nicht. Werde Dir bewusst, welche Werte Dir wichtig sind und lass die Möglichkeiten durch diesen Filter. Dann bleiben nur noch die richtigen Dinge übrig. (May, 28th){ #dice-we4j}
 
@@ -755,7 +756,8 @@ Konzentriere Dich auf die Dinge, die sein müssen und Bedeutung haben. Alles and
 Die Änderung durch die Philosophie muss innen passieren und macht uns einzigartig. Aber von außen müssen wir immernoch kompatibel sein. Die große Änderung im Geist muss nicht außen sichtbar sein. (August, 20th){ #dice-ho4n}
 
 
-Mach Dir keine Sorgen im Voraus, dass etwas schlechtes geschehen *könnte*. Sei vorbereitet, wenn es dich betrifft, aber wenn es nicht eintritt, dann hast Du Zeit verschwendet. (August, 21th)
+Mach Dir keine Sorgen im Voraus, dass etwas schlechtes geschehen *könnte*. Sei vorbereitet, wenn es dich betrifft, aber wenn es nicht eintritt, dann hast Du Zeit verschwendet. (August, 21th){ #dice-1w6g}
+
 
 Du gibst Dingen einen Wert und Bedeutung, indem Du Zeit darauf verlierst. Dinge, die gemacht werden müssen, aber wenig Bedeutung haben, sollten nur wenig Zeit erhalten. (August, 22th){ #dice-268q}
 
