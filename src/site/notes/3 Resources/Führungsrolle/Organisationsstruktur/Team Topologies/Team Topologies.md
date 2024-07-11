@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-06-23T19:46:00.570+02:00","updated":"2024-05-19T15:24:44.578+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-topologies/","pinned":true,"created":"2024-06-23T19:53:53.456+02:00","updated":"2024-05-19T15:24:44.578+02:00"}
 ---
 
 
