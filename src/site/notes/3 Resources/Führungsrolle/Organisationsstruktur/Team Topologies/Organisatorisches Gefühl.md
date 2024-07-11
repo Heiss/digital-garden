@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/organisatorisches-gefuehl/","created":"2024-06-23T19:46:00.558+02:00","updated":"2024-04-28T16:56:43.660+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/organisatorisches-gefuehl/","created":"2024-06-23T19:53:53.376+02:00","updated":"2024-04-29T07:29:29.940+02:00"}
 ---
 
 
