@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/reverse-conway-maneuver/","created":"2024-06-23T19:46:00.562+02:00","updated":"2024-04-28T17:01:12.661+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/reverse-conway-maneuver/","created":"2024-06-23T19:53:53.400+02:00","updated":"2024-04-29T07:29:31.936+02:00"}
 ---
 
 
