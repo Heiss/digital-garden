@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/skalierbare-teamstrukturen/","created":"2024-06-23T19:46:00.564+02:00","updated":"2024-05-19T15:49:12.855+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/skalierbare-teamstrukturen/","created":"2024-06-23T19:53:53.416+02:00","updated":"2024-05-21T08:23:14.289+02:00"}
 ---
 
 
