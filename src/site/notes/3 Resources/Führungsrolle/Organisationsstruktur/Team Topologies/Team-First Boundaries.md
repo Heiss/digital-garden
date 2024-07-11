@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-first-boundaries/","created":"2024-06-23T19:46:00.573+02:00","updated":"2024-04-28T16:58:49.889+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-first-boundaries/","created":"2024-06-23T19:53:53.476+02:00","updated":"2024-04-29T07:29:30.906+02:00"}
 ---
 
 
