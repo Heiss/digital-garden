@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/anforderungsmanagement/wardley-mapping/","created":"2024-06-23T19:46:00.307+02:00","updated":"2024-07-08T08:56:32.955+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/anforderungsmanagement/wardley-mapping/","created":"2024-06-23T19:46:00.307+02:00","updated":"2024-05-21T14:51:20.617+02:00"}
 ---
 
 

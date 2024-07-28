@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2024-06-23T19:46:01.075+02:00","updated":"2024-07-11T10:09:00.948+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2024-06-23T19:46:01.075+02:00","updated":"2024-07-20T11:07:09.257+02:00"}
 ---
 
 
@@ -708,7 +708,8 @@ Sei stolz auf deine Arbeit, aber sei sie nicht. Oder hast Du kein Leben, dass Di
 
 Du weißt, was zu tun ist. Warte nicht auf den richtigen Augenblick oder die perfekten Bedingungen. Mach Dir bewusst, wie die aktuelle Situation ist und handle danach. Erwarte das Unerwartete. (August, 1st)
 
-Wenn Du zurückgeworfen wirst, sei es Krankheit oder Entscheidungen durch andere, mache Dir bewusst, welchen Bewegungsspielraum dir bleibt und nutze ihn. Vielleicht sind sogar Türen aufgegangen? (August, 2nd)
+Wenn Du zurückgeworfen wirst, sei es Krankheit oder Entscheidungen durch andere, mache Dir bewusst, welchen Bewegungsspielraum dir bleibt und nutze ihn. Vielleicht sind sogar Türen aufgegangen? (August, 2nd){ #dice-i2it}
+
 
 Der Ort, um deine Arbeit zu machen, um ein gutes Leben zu leben, ist genau hier und jetzt. Rede Dir nicht ein, dass Du erst den richtigen Ort, die nötige Freizeit brauchst. Sei pragmatisch und anpassungsfähig. (August, 3rd)
 
@@ -723,9 +724,11 @@ Du hast erst verloren, wenn Du aufgibst, denn dann kann nichts Gutes mehr passie
 Seien die Umstände noch so schwer, es lässt sich überall gut leben. Du kannst deine Prinzipien und dein Pragmatismus auch dort ausleben, wo die Umstände noch so schwer sind. (August, 7th){ #dice-jron}
 
 
-"Don't let perfect be the enemy of good enough." Fange heute damit an, etwas zu ändern. Die Welt wird nicht perfekt sein, um deine Änderungen anzustoßen. Beginne dort, wo die Welt jetzt ist und bearbeite sie. Mach Dir nicht zu viele Gedanken, selbst die kleinsten Schritte sind Fortschritte. (August, 8th) - Siehe auch [[Third Law of atomic habits\|Third Law of atomic habits]] in [[3 Resources/Verhalten/Atomic Habits von James Clear/Atomic Habits von James Clear\|Atomic Habits von James Clear]] und [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/evolutionäre Verbesserung\|evolutionäre Verbesserung]] in  [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban in der IT von Klaus Leopold/Kanban in der IT von Klaus Leopold\|Kanban in der IT von Klaus Leopold]].
+"Don't let perfect be the enemy of good enough." Fange heute damit an, etwas zu ändern. Die Welt wird nicht perfekt sein, um deine Änderungen anzustoßen. Beginne dort, wo die Welt jetzt ist und bearbeite sie. Mach Dir nicht zu viele Gedanken, selbst die kleinsten Schritte sind Fortschritte. (August, 8th) - Siehe auch [[Third Law of atomic habits\|Third Law of atomic habits]] in [[3 Resources/Verhalten/Atomic Habits von James Clear/Atomic Habits von James Clear\|Atomic Habits von James Clear]] und [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/evolutionäre Verbesserung\|evolutionäre Verbesserung]] in  [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban in der IT von Klaus Leopold/Kanban in der IT von Klaus Leopold\|Kanban in der IT von Klaus Leopold]].{ #dice-e9sy}
 
-Bleibe bei den Fakten. Schau Dir die Dinge an, wie sie sind und interpretiere nicht ihre Folgen hinein. Jemand soll über Dich schlecht gesprochen haben? Hast Du davon Schaden davongetragen? Wenn nicht, dann sehe es so, wie es ist: Du weißt nicht, wie es genau war und was gesagt wurde; du warst nicht dabei. Also gebe diesem wenig Wert. Andere würden diesem viel Wert beimessen und sich damit beschäftigen; Hast du nichts besseres zu tun? (August, 9th)
+
+Bleibe bei den Fakten. Schau Dir die Dinge an, wie sie sind und interpretiere nicht ihre Folgen hinein. Jemand soll über Dich schlecht gesprochen haben? Hast Du davon Schaden davongetragen? Wenn nicht, dann sehe es so, wie es ist: Du weißt nicht, wie es genau war und was gesagt wurde; du warst nicht dabei. Also gebe diesem wenig Wert. Andere würden diesem viel Wert beimessen und sich damit beschäftigen; Hast du nichts besseres zu tun? (August, 9th){ #dice-4vwa}
+
 
 Perfektion ist der Feind der Aktion. Ein "Alles oder nichts"-Denken wird dir am Ende nur selbst schaden. Perfektion ist ein Prozess, kein Zustand, denn es liegt im Kontext und Auge des Betrachters. Verfolgter Perfektionismus führt unweigerlich zur Frustration und schlussendlich zu Depression. (August, 10th){ #dice-19yb}
 
@@ -783,7 +786,8 @@ Niemand ist der Bösewicht seiner eigenen Geschichte und niemand macht etwas aus
 
 Trainiere deine Seele und damit auch Dich, denn dann bist Du unabhängig von deinem Glück. Wenn Du in allen Situationen nach deinen Regeln und Wünschen agierst, dann brauchst Du kein Glück. Du bist deines eigen Glückes Schmied. (September, 1st)
 
-Philosophie ist wie ein Krankenhaus. Häufig geht man erst durch Schmerzen hindurch, bevor es besser wird. Denn der Schmerz ist der Druck auf den Stellen, die weh tun. (September, 2nd)
+Philosophie ist wie ein Krankenhaus. Häufig geht man erst durch Schmerzen hindurch, bevor es besser wird. Denn der Schmerz ist der Druck auf den Stellen, die weh tun. (September, 2nd){ #dice-w1xg}
+
 
 Es gibt keine Pause vom Leben, also auch nicht von unseren Vorbereitungen und Gedanken dazu. Bereite Dich in ruhigen Zeiten auf stürmische vor und arbeite solange an ihnen, bis sie erledigt sind. (September, 3rd)
 

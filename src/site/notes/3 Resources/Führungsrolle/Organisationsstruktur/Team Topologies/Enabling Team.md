@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/enabling-team/","created":"2024-06-23T19:53:53.198+02:00","updated":"2024-04-29T07:29:26.996+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/enabling-team/","created":"2024-06-23T19:46:00.537+02:00","updated":"2024-04-28T16:52:33.262+02:00"}
 ---
 
 

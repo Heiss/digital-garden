@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/wissensarbeit/","created":"2024-06-23T19:53:53.926+02:00","updated":"2024-04-20T07:40:56.880+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/wissensarbeit/","created":"2024-06-23T19:46:00.661+02:00","updated":"2024-04-20T07:40:56.880+02:00"}
 ---
 
 

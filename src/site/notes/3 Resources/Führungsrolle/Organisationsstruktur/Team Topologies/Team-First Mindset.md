@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-first-mindset/","created":"2024-06-23T19:53:53.492+02:00","updated":"2024-06-06T19:01:26.372+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-first-mindset/","created":"2024-06-23T19:46:00.576+02:00","updated":"2024-06-06T19:01:26.372+02:00"}
 ---
 
 

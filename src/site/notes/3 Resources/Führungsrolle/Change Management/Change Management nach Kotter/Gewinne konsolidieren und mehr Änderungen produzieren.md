@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/gewinne-konsolidieren-und-mehr-aenderungen-produzieren/","created":"2024-06-23T19:53:52.047+02:00","updated":"2024-05-27T08:20:58.722+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/gewinne-konsolidieren-und-mehr-aenderungen-produzieren/","created":"2024-06-23T19:46:00.376+02:00","updated":"2024-05-26T18:57:10.415+02:00"}
 ---
 
 

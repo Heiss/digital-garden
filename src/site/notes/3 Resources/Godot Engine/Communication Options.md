@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/godot-engine/communication-options/","created":"2024-06-23T19:53:54.496+02:00","updated":"2024-04-15T08:30:11.493+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/godot-engine/communication-options/","created":"2024-06-23T19:46:00.832+02:00","updated":"2024-04-14T18:20:50.261+02:00"}
 ---
 
 

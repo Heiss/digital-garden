@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/unnoetige-kommunikation-limitieren/","created":"2024-06-23T19:53:53.508+02:00","updated":"2024-06-02T19:20:40.376+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/unnoetige-kommunikation-limitieren/","created":"2024-06-23T19:46:00.578+02:00","updated":"2024-06-02T19:20:40.376+02:00"}
 ---
 
 
