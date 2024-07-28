@@ -21,7 +21,6 @@ Borg and Borgmatic are used for backup. I'm currently planning an offsite backup
 
 ## Text Elements
 
-Nginx Proxy Manager 
 Nextcloud 
 Prosody 
 ... 
@@ -32,6 +31,7 @@ Local area network
 Unraid 
 PC1 
 PC ... 
+Nginx Proxy Manager 
 
 
 </div></div>
