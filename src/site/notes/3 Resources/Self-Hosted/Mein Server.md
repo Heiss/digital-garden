@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/self-hosted/mein-server/","created":"2024-07-28T22:41:21.654+02:00","updated":"2024-07-28T23:17:39.637+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/self-hosted/mein-server/","tags":["lang-en"],"created":"2024-07-28T22:41:21.654+02:00","updated":"2024-07-28T23:18:50.441+02:00"}
 ---
 
 

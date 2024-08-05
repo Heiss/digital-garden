@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2024-06-23T19:46:01.075+02:00","updated":"2024-07-20T11:07:09.257+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2024-06-23T19:46:01.075+02:00","updated":"2024-08-01T09:57:47.464+02:00"}
 ---
 
 
@@ -452,7 +452,8 @@ Wenn Du weißt, woran Du glaubst und warum Du es glaubst, hast Du einen starken 
 Ein Stoiker ist nicht durch sein Äußeres zu erkennen, noch durch sein Gesagtes; nur durch seinen Charakter. Dein Charakter ist dein stärkstes Markenzeichen. (May, 1st){ #dice-a8kf}
 
 
-Entscheide Dich bewusst, welcher Mensch Du sein möchtest. Nehme Dir dafür immer wieder bewusst, ununterbrochene Zeit und entscheide Dich; dann setze es um. Du kannst nichts erreichen durch Hoffnung und Bitten. (May, 2nd)
+Entscheide Dich bewusst, welcher Mensch Du sein möchtest. Nehme Dir dafür immer wieder bewusst, ununterbrochene Zeit und entscheide Dich; dann setze es um. Du kannst nichts erreichen durch Hoffnung und Bitten. (May, 2nd){ #dice-hise}
+
 
 Überlege Dir immer, wenn Du Wissen weitergeben möchtest: Sind Worte genügend (meist ist das die schlechte Wahl) oder kann ich durch Aktionen und Entscheidungen dieses Wissen zeigen? (May, 3rd){ #dice-9syn}
 
@@ -469,7 +470,8 @@ Schönheit liegt in den erlernbaren Dingen der menschlichen Exzellenz wie wohlü
 Wie kannst Du einen guten Tag haben? Tue Gutes! Alles andere ist vergänglich oder nicht wiederholbar. Aber dies ist deins, unverfälscht, gut und unendlich. (May, 7th){ #dice-iwp7}
 
 
-Gut und Böse liegt nur in den begründeten Entscheidungen. Alles außerhalb ist weder gut noch böse; es ist einfach. Nur der Fokus auf die Entscheidungen selbst zählt und entscheidet, ob wir uns gut oder schlecht entschieden haben. (May, 8th)
+Gut und Böse liegt nur in den begründeten Entscheidungen. Alles außerhalb ist weder gut noch böse; es ist einfach. Nur der Fokus auf die Entscheidungen selbst zählt und entscheidet, ob wir uns gut oder schlecht entschieden haben. (May, 8th){ #dice-br9y}
+
 
 Nutze den Tag (Carpe Diem). Frage Dich, was Du morgen jemanden sagen möchtest, was Du heute getan hast und gehe es an. Dies ist heute deine wichtigste Entscheidung. Du hast nur heute, morgen ist der heutige Tag schon weg und kommt nie wieder. (May, 9th){ #dice-w6ve}
 
