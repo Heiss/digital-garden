@@ -1,9 +1,9 @@
 <div id="cusdis_thread"
   data-host="https://cusdis.com"
   data-app-id="1e038bcd-ceaa-49ff-8d77-6f8c06ad9c63"
-  data-page-id="{{ PAGE_ID }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
+  data-page-id="{{ page.fileSlug }}"
+  data-page-url="{{ page.url }}"
+  data-page-title="{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}"
 ></div>
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 <noscript>Please enable JavaScript to view the comments powered by Gisqus.</a></noscript>
