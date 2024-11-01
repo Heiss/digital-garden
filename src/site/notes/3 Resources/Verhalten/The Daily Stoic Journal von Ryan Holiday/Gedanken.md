@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2024-06-23T19:46:01.075+02:00","updated":"2024-08-01T09:57:47.464+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2024-06-23T19:46:01.075+02:00","updated":"2024-10-25T13:49:29.378+02:00"}
 ---
 
 
@@ -253,7 +253,8 @@ In unruhigen Momenten verlieren nicht dein Wissen und Tools ihre Wirksamkeit, so
 
 Setze dein Herz nicht auf zu vielen Dingen - Epictetus (Feb, 29th)
 
-Fokus, Priorisiere: Trainiere deinen Geist. *Brauchst Du das wirklich? Was passiert, wenn Du es nicht hast? Kannst Du dein Ziel auch ohne dies erreichen?* In der Moderne sind wir darauf trainiert, immer etwas zu wollen. Dies hält uns beschäftigt und hält uns davon ab, die Dinge zu machen / zu bekommen, die wir wirklich möchten / brauchen. (Feb, 29th)
+Fokus, Priorisiere: Trainiere deinen Geist. *Brauchst Du das wirklich? Was passiert, wenn Du es nicht hast? Kannst Du dein Ziel auch ohne dies erreichen?* In der Moderne sind wir darauf trainiert, immer etwas zu wollen. Dies hält uns beschäftigt und hält uns davon ab, die Dinge zu machen / zu bekommen, die wir wirklich möchten / brauchen. (Feb, 29th){ #dice-1ddd}
+
 
 Du kannst nicht immer alles haben, was Du möchtest. (Feb, 29th){ #dice-zejs}
 
@@ -301,7 +302,8 @@ Finde für Dich eine (fiktive) Person, welche deine Handlungen bewerten und Dich
 Sklaverei bleibt auch unter Marmor und Gold. (Seneca){ #dice-1lk7}
 
 
-Reich sein, wird Dich nicht zwanglos Freier machen. Im Gegenteil: Du wirst Anzüge tragen müssen, Essen was alle essen und mit Leuten reden, die Du nicht magst. Ist es das, was Du willst? Strebe ein Leben der Freiheit, ohne Auflagen von außen, an. (Mar, 11th)
+Reich sein, wird Dich nicht zwanglos Freier machen. Im Gegenteil: Du wirst Anzüge tragen müssen, Essen was alle essen und mit Leuten reden, die Du nicht magst. Ist es das, was Du willst? Strebe ein Leben der Freiheit, ohne Auflagen von außen, an. (Mar, 11th){ #dice-fj4f}
+
 
 Versuche stets die andere Person zu verstehen, warum sie so handelt, wie sie handelt. Niemand handelt falsch, nach seinem Verständnis. Damit wirst Du besser mit Fehlern anderer klar kommen. (Mar, 12th){ #dice-8a55}
 
@@ -339,7 +341,8 @@ Frieden und Ruhe kommt von innen. Der Urlaub oder das Wochenende steht vor der T
 
 Wo Du gehst, dort bist Du. (Zen Meditation, Jon Kabat-Zinn)
 
-Ein Abschluss an der Wand sagt über deine Bildung bedeutet genau so viel wie Schuhe am Fuß übers Laufen. Es ist ein Anfang, aber nicht ausreichend dafür. Die wahre Natur der Dinge und unsere Rolle in ihr können wir nur selbst durch Wahrnehmung und Reflektion erkennen. Nicht nur einmal, sondern jede Sekunde jeden Tages. (Mar, 22th)
+Ein Abschluss an der Wand sagt über deine Bildung bedeutet genau so viel wie Schuhe am Fuß übers Laufen. Es ist ein Anfang, aber nicht ausreichend dafür. Die wahre Natur der Dinge und unsere Rolle in ihr können wir nur selbst durch Wahrnehmung und Reflektion erkennen. Nicht nur einmal, sondern jede Sekunde jeden Tages. (Mar, 22th){ #dice-q1rt}
+
 
 Erkenne deine Gier, Schwächen und Laster. Andere dafür zu verurteilen, dass sie sie nicht erkennen, hilft Dir in deinem Leben nicht. Erst wenn Du Deine erkennst, kannst Du sie reflektieren und Gegenmaßnahmen ergreifen. (Mar, 23th){ #dice-f0q6}
 
@@ -396,7 +399,8 @@ Vertraue, aber verifiziere. Auch deine Eindrücke und deine Entscheidungsfindung
 
 Es gibt einen Unterschied zwischen einem Event und dessen Wahrnehmung. Ein Event ist emotionslos, ein Objekt. Was wir daraus ziehen und worauf wir uns konzentrieren und wie wir darüber fühlen, das ist unter unsere Kontrolle. Erst unsere Interpretation macht das Event zu dem, was es für uns ist. Aus dieser Interpretation entsteht dann die Störung in unserem Geiste. (Apr, 10th)
 
-Es ist unmöglich jemanden etwas beizubringen, wenn dieser glaubt das er es bereits weiß. Sei demütig und lege deine arrogante Meinung beiseite. Jeder kann Dir etwas beibringen, Du musst nur zuhören. (Apr, 11th, Epictetus)
+Es ist unmöglich jemanden etwas beizubringen, wenn dieser glaubt das er es bereits weiß. Sei demütig und lege deine arrogante Meinung beiseite. Jeder kann Dir etwas beibringen, Du musst nur zuhören. (Apr, 11th, Epictetus){ #dice-ej6i}
+
 
 Große Geschenke kommen meist zu einem hohen Preis. Jedes Geschenk will auf die eine oder andere Weise vergolten werden. Es kann unsere Aufmerksamkeit trüben vor dem, was eigentlich das Ziel ist. (Apr, 12th)
 
@@ -447,7 +451,8 @@ Wenn Du das Geld willst, wirst Du zum Diener von denen, die das Geld haben. Bege
 Schau zu den Sternen, um deine Rolle in der Welt zu begreifen, so oft es geht. Du bist ein Teil von ihr und dennoch bist Du bedeutungslos. Deine Taten wirken jedoch nach. Tu das, was Bedeutung hat. Wische den Staub des Lebens so häufig wie möglich ab. (Apr, 29th){ #dice-1wep}
 
 
-Wenn Du weißt, woran Du glaubst und warum Du es glaubst, hast Du einen starken Charakter. Ein starker Charakter hält der Welt stand, die versucht sie zu unterdrücken, zu kaufen und zu verändern. Mit einem starken Charakter kannst Du vieles vermeiden (toxische Beziehungen, Schön-Wetter-Freunde, und sonstige Dinge, unter denen Menschen leiden, wenn sie diese nicht hinterfragt haben). Dies zu erkennen ist deine Bildung! Dies ist der Grund für all die Arbeit im Leben. (Apr, 30th)
+Wenn Du weißt, woran Du glaubst und warum Du es glaubst, hast Du einen starken Charakter. Ein starker Charakter hält der Welt stand, die versucht sie zu unterdrücken, zu kaufen und zu verändern. Mit einem starken Charakter kannst Du vieles vermeiden (toxische Beziehungen, Schön-Wetter-Freunde, und sonstige Dinge, unter denen Menschen leiden, wenn sie diese nicht hinterfragt haben). Dies zu erkennen ist deine Bildung! Dies ist der Grund für all die Arbeit im Leben. (Apr, 30th){ #dice-ubln}
+
 
 Ein Stoiker ist nicht durch sein Äußeres zu erkennen, noch durch sein Gesagtes; nur durch seinen Charakter. Dein Charakter ist dein stärkstes Markenzeichen. (May, 1st){ #dice-a8kf}
 
@@ -515,7 +520,8 @@ Sollte Dich Widerstand stoppen in deiner Disziplin? Oder sollte es Dich ermutige
 Ein Leben wird nicht danach bewertet, wie lang es war, sondern wie es gelebt wurde. Du hast jetzt Zeit deine Träume umzusetzen. Irgendwann ist es zu spät. (May, 23rd){ #dice-zazy}
 
 
-Tu das Richtige zur richtigen Zeit. Dann kommt das Glück von alleine. Glück ist, wenn harte Arbeit und die Gelegenheit zusammen kommen. (May, 24th)
+Tu das Richtige zur richtigen Zeit. Dann kommt das Glück von alleine. Glück ist, wenn harte Arbeit und die Gelegenheit zusammen kommen. (May, 24th){ #dice-tagf}
+
 
 Finde die Arbeit, welche zu deinem Leben gehört. Ein glücklicher Mensch ist der, der für sich die richtige Arbeit findet. Aller Luxus oder Emotionen werden Dich nicht glücklich machen oder erfüllen. (May, 25th){ #dice-tacm}
 
@@ -547,7 +553,8 @@ Wenn etwas schwer, unüberwindbar oder festgefahren wirkt, dann nimm Plato\`s Si
 Es gibt immer eine Alternative. Wenn das eine nicht klappt, probiere etwas anderes. Am Ende bleibt immer noch die Übung, ein guter Mensch zu sein und seine Philosophie zu erproben. Sei flexibel und nicht festgefahren in deinen Aufgaben und Überzeugungen. (June, 3rd){ #dice-lnt6}
 
 
-In Dir fließt dasselbe Blut, welches deine Vorfahren erlaubte, viel schwierigere Situationen zu meistern. Mach Dir das klar, wenn der weitere Weg noch so schwer aussehen mag. (June, 4th)
+In Dir fließt dasselbe Blut, welches deine Vorfahren erlaubte, viel schwierigere Situationen zu meistern. Mach Dir das klar, wenn der weitere Weg noch so schwer aussehen mag. (June, 4th){ #dice-ub8l}
+
 
 Das Leben mag unfair sein. Aber gejammer wird deine Probleme nicht lösen. Steh auf und geh an die Arbeit, denn jemand anderes wird es nicht tun. Meckern zieht nur Energie und hindert Dich am vorankommen. (June, 5th)
 
@@ -612,7 +619,8 @@ Die meisten Menschen wollen Freiheit, Glückseligkeit und Respekt von Gleichgesi
 
 Frage Dich bei Diskussionen, was es Dir bringt. Außer das Du eine unbedeutende Diskussion gewinnst, die andere Person aufgewühlt ist (oder noch schlimmer; Du selbst), was gibt es zu gewinnen? Stelle Dir vor, was für ein Triumph es ist, diesem Drang zu widerstehen und wie gut dein Tag sein kann, sich nicht auf diesen Disput einzulassen. (June, 24th)
 
-Sage weniger als notwendig. (Robert Greene) Es wird Dir helfen, die Welt zu hören. Wenn Du redest, kannst Du nicht hören, wie die Welt auf deine Aktionen reagiert und Du kannst nicht lernen. Wenn Du redest, wirst Du versuchen, Dich herauszuwinden, statt die Probleme zu lösen und aus dem Feedback der Welt zu lernen. (June, 25th)
+Sage weniger als notwendig. (Robert Greene) Es wird Dir helfen, die Welt zu hören. Wenn Du redest, kannst Du nicht hören, wie die Welt auf deine Aktionen reagiert und Du kannst nicht lernen. Wenn Du redest, wirst Du versuchen, Dich herauszuwinden, statt die Probleme zu lösen und aus dem Feedback der Welt zu lernen. (June, 25th){ #dice-adl2}
+
 
 Der Weise hat keine "Probleme" noch werden seine Erwartungen je enttäuscht. (June, 25th){ #dice-ecea}
 
@@ -655,7 +663,8 @@ Die Philosophie wird Dir helfen deine Führung durch Begründungen, Prioritäten
 Liebe dein Handwerk, denn das macht einen großartigen Menschen aus. Finde immer etwas, dass Dich bei der Stange hält und vergiss die Basics nicht zu üben. Denn diese können deinen Erfolg behindern. Auch diese können in Vergessenheit geraten. (July, 10th){ #dice-yox2}
 
 
-Warum solltest Du Dich nicht selbst genau so gut pflegen wie deine Hobbys und Aufgaben? Bist Du nicht dasselbe? Du startest, akkumulierst Wissen und Wohlstand an und irgendwann hast Du ein Ende. (July, 11th)
+Warum solltest Du Dich nicht selbst genau so gut pflegen wie deine Hobbys und Aufgaben? Bist Du nicht dasselbe? Du startest, akkumulierst Wissen und Wohlstand an und irgendwann hast Du ein Ende. (July, 11th){ #dice-xyzw}
+
 
 In deinen Taten, prokrastiniere nicht. In deinen Gesprächen, verwirre nicht. In deinen Gedanken, wandere nicht. In deiner Seele, sei nicht passiv oder aggressiv. In deinem Leben, sei nicht deine Arbeit. Simpel ist nicht gleich Einfach. Achte darauf in deiner ersten heutigen Tat, Gespräch oder Gedanken. (July, 12th){ #dice-jcts}
 
@@ -666,20 +675,25 @@ Wenn andere Dich nachahmen oder deine Ideen für sich verkaufen, sei nicht besch
 Überspringe nicht die Grundlagen bei neuen Dingen. Lerne die Dinge sorgfältig, sonst wirst Du Fehler machen, da du die Grundlagen nicht kanntest. Dies wird dir helfen, dann am Ende schneller zu sein. Dies gilt auch für das Lehren von Dingen. Fordere, aber begleite. (July, 14th){ #dice-mo17}
 
 
-Auf die Frage "Was hat Dich motiviert, das Richtige getan?" sollte Antwort stets sein: "Weil es das Richtige war". Das ist Dank genug für deine Taten. Vor allem, wenn es Schwierigkeiten oder Blockaden auf dem Weg gab. (July, 15th)
+Auf die Frage "Was hat Dich motiviert, das Richtige getan?" sollte Antwort stets sein: "Weil es das Richtige war". Das ist Dank genug für deine Taten. Vor allem, wenn es Schwierigkeiten oder Blockaden auf dem Weg gab. (July, 15th){ #dice-cba2}
+
 
 Was treibt Dich an? Was sind die Werte, die du verfolgst? Wonach strebst Du in deinem Leben? Beantworte diese Fragen, selbst wenn die Beantwortung und die Antworten unangenehm sind, Du wirst dein Leben anschließend korrigieren müssen und das ist gut: Dies wird deine Seele näher an den Zustand bringen, den Du gerne möchtest. Akzeptiere, dass deine Seele auch Fortschritte macht. (July, 16th)
 
 Wenn Du Dich veränderst, wird es Widerstand um Dich herum geben, da Du Dinge für die anderen hinterfragst. Akzeptiere dies, bleibe bei deinem begründeten Pfad, aber lasse die Leute nicht zurück, bekämpfe sie nicht, noch werde wütend auf sie. Du warst vor kurzem in ihren Reihen. (July, 17th){ #dice-wq96}
 
 
-Jeder hat seinen eigenen Entscheidungsblickwinkel. Akzeptiere, dass er damit der Meister seiner eigenen Domäne ist und du nichts darüber weißt, lediglich was er Dich sehen lässt. Wenn das nicht so wäre, würde jemand anderes über dein Unheil entscheiden können. Du kannst nicht für sie entscheiden, egal wie gern du es auch möchtest. Konzentriere Dich auf deine Hürden. (July, 18th)
+Jeder hat seinen eigenen Entscheidungsblickwinkel. Akzeptiere, dass er damit der Meister seiner eigenen Domäne ist und du nichts darüber weißt, lediglich was er Dich sehen lässt. Wenn das nicht so wäre, würde jemand anderes über dein Unheil entscheiden können. Du kannst nicht für sie entscheiden, egal wie gern du es auch möchtest. Konzentriere Dich auf deine Hürden. (July, 18th){ #dice-uvie}
 
-Nutze eine Wahrheit in den Momenten, wo etwas anders als sinnvoll verläuft: Vergebe Ihnen, denn sie wissen nicht, was sie tun. Denn wenn sie täten, würden sie nicht so handeln. (July, 19th)
 
-Wir biegen uns die Gesetze so, wie wir sie für richtig und gerecht halten. Aber bei anderen sind wir strenger als die Natur. Sei Dir dem bewusst, wenn etwas gegen dein Gerechtigkeitsgefühl widerspricht. (July, 20th)
+Nutze eine Wahrheit in den Momenten, wo etwas anders als sinnvoll verläuft: Vergebe Ihnen, denn sie wissen nicht, was sie tun. Denn wenn sie täten, würden sie nicht so handeln. (July, 19th){ #dice-ow91}
 
-Der Mensch ist für die Arbeit miteinander geschaffen. Die Welt wartet auf Dich und das Du deine Arbeit zeigst. (July, 21th)
+
+Wir biegen uns die Gesetze so, wie wir sie für richtig und gerecht halten. Aber bei anderen sind wir strenger als die Natur. Sei Dir dem bewusst, wenn etwas gegen dein Gerechtigkeitsgefühl widerspricht. (July, 20th){ #dice-5fp8}
+
+
+Der Mensch ist für die Arbeit miteinander geschaffen. Die Welt wartet auf Dich und das Du deine Arbeit zeigst. (July, 21th){ #dice-5n1f}
+
 
 Du möchtest deine Pflichten erfüllen und das richtige tun. Nicht weil Dich jemand dazu zwingt, denn darin ist keine Erfüllung zu finden. Nur wenn Du es für Dich und von Dir aus machst, ist es nobel. (July, 22th){ #dice-pttp}
 
@@ -696,12 +710,14 @@ Ränge und Positionen sind nicht das, was deine Arbeit ausmacht, außer das Du s
 Gutes passiert nicht ohne Taten, Böses hingegen schon. Etwas nicht zu tun, kann ebenso Böses erzeugen wie eine Tat an sich. Dies bedeutet, wir müssen etwas tun, um Gutes zu erhalten. (July, 26th){ #dice-bcy6}
 
 
-Nur Tugendhaftigkeit - sei es Disziplin, Courage, Ehrlichkeit - wird Dir eine innere Wärme geben und deine Unruhe stillen können. Geld, Liebe oder andere Dinge werden nur kurz Genugtuung geben, aber dann werden sie neue Probleme aufmachen. (July, 27th)
+Nur Tugendhaftigkeit - sei es Disziplin, Courage, Ehrlichkeit - wird Dir eine innere Wärme geben und deine Unruhe stillen können. Geld, Liebe oder andere Dinge werden nur kurz Genugtuung geben, aber dann werden sie neue Probleme aufmachen. (July, 27th){ #dice-5znl}
+
 
 Sei geduldig und verständnisvoll für die Fähigkeiten anderer, da sie nicht deine Vorteile und Privilegien in diesem Bereich hatten. Deine Aufgabe ist es, ihnen dabei zu helfen. Das ist deine Verpflichtung durch dein Privileg. (July, 28th){ #dice-kiz8}
 
 
-Philosophie ist seit jeher für die Verarbeitung von mentalen Dingen und schlechten, menschlichen Charakteristika gedacht gewesen und ist daher erprobter als alle psychologischen Thesen und Methoden. Möchtest Du nicht auch großartig sein? Dann übe deine Philosophie! (July, 29th)
+Philosophie ist seit jeher für die Verarbeitung von mentalen Dingen und schlechten, menschlichen Charakteristika gedacht gewesen und ist daher erprobter als alle psychologischen Thesen und Methoden. Möchtest Du nicht auch großartig sein? Dann übe deine Philosophie! (July, 29th){ #dice-ajnz}
+
 
 Stoische Freude - sie kommt aus einem Zweck, der Exzellenz und der Pflicht. Sie kommt, wenn man ein Vorbild oder Inspiration für andere sein kann. Sie kommt von innen und ist von außen nicht zu sehen noch zu beeinflussen. (July, 30th)
 
@@ -721,7 +737,8 @@ Werde nicht emotional, bleibe fokussiert. Konzentriere Dich auf Aktionen, die in
 
 Schweigen ist eine Lehre aus den vergangenen Leiden. Wie oft ist es schon passiert, dass Du etwas gesagt hast, um cool oder smart zu sein, was dich später wieder eingeholt hat? Die Fähigkeit zuzuhören und nur etwas zu sagen, wenn nötig, ist eine Gabe, welche zu Selbstsicherheit und Stärke führt. (August, 5th)
 
-Du hast erst verloren, wenn Du aufgibst, denn dann kann nichts Gutes mehr passieren. Aber solange Du kämpfst, kann ein verloren geglaubtes Spiel sich noch zu einem Sieg wenden. Dies passiert meist dann, wenn Du deinen möglichen Bewegungsraum falsch einschätzt. Er ist meist größer als Du denkst. (August, 6th)
+Du hast erst verloren, wenn Du aufgibst, denn dann kann nichts Gutes mehr passieren. Aber solange Du kämpfst, kann ein verloren geglaubtes Spiel sich noch zu einem Sieg wenden. Dies passiert meist dann, wenn Du deinen möglichen Bewegungsraum falsch einschätzt. Er ist meist größer als Du denkst. (August, 6th){ #dice-sdji}
+
 
 Seien die Umstände noch so schwer, es lässt sich überall gut leben. Du kannst deine Prinzipien und dein Pragmatismus auch dort ausleben, wo die Umstände noch so schwer sind. (August, 7th){ #dice-jron}
 
@@ -739,7 +756,8 @@ Theorie ist meist klar und simpel, die reale Welt ist es nicht. Es zählt nicht,
 
 Lass die Theorie und Philosophie dein Eigen werden. Kopiere das, was funktioniert. Die alten Stoiker wird es nicht interessieren. Überliefert ist das, was funktioniert hat. Zeige, dass Du es verstanden hast, durch Wiederholung und deinen Taten. (August, 12th)
 
-Wie oft hast Du Dich in Probleme gebracht, weil Du vor Angst, Neid oder anderen Emotionen gehandelt hast? Lass deine Vernunft handeln. Dein Gehirn ist dafür gemacht, dass wichtige vom unwichtigen zu trennen und Schlüsse fürs Handeln daraus zu ziehen. (August, 13th)
+Wie oft hast Du Dich in Probleme gebracht, weil Du vor Angst, Neid oder anderen Emotionen gehandelt hast? Lass deine Vernunft handeln. Dein Gehirn ist dafür gemacht das Wichtige vom Unwichtigen zu trennen und Schlüsse fürs Handeln daraus zu ziehen. (August, 13th){ #dice-l2i2}
+
 
 "An ounce of prevention is worth a pound of cure." Benjamin Franklin
 
@@ -754,9 +772,11 @@ Alles kann eine Stärke und Vorteil sein, auch wenn es zuerst nicht so scheint. 
 
 Mache niemanden sonst verantwortlich für deine Enttäuschung, denn nur Du kannst deine Erwartungen steuern. Suche den Grund dafür bei Dir. Ist jemand unfreundlich? Wenn Du nicht so sensibel reagieren würdest, wäre es nicht schlimm. Nur deine Haltung demgegenüber erzeugt erst den Groll. vielleicht hättest Du es nicht anders erwarten sollen? (August, 17th)
 
-Denke stark nach, bevor Du eine Wahl triffst. Nur wenn Du Kämpfe eingehst, die Du auch gewinnen kannst, wirst Du unbesiegbar sein. Warum Kämpfe eingehen, wo man nichts gewinnen kann oder nicht der Stärkste von vornherein ist? (August, 18th)
+Denke stark nach, bevor Du eine Wahl triffst. Nur wenn Du Kämpfe eingehst, die Du auch gewinnen kannst, wirst Du unbesiegbar sein. Warum Kämpfe eingehen, wo man nichts gewinnen kann oder nicht der Stärkste von vornherein ist? (August, 18th){ #dice-jjdh}
 
-Konzentriere Dich auf die Dinge, die sein müssen und Bedeutung haben. Alles andere lenkt ab und belastet. Bedeutungsvolle Dinge belasten nicht, denn sie sind am Ende eine Hilfe. (August, 19th)
+
+Konzentriere Dich auf die Dinge, die sein müssen und Bedeutung haben. Alles andere lenkt ab und belastet. Bedeutungsvolle Dinge belasten nicht, denn sie sind am Ende eine Hilfe. (August, 19th){ #dice-spfy}
+
 
 Die Änderung durch die Philosophie muss innen passieren und macht uns einzigartig. Aber von außen müssen wir immernoch kompatibel sein. Die große Änderung im Geist muss nicht außen sichtbar sein. (August, 20th){ #dice-ho4n}
 
@@ -767,7 +787,8 @@ Mach Dir keine Sorgen im Voraus, dass etwas schlechtes geschehen *könnte*. Sei 
 Du gibst Dingen einen Wert und Bedeutung, indem Du Zeit darauf verlierst. Dinge, die gemacht werden müssen, aber wenig Bedeutung haben, sollten nur wenig Zeit erhalten. (August, 22th){ #dice-268q}
 
 
-Die beste Form der Veränderung ist das eigene Interesse. Argumentiere nicht, wieso etwas schlecht ist, sondern zeige, dass etwas anderes besser ist. Moralisiere nicht, belehre nicht. Das kannst Du auch auf Dich selbst anwenden. (August, 23th)
+Die beste Form der Veränderung ist das eigene Interesse. Argumentiere nicht, wieso etwas schlecht ist, sondern zeige, dass etwas anderes besser ist. Moralisiere nicht, belehre nicht. Das kannst Du auch auf Dich selbst anwenden. (August, 23th){ #dice-t8n0}
+
 
 Lerne aus allen Quellen und Orten. Ein schlechter Schreiber kann auch gute Dinge sagen. Verwehre Dich nicht der Weißheit, nur weil sie aus unangenehmen Quellen stammt. (August, 24th)
 
@@ -777,14 +798,17 @@ Auch aus dem schrecklichsten Event können gute Dinge entstehen. Du musst bereit
 
 In jeder Situation ist mehr witziges als trauriges zu finden. Suche danach. Lachen ist produktiv, denn es lässt Dinge leichter erscheinen. Lache, statt weine. (August, 27th)
 
-Wohlstand bedeutet nicht, dass Du viel Geld haben musst. Andersherum heißt es nicht, dass Du im Luxus leben musst, weil Du Geld hast. Du kannst Geld und Erfolg besitzen, aber es nicht brauchen für dein Leben. (August, 28th)
+Wohlstand bedeutet nicht, dass Du viel Geld haben musst. Andersherum heißt es nicht, dass Du im Luxus leben musst, weil Du Geld hast. Du kannst Geld und Erfolg besitzen, aber es nicht brauchen für dein Leben. (August, 28th){ #dice-150g}
+
 
 Auch mit Reichtum kannst Du Dir nicht alles kaufen; Gesundheit, Respekt, Liebe... Du kannst nach Reichtum streben, es wird immer etwas geben, was Du nicht kriegst. Du kannst auch damit aufhören und einfach weniger wollen. Dann wärst Du sofort Reich, denn wer ist es nicht, wenn Du alles hast was Du willst mit dem Geld, dass Du hast? (August, 29th){ #dice-7mhr}
 
 
-Qualität ist besser als Quantität. Sage nicht ja mit deinem Mund, und nein mit deinen Taten. Niemand wird kommen und Dir deine Arbeit abnehmen oder Dir das Gefühl geben, es ist bedeutsam was Du tust. All diese gegenteiligen Dinge werden Dich schlussendlich zerreißen. (August, 30th)
+Qualität ist besser als Quantität. Sage nicht ja mit deinem Mund, und nein mit deinen Taten. Niemand wird kommen und Dir deine Arbeit abnehmen oder Dir das Gefühl geben, es ist bedeutsam was Du tust. All diese gegenteiligen Dinge werden Dich schlussendlich zerreißen. (August, 30th){ #dice-6r6r}
 
-Niemand ist der Bösewicht seiner eigenen Geschichte und niemand macht etwas aus Absicht falsch. Fehlentscheidungen sind nicht gegen Dich gerichtet. Verzeihe ihnen, wie Du Dir auch bei Fehlern verzeihst. (August, 31th)
+
+Niemand ist der Bösewicht seiner eigenen Geschichte und niemand macht etwas aus Absicht falsch. Fehlentscheidungen sind nicht gegen Dich gerichtet. Verzeihe ihnen, wie Du Dir auch bei Fehlern verzeihst. (August, 31th){ #dice-fsyl}
+
 
 Trainiere deine Seele und damit auch Dich, denn dann bist Du unabhängig von deinem Glück. Wenn Du in allen Situationen nach deinen Regeln und Wünschen agierst, dann brauchst Du kein Glück. Du bist deines eigen Glückes Schmied. (September, 1st)
 
@@ -801,12 +825,14 @@ Fokussiere Dich auf das, was Du alleine kontrollierst: Du selbst. Du wirst niema
 
 Niemand kann Dir die Freiheit deines eigenen freien Willens nehmen, nur Du selbst. (September, 6th)
 
-Finde das Positive in deiner Situation und deine Möglichkeiten deiner Wahl. Du kannst sicherlich mehr ändern als Dir bewusst ist. Das ist deine Superkraft, die in jedem Menschen wohnt. Das ist deine Superkraft, die in jedem Menschen wohnt. (September, 7th)
+Finde das Positive in deiner Situation und deine Möglichkeiten deiner Wahl. Du kannst sicherlich mehr ändern als Dir bewusst ist. Das ist deine Superkraft, die in jedem Menschen wohnt. Das ist deine Superkraft, die in jedem Menschen wohnt. (September, 7th){ #dice-eg3e}
+
 
 Übe die Notlage in ruhigen, sonnigen Tagen. Dann weißt Du, du wirst auch in Armut, Krankheit oder Hunger funktionieren und Lösungen finden. Lass Dich auf den Kulturschock ein und lasse deinen Verstand arbeiten. "Bereite Dich im Frieden auf den Krieg vor." (September, 8th){ #dice-r5vv}
 
 
-Wir können uns dazu zwingen mit weniger klarzukommen. Dann sind wir gut gerüstet für solche Zeiten. Verzichte bewusst auf Luxus oder Annehmlichkeiten. (September, 9th)
+Wir können uns dazu zwingen mit weniger klarzukommen. Dann sind wir gut gerüstet für solche Zeiten. Verzichte bewusst auf Luxus oder Annehmlichkeiten. (September, 9th){ #dice-37jk}
+
 
 Übe die Notlage in ruhigen, sonnigen Tagen. Dann weißt Du, du wirst auch in Armut, Krankheit oder Hunger funktionieren und Lösungen finden. Lass Dich auf den Kulturschock ein und lasse deinen Verstand arbeiten. "Bereite Dich im Frieden auf den Krieg vor." (September, 10th){ #dice-ivr4}
 
@@ -815,7 +841,8 @@ Wir können uns dazu zwingen mit weniger klarzukommen. Dann sind wir gut gerüst
 
 Hochmut ist eine Schwäche und wenn Du auf dem Boden bleibst, wird niemand dich runterholen müssen. (September, 12th)
 
-Nichts kann deine Seele berühren, wenn Du es als Festung aufbaust. Sobald du aber die Nerven verlierst, wirst Du Dich selbst verraten und die Angst wird deine Seele vergiften. (September, 13th)
+Nichts kann deine Seele berühren, wenn Du es als Festung aufbaust. Sobald du aber die Nerven verlierst, wirst Du Dich selbst verraten und die Angst wird deine Seele vergiften. (September, 13th){ #dice-1yqu}
+
 
 Drehe deine Wünsche um, die Du nicht beeinflussen kannst; Frage nicht nach "Wie schaffe ich, dass ich nicht mein Kind verliere?", sondern "Wie kannst Du diese Angst verlieren?". Nur das Zweitere hast Du im Griff, denn das kontrollierst Du. (September, 14th)
 
@@ -823,4 +850,8 @@ Ein Buch macht Dich nicht zum Dichter, so macht Dich das reine Lesen von stoisch
 
 Beneide nicht die, die durch Glück oder Umständen an ihren Status gekommen sind; das kann jeder. Aber sich selbst zu überwinden, trotz widriger Umstände aufrecht zu bleiben und seine Ziele zu verfolgen, wenn alle anderen aufgegeben hätten; das ist wahre Stärke und anstrebsam. (September, 16th)
 
-Never hate Haters. Übelege, ob es in deiner Macht liegt, dies zu ändern. Wenn nicht, akzeptiere die andere Person und zeige auf, wo sie falsch liegt, wenn es Dir hilft. Deine Arbeit ist schon hart genug, verschwende keine Aufwände an sie. (September, 17th)
+Never hate Haters. Überlege, ob es in deiner Macht liegt, dies zu ändern. Wenn nicht, akzeptiere die andere Person und zeige auf, wo sie falsch liegt, wenn es Dir hilft. Deine Arbeit ist schon hart genug, verschwende keine Aufwände an sie. (September, 17th)
+
+Beuge Dich nicht deinem Schmerz. Er ist weder unerträglich, noch unendlich. Erkenne dies, dann wird dein Schmerz nicht deine lenkende Intelligenz beeinflussen können. Bleibe deinen Prinzipien, trotz Schmerz, treu. (September, 18th)
+
+Flexibilität deines Willens und deiner Ziele ist kein Widerspruch zu Willensstärke, denn neue Erkenntnisse kommen immer und diese nicht zu berücksichtigen, wäre ignorant. Zu Erkennen, wann eine neue Erkenntnis eine Änderung deines Vorgehens erzwingt und wann Du Dich gegen eine Änderung stellen solltest, dass ist die Aufgabe deiner lenkenden Intelligenz und musst Du erlernen. (September, 19th)
