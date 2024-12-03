@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-journal/6-journal/","pinned":true,"created":"2024-11-11T08:59:52.424+01:00","updated":"2024-05-12T11:44:52.003+02:00"}
+{"dg-publish":true,"permalink":"/6-journal/6-journal/","pinned":true,"created":"2024-06-23T19:46:02.364+02:00","updated":"2024-05-12T11:44:52.003+02:00"}
 ---
 
 

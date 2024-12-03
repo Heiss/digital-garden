@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/3-resources/","pinned":true,"created":"2024-11-11T09:00:09.204+01:00","updated":"2024-04-18T13:58:47.570+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/3-resources/","pinned":true,"created":"2024-06-23T19:46:00.195+02:00","updated":"2024-04-18T13:58:47.570+02:00"}
 ---
 
 

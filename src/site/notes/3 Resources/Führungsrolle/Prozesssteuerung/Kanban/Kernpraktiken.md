@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kernpraktiken/","created":"2024-11-11T08:59:36.893+01:00","updated":"2024-04-20T08:04:48.392+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kernpraktiken/","created":"2024-06-23T19:46:00.649+02:00","updated":"2024-04-20T08:04:48.392+02:00"}
 ---
 
 

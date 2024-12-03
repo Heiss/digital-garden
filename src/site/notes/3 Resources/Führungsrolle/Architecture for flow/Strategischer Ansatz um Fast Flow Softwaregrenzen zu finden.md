@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategischer-ansatz-um-fast-flow-softwaregrenzen-zu-finden/","created":"2024-11-11T08:59:37.343+01:00","updated":"2024-07-07T12:54:30.087+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategischer-ansatz-um-fast-flow-softwaregrenzen-zu-finden/","created":"2024-06-23T19:46:00.323+02:00","updated":"2024-07-07T12:54:30.087+02:00"}
 ---
 
 

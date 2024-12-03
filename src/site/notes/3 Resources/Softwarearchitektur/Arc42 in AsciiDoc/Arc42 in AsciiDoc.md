@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/softwarearchitektur/arc42-in-ascii-doc/arc42-in-ascii-doc/","tags":["blog","lang-en"],"created":"2024-11-11T08:59:43.626+01:00","updated":"2024-07-28T23:18:38.535+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/softwarearchitektur/arc42-in-ascii-doc/arc42-in-ascii-doc/","tags":["blog","lang-en"],"created":"2024-07-07T12:55:03.316+02:00","updated":"2024-07-28T23:18:38.535+02:00"}
 ---
 
 
