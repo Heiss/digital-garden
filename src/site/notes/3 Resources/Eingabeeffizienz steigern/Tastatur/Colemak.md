@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/eingabeeffizienz-steigern/tastatur/colemak/","created":"2024-06-23T19:46:00.276+02:00","updated":"2024-04-20T21:17:20.032+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/eingabeeffizienz-steigern/tastatur/colemak/","created":"2024-11-11T09:00:10.171+01:00","updated":"2024-04-20T21:17:20.032+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/p-godot-game/game-design-document/game-design-document/","pinned":true,"created":"2024-06-23T19:45:59.726+02:00","updated":"2024-04-14T18:16:06.315+02:00"}
+{"dg-publish":true,"permalink":"/1-projects/p-godot-game/game-design-document/game-design-document/","pinned":true,"created":"2024-11-11T09:00:03.841+01:00","updated":"2024-04-14T18:16:06.315+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/self-hosted/tech-radar/","created":"2024-08-05T17:50:35.216+02:00","updated":"2024-08-05T17:52:24.058+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/self-hosted/tech-radar/","created":"2024-11-11T08:59:47.096+01:00","updated":"2024-08-05T17:52:24.058+02:00"}
 ---
 
 

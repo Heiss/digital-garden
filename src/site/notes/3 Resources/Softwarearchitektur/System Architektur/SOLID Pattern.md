@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/softwarearchitektur/system-architektur/solid-pattern/","tags":["softwareentwicklung"],"created":"2024-10-22T16:01:43.188+02:00","updated":"2024-11-01T22:05:09.878+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/softwarearchitektur/system-architektur/solid-pattern/","tags":["softwareentwicklung"],"created":"2024-11-11T08:59:37.110+01:00","updated":"2024-11-01T22:05:09.878+01:00"}
 ---
 
 

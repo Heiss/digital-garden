@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/software-ownership/","created":"2024-06-23T19:46:00.566+02:00","updated":"2024-04-28T16:58:33.818+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/software-ownership/","created":"2024-11-11T08:59:43.707+01:00","updated":"2024-04-28T16:58:33.818+02:00"}
 ---
 
 
