@@ -795,7 +795,7 @@ Die beste Form der Veränderung ist das eigene Interesse. Argumentiere nicht, wi
 
 Lerne aus allen Quellen und Orten. Ein schlechter Schreiber kann auch gute Dinge sagen. Verwehre Dich nicht der Weißheit, nur weil sie aus unangenehmen Quellen stammt. (August, 24th)
 
-Bestehende Traditionen und Prozesse sind Zeitgehärtet und Best-Practices. Womöglich haben sich aber Dinge geändert? Bedenke das konservative Ideen früher als Innovativ, sogar provokant, gesehen wurden. Verwerfe Ideen nicht, weil sie alt oder zu neu sind. Nutze Sie, wenn sie helfen, Dinge schneller und besser zu erreichen. (August, 25th)
+Bestehende Traditionen und Prozesse sind Zeitgehärtet und Best-Practices. Womöglich haben sich aber Dinge geändert? Bedenke das konservative Ideen früher als Innovativ, sogar provokant, gesehen wurden. Verwerfe Ideen nicht, weil sie alt oder zu neu sind. Nutze Sie, wenn sie helfen, Dinge schneller und besser zu erreichen. (August, 25th)^dice-aq8q
 
 Auch aus dem schrecklichsten Event können gute Dinge entstehen. Du musst bereit und offen sein, diese zu erkennen. Womöglich brauchen sie nur etwas Arbeit, um wahrgenommen zu werden. (August, 26th)^dice-48zl
 
