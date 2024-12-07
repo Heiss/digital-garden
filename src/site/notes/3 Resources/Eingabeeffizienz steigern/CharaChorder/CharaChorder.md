@@ -3,7 +3,7 @@
 ---
 
 
-Ich besitze mehrere der [CharaChorder X - Transform Your Keyboard into a High-Speed Typing Mach](https://www.charachorder.com/en-de/products/charachorder-x), da ich es bei Kickstarter unterstützt habe. Mir gefiel das Konzept sehr. Leider gab es zu Beginn noch ein paar Fehler in der Zusammenarbeit mit der Software QMK, welches die [[3 Resources/Eingabeeffizienz steigern/Tastatur/ZSA Moonlander\|ZSA Moonlander]] antreibt. 
+Ich besitze mehrere der [CharaChorder X - Transform Your Keyboard into a High-Speed Typing Mach](https://www.charachorder.com/en-de/products/charachorder-x), da ich es bei Kickstarter unterstützt habe. Mir gefiel das Konzept sehr. Leider gab es zu Beginn noch ein paar Fehler in der Zusammenarbeit mit der Software QMK, welches die [[3 Resources/Eingabeeffizienz steigern/Tastaturlayout/ZSA Moonlander\|ZSA Moonlander]] antreibt. 
 Diese werden aber peu-a-peu gelöst und ich integriere das kleine Gadget immer mehr in meine Arbeitsweisen.
 
 Vor allem das Hinzufügen von neuen Chords / Shortcuts ist sehr angenehm und lässt einen seine Bedürfnisse zügig in die Software einfließen.
