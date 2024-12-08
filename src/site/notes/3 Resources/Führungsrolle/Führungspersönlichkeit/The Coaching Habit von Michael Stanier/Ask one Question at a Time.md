@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/ask-one-question-at-a-time/","created":"2024-12-08T22:54:58.325+01:00","updated":"2024-12-08T23:07:32.255+01:00"}
+---
+
+
+# Ask one Question at a Time
+
+> Stelle eine Frage zur gleichen Zeit. Nur eine.
+
+Um wirklich bedeutende Antworten zu bekommen, brauchst Du Zeit. Stelle keine Drive-by Fragen, welche die Antwort deines Gegenübers behindern. Außerdem wird der Dialog dann eher als Verhör wahrgenommen statt als Möglichkeit des Wachsens.
