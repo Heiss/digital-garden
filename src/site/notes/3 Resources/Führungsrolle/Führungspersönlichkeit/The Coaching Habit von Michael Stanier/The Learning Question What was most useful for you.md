@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-learning-question-what-was-most-useful-for-you/","created":"2024-12-08T23:00:25.180+01:00","updated":"2024-12-08T23:11:44.222+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-learning-question-what-was-most-useful-for-you/","title":"The Learning Question: What was most useful for you?","created":"2024-12-08T23:00:25.180+01:00","updated":"2024-12-08T23:30:19.134+01:00"}
 ---
 
-
-# The Learning Question: What was most useful for you?
 
 > Was war das Nützlichste für Dich?
 

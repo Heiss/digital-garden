@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-coaching-habit-von-michael-stanier/","pinned":true,"tags":["media"],"created":"2024-11-15T15:39:44.776+01:00","updated":"2024-12-08T23:14:50.010+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-coaching-habit-von-michael-stanier/","title":"The Coaching Habit von Michael Stanier","pinned":true,"tags":["media"],"created":"2024-11-15T15:39:44.776+01:00","updated":"2024-12-08T23:24:04.293+01:00"}
 ---
 
 
-# The Coaching Habit von Michael Stanier
+
+Say less, ask more & Change the way you lead forever
+
+Oder: Wie kriegt man das Advice Monster in Zaum und kreiert eine lernfähige Organisation.
 
 ## Coaching habit in general
 

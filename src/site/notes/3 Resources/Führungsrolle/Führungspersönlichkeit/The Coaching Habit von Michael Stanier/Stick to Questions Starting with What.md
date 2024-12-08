@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/stick-to-questions-starting-with-what/","created":"2024-12-08T22:57:11.789+01:00","updated":"2024-12-08T23:08:08.585+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/stick-to-questions-starting-with-what/","created":"2024-12-08T22:57:11.789+01:00","updated":"2024-12-08T23:31:29.970+01:00"}
 ---
 
-
-# Stick to Questions Starting with "What"
 
 > Bleibe bei Fragen die mit Was starten
 

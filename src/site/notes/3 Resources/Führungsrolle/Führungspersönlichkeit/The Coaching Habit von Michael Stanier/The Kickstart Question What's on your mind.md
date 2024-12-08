@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-kickstart-question-what-s-on-your-mind/","created":"2024-12-08T22:55:47.799+01:00","updated":"2024-12-08T23:11:35.066+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-kickstart-question-what-s-on-your-mind/","title":"The Kickstart Question: What's on your mind?","created":"2024-12-08T22:55:47.799+01:00","updated":"2024-12-08T23:29:59.922+01:00"}
 ---
 
-
-# The Kickstart Question: What's on your mind?
 
 >Was beschäftigt Dich aktuell?
 

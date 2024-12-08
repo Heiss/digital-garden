@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/you-need-a-coaching-habit/","created":"2024-12-08T22:45:27.528+01:00","updated":"2024-12-08T23:11:56.387+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/you-need-a-coaching-habit/","title":"You need a coaching habit","created":"2024-12-08T22:45:27.528+01:00","updated":"2024-12-08T23:30:49.569+01:00"}
 ---
 
-
-# You need a coaching habit
 
 > Du brauchst ein coachendes [[3 Resources/Verhalten/Verhalten\|Verhalten]]
 

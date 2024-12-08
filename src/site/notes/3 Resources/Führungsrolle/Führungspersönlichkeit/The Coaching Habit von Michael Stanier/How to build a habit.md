@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/how-to-build-a-habit/","created":"2024-12-08T22:45:53.110+01:00","updated":"2024-12-08T23:07:57.717+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/how-to-build-a-habit/","title":"How to build a habit?","created":"2024-12-08T22:45:53.110+01:00","updated":"2024-12-08T23:31:20.099+01:00"}
 ---
 
-
-# How to build a habit?
 
 (siehe auch [[3 Resources/Verhalten/Atomic Habits von James Clear/Atomic Habits von James Clear\|Atomic Habits von James Clear]], da hier viele Aspekte gleich sind)
 Stelle etwas mehr Fragen jeden Tag und gebe weniger Ratschläge, was zu tun ist.

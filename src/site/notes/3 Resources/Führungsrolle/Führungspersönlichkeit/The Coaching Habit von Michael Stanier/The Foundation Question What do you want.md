@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-foundation-question-what-do-you-want/","created":"2024-12-08T22:59:16.332+01:00","updated":"2024-12-08T23:11:30.520+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-foundation-question-what-do-you-want/","title":"The Foundation Question: What do you want?","created":"2024-12-08T22:59:16.332+01:00","updated":"2024-12-08T23:29:48.352+01:00"}
 ---
 
-
-# The Foundation Question: What do you want?
 
 > Was möchtest Du jetzt tun?
 
 Diese Frage hilft dabei, dass die Person Verantwortung für ihr eigenes Handeln übernehmen. Es soll dabei helfen, dass zu erkennen, was man wirklich erreichen möchte (siehe auch [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban in der IT von Klaus Leopold/Nachschubmeeting\|Spice Girls Meeting]] bei [[3 Resources/Führungsrolle/Prozesssteuerung/Kanban/Kanban\|Kanban]]) und nicht, was man als erstes denkt. Es ist meist sehr schwierig nach dem zu fragen, was man wirklich möchte und macht schon Kompromisse in seiner Antwort. Diese Frage soll dies offen legen und die Frustration in der Zukunft aufgrund des Kompromisses verhindern.
 Auch soll es versteckte Fragen (z.B. in Rhetorik oder verschwurbelte Sätze) offen legen und ganz konkret machen. Es lädt ein auch unbequeme Fragen zu stellen, lässt aber ein Nein zu.
+
 > [!quote] George Bernard Shaw
 > The single biggest problem with communication is the illusion that it has taken place.
 
