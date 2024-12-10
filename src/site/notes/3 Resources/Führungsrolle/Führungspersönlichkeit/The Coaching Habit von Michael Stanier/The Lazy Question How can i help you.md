@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-lazy-question-how-can-i-help-you/","title":"The Lazy Question: How can i help you?","created":"2024-12-08T22:59:44.033+01:00","updated":"2024-12-08T23:30:09.295+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-lazy-question-how-can-i-help-you/","title":"The Lazy Question: How can i help you?","created":"2024-12-09T09:04:09.994+01:00","updated":"2024-12-08T23:30:09.295+01:00"}
 ---
 
 

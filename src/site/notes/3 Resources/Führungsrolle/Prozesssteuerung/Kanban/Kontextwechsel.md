@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kontextwechsel/","created":"2024-06-23T19:46:00.653+02:00","updated":"2024-04-17T20:14:04.708+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kontextwechsel/","created":"2024-11-11T09:00:19.751+01:00","updated":"2024-04-17T20:14:04.708+02:00"}
 ---
 
 

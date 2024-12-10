@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/einfluss-von-organisationsentwuerfe-auf-softwarearchitektur/","created":"2024-06-23T19:46:00.533+02:00","updated":"2024-04-28T16:58:10.224+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/einfluss-von-organisationsentwuerfe-auf-softwarearchitektur/","created":"2024-11-11T09:00:19.110+01:00","updated":"2024-04-28T16:58:10.224+02:00"}
 ---
 
 
