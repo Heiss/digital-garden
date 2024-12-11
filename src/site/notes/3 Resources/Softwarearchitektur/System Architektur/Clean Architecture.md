@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/softwarearchitektur/system-architektur/clean-architecture/","tags":["architecture"],"created":"2024-11-11T09:00:04.734+01:00","updated":"2024-11-01T21:46:31.620+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/softwarearchitektur/system-architektur/clean-architecture/","tags":["architecture"],"created":"2024-10-22T15:59:41.637+02:00","updated":"2024-11-01T21:46:31.620+01:00"}
 ---
 
 

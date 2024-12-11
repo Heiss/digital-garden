@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/how-to-build-a-habit/","title":"How to build a habit?","created":"2024-12-09T09:04:09.603+01:00","updated":"2024-12-08T23:31:20.099+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/how-to-build-a-habit/","title":"How to build a habit?","created":"2024-12-08T22:45:53.110+01:00","updated":"2024-12-08T23:31:20.099+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/allgemeine-fehler-fuer-fehlgeschlagenes-change-management/","created":"2024-11-11T08:59:38.241+01:00","updated":"2024-05-26T18:57:10.381+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/allgemeine-fehler-fuer-fehlgeschlagenes-change-management/","created":"2024-06-23T19:46:00.363+02:00","updated":"2024-05-26T18:57:10.381+02:00"}
 ---
 
 

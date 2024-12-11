@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/actually-listen-to-the-answer/","title":"Actually Listen to the Answer","created":"2024-12-09T09:04:10.178+01:00","updated":"2024-12-08T23:30:59.002+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/actually-listen-to-the-answer/","title":"Actually Listen to the Answer","created":"2024-12-08T22:59:52.341+01:00","updated":"2024-12-08T23:30:59.002+01:00"}
 ---
 
 
