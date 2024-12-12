@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/programmierung/programmierung/","pinned":true,"created":"2024-06-23T19:46:00.989+02:00","updated":"2024-04-20T07:59:45.060+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/programmierung/programmierung/","pinned":true,"created":"2024-11-11T08:59:59.480+01:00","updated":"2024-04-20T07:59:45.060+02:00"}
 ---
 
 

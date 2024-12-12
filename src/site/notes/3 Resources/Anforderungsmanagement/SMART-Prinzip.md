@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/anforderungsmanagement/smart-prinzip/","created":"2024-06-23T19:46:00.299+02:00","updated":"2024-05-20T13:27:45.887+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/anforderungsmanagement/smart-prinzip/","created":"2024-11-11T09:00:00.252+01:00","updated":"2024-05-20T13:27:45.887+02:00"}
 ---
 
 

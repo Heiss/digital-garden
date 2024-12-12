@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kaizen/","created":"2024-06-23T19:46:00.644+02:00","updated":"2024-04-14T17:28:14.596+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kaizen/","created":"2024-11-11T08:59:52.663+01:00","updated":"2024-04-14T17:28:14.596+02:00"}
 ---
 
 

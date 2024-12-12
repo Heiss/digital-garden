@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/fracture-planes/","created":"2024-06-23T19:46:00.547+02:00","updated":"2024-04-28T16:47:18.284+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/fracture-planes/","created":"2024-11-11T08:59:37.324+01:00","updated":"2024-04-28T16:47:18.284+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/should-you-ask-rhetorical-questions/","title":"Should You Ask Rhetorical Questions?","created":"2024-12-08T22:56:35.538+01:00","updated":"2024-12-08T23:31:23.535+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/should-you-ask-rhetorical-questions/","title":"Should You Ask Rhetorical Questions?","created":"2024-12-09T09:04:10.221+01:00","updated":"2024-12-08T23:31:23.535+01:00"}
 ---
 
 

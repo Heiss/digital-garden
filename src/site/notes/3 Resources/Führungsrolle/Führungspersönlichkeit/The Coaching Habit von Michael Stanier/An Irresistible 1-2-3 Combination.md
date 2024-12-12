@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/an-irresistible-1-2-3-combination/","title":"An Irresistible 1-2-3 Combination","created":"2024-12-08T22:59:01.015+01:00","updated":"2024-12-08T23:31:03.614+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/an-irresistible-1-2-3-combination/","title":"An Irresistible 1-2-3 Combination","created":"2024-12-09T09:04:09.597+01:00","updated":"2024-12-08T23:31:03.614+01:00"}
 ---
 
 
