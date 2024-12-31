@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/get-comfortable-with-silence/","title":"Get Comfortable with Silence","created":"2024-12-09T09:04:09.863+01:00","updated":"2024-12-08T23:31:13.002+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/get-comfortable-with-silence/","title":"Get Comfortable with Silence","created":"2024-12-08T22:59:30.826+01:00","updated":"2024-12-08T23:31:13.002+01:00"}
 ---
 
 

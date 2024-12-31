@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/integration/integration/","pinned":true,"created":"2024-11-11T08:59:46.662+01:00","updated":"2024-04-14T21:43:15.176+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/integration/integration/","pinned":true,"created":"2024-06-23T19:46:00.914+02:00","updated":"2024-04-14T21:43:15.176+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/nix-and-nix-os/publish-hugo-blog-with-asciidoc-and-nix/","tags":["blog","lang-en"],"created":"2024-11-11T08:59:44.067+01:00","updated":"2024-07-28T23:19:00.604+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/nix-and-nix-os/publish-hugo-blog-with-asciidoc-and-nix/","tags":["blog","lang-en"],"created":"2024-06-23T19:46:00.873+02:00","updated":"2024-07-28T23:19:00.604+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-focus-question-whats-the-real-challenge-here-for-you/","title":"The Focus Question: What's the real challenge here for you?","created":"2024-12-09T09:04:09.837+01:00","updated":"2024-12-08T23:31:37.473+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-focus-question-whats-the-real-challenge-here-for-you/","title":"The Focus Question: What's the real challenge here for you?","created":"2024-12-08T22:56:59.495+01:00","updated":"2024-12-08T23:31:37.473+01:00"}
 ---
 
 

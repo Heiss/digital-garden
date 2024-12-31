@@ -842,7 +842,7 @@ Wir können uns dazu zwingen mit weniger klarzukommen. Dann sind wir gut gerüst
 
 Wir können uns dazu zwingen mit weniger klarzukommen. Dann sind wir gut gerüstet für solche Zeiten. Verzichte bewusst auf Luxus oder Annehmlichkeiten. (September, 11th)
 
-Hochmut ist eine Schwäche und wenn Du auf dem Boden bleibst, wird niemand dich runterholen müssen. (September, 12th)
+Hochmut ist eine Schwäche und wenn Du auf dem Boden bleibst, wird niemand dich runterholen müssen. (September, 12th)^dice-18yt
 
 Nichts kann deine Seele berühren, wenn Du es als Festung aufbaust. Sobald du aber die Nerven verlierst, wirst Du Dich selbst verraten und die Angst wird deine Seele vergiften. (September, 13th)
 ^dice-1yqu

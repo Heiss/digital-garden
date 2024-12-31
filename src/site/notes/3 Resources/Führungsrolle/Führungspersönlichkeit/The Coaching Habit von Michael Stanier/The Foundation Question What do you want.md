@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-foundation-question-what-do-you-want/","title":"The Foundation Question: What do you want?","created":"2024-12-09T09:04:09.791+01:00","updated":"2024-12-08T23:29:48.352+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-foundation-question-what-do-you-want/","title":"The Foundation Question: What do you want?","created":"2024-12-08T22:59:16.332+01:00","updated":"2024-12-08T23:29:48.352+01:00"}
 ---
 
 

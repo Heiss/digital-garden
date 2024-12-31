@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/godot-engine/gdext-rust/gdext-rust/","pinned":true,"created":"2024-11-11T09:00:19.825+01:00","updated":"2024-04-14T18:11:54.361+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/godot-engine/gdext-rust/gdext-rust/","pinned":true,"created":"2024-06-23T19:46:00.840+02:00","updated":"2024-04-14T18:11:54.361+02:00"}
 ---
 
 

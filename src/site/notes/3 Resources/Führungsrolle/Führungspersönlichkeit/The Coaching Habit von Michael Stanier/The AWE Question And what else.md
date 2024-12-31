@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-awe-question-and-what-else/","title":"The AWE Question: And what else?","created":"2024-12-09T09:04:09.746+01:00","updated":"2024-12-08T23:31:33.927+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/the-awe-question-and-what-else/","title":"The AWE Question: And what else?","created":"2024-12-08T22:56:23.431+01:00","updated":"2024-12-08T23:31:33.927+01:00"}
 ---
 
 
