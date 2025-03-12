@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/media-backlog/","created":"2024-06-23T19:46:00.895+02:00","updated":"2024-05-17T10:47:20.622+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/media-backlog/","created":"2024-11-11T09:00:19.232+01:00","updated":"2024-05-17T10:47:20.622+02:00"}
 ---
 
 

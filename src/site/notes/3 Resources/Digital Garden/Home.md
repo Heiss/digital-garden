@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-12-12T18:57:08.132+01:00","updated":"2024-12-12T09:07:37.596+01:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-11-11T08:59:39.731+01:00","updated":"2024-12-12T09:07:37.596+01:00"}
 ---
 
 
@@ -26,7 +26,7 @@ Sollten also Dinge zu kurz gekommen sein, fühl Dich frei, in die Kommentare zu 
 
 Darüber hinaus arbeite ich an einer Rust-Bibliothek für [[1 Projects/P Distributed ADT types in Rust/Distributed ADT Projektbeschreibung\|verteilte abstrakte Datentypen]], um mein Wissen in dieser Thematik aufzufrischen und Rust zu vertiefen. Außerdem nutze ich dieses Thema, um mich mit verteilten Systemen und damit modernen [[3 Resources/Softwarearchitektur/Softwarearchitektur\|Softwarearchitektur]]en zu beschäftigen.
 
-Zusätzlich schreibe ich an einem [[1 Projects/P Godot Game/Game Design Document/Game Design Document\|Game Design Document]], um daraus ggf. ein Spiel auf Basis der [[3 Resources/Godot Engine/Godot Engine\|Godot Engine]] und dessen [[3 Resources/Godot Engine/gdext-rust/gdext-rust\|Rust-bindings]] zu erstellen.
+Zusätzlich schreibe ich an einem [[Game Design Document\|Game Design Document]], um daraus ggf. ein Spiel auf Basis der [[3 Resources/Godot Engine/Godot Engine\|Godot Engine]] und dessen [[3 Resources/Godot Engine/gdext-rust/gdext-rust\|Rust-bindings]] zu erstellen.
 
 Am Ende möchte ich mich noch für deine Aufmerksamkeit bedanken und würde mich freuen von dir in den Kommentaren zu lesen. Ich wünsche Dir viel Spaß beim stöbern und lesen und hoff, Du hast keinen guten, sondern einen tollen Tag! ;)
 

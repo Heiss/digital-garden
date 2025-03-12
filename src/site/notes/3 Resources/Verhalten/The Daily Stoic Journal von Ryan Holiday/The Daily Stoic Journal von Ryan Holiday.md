@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/the-daily-stoic-journal-von-ryan-holiday/","pinned":true,"tags":["media","book"],"created":"2024-06-23T19:46:01.078+02:00","updated":"2024-04-28T12:48:54.216+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/the-daily-stoic-journal-von-ryan-holiday/","pinned":true,"tags":["media","book"],"created":"2024-11-11T09:00:03.733+01:00","updated":"2024-04-28T12:48:54.216+02:00"}
 ---
 
 

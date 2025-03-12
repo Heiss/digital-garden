@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/acknowledge-the-answers-you-get/","title":"Acknowledge the Answers You Get","created":"2024-12-08T23:00:14.142+01:00","updated":"2024-12-08T23:30:53.557+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/acknowledge-the-answers-you-get/","title":"Acknowledge the Answers You Get","created":"2024-12-09T09:04:10.190+01:00","updated":"2024-12-08T23:30:53.557+01:00"}
 ---
 
 
