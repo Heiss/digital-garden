@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2024-11-11T09:00:19.111+01:00","updated":"2025-01-14T09:37:43.522+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2024-11-11T09:00:19.111+01:00","updated":"2025-03-12T13:52:46.699+01:00"}
 ---
 
 
@@ -775,7 +775,8 @@ Konsistenz ist die eigentliche Tugend, die man verfolgen sollte. Denn dies resul
 Alles kann eine Stärke und Vorteil sein, auch wenn es zuerst nicht so scheint. Du musst nur die Situationen erkennen, in dem der Vorteil zum Nachteil wird und umgekehrt. Wenn andere denken, dass Du im Nachteil bist, kannst Du Stärke zeigen. (August, 16th){ #dice-zzsa}
 
 
-Mache niemanden sonst verantwortlich für deine Enttäuschung, denn nur Du kannst deine Erwartungen steuern. Suche den Grund dafür bei Dir. Ist jemand unfreundlich? Wenn Du nicht so sensibel reagieren würdest, wäre es nicht schlimm. Nur deine Haltung demgegenüber erzeugt erst den Groll. vielleicht hättest Du es nicht anders erwarten sollen? (August, 17th)
+Mache niemanden sonst verantwortlich für deine Enttäuschung, denn nur Du kannst deine Erwartungen steuern. Suche den Grund dafür bei Dir. Ist jemand unfreundlich? Wenn Du nicht so sensibel reagieren würdest, wäre es nicht schlimm. Nur deine Haltung demgegenüber erzeugt erst den Groll. vielleicht hättest Du es nicht anders erwarten sollen? (August, 17th){ #dice-anir}
+
 
 Denke stark nach, bevor Du eine Wahl triffst. Nur wenn Du Kämpfe eingehst, die Du auch gewinnen kannst, wirst Du unbesiegbar sein. Warum Kämpfe eingehen, wo man nichts gewinnen kann oder nicht der Stärkste von vornherein ist? (August, 18th){ #dice-jjdh}
 
