@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/self-hosted/matrix-support-page/","created":"2026-03-28T19:04:09.610+01:00","updated":"2026-03-28T20:02:06.942+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/self-hosted/matrix-support-page/","created":"2026-03-28T19:04:09.610+01:00","updated":"2026-03-28T20:04:03.966+01:00"}
 ---
 
 
-Die [netzmuffel.de](http://matrix.netzmuffel.de) Instanz ist nur für die private Nutzung gedacht und nur für Freunde und die Familie gedacht. Für andere User ist die Instanz nicht zugreifbar und durch eine SSO-Plattform, sowie weiteren Sichterheitsmechanismen, geschützt.
+Die [netzmuffel.de](http://matrix.netzmuffel.de) Instanz ist nur für die private Nutzung und nur für Freunde und die Familie gedacht. Für andere User ist die Instanz nicht zugreifbar und durch eine SSO-Plattform, sowie weiteren Sichterheitsmechanismen, geschützt.
 
 ## Zugang erhalten
 
