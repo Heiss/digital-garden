@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2024-11-11T09:00:19.111+01:00","updated":"2025-03-12T13:52:46.699+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/verhalten/the-daily-stoic-journal-von-ryan-holiday/gedanken/","tags":["stoic","quotes"],"created":"2026-02-05T22:36:55.271+01:00","updated":"2025-07-22T12:57:17.829+02:00"}
 ---
 
 
@@ -74,10 +74,10 @@ Vor dem Frühstück: Mach Dir bewusst, dass Du nur deine Entscheidungen wirklich
 Mittags: Mach Dir bewusst, dass dein Schicksal nicht nur durch deine Entscheidungen beeinflusst wird, sondern auch von deiner Umwelt und das  dies außerhalb deiner Kontrolle liegt. (Jan, 12th){ #dice-7y1y}
 
 
-Abends: Mach Dir bewusst, wie viel außerhalb deiner Kontrolle liegt und wo deine Entscheidungen beginnen und enden. (Jan, 12th)                                                      { #dice-q3s8}
+Abends: Mach Dir bewusst, wie viel außerhalb deiner Kontrolle liegt und wo deine Entscheidungen beginnen und enden. (Jan, 12th){ #dice-q3s8}
 
 
-Im Bett: Erinnere Dich daran, dass Schlaf eine Art Aufgeben und Vertrauen ist und wie einfach es fällt. (Jan, 12th)                                                                 { #dice-1hcg}
+Im Bett: Erinnere Dich daran, dass Schlaf eine Art Aufgeben und Vertrauen ist und wie einfach es fällt. (Jan, 12th){ #dice-1hcg}
 
 
 Es ist Klarheit in der Einfachheit. (Jan, 13th){ #dice-q7am}
@@ -118,7 +118,7 @@ Es zählen nur deine Entscheidungen. "Welche sind sie?" "Wie wirst Du sie bewert
 Wir können unsere Prinzipien und Gedanken jederzeit neu entfachen, auch wenn wir sie - und das ist auch in Ordnung - wochen- oder monatelang vernachlässigen. (Jan, 20th){ #dice-d6ym}
 
 
-Entwickle ein Morgenritual, worin Du den Blick nach innen richtest und deine Gedanken, Ängste und Ideen reflektierst. Vielleicht auch ein Tagebuch wie Epictetus? (Jan, 21th) { #dice-qsfo}
+Entwickle ein Morgenritual, worin Du den Blick nach innen richtest und deine Gedanken, Ängste und Ideen reflektierst. Vielleicht auch ein Tagebuch wie Epictetus? (Jan, 21th){ #dice-qsfo}
 
 
 Wie eine Hymne oder ein Gebet, schreibe deine Gedanken regelmäßig nieder - zu Beginn oder am Ende eines Tages. Nimm Dir die Zeit für ein eigenes Journal. Sei entschlossen in deinen Bewertungen. Notiere Dir, was deinem Glück zuträglich ist und was ihr schadet. Schreibe auf, woran Du gerne arbeiten möchtest und welche Zitate Du magst. Dies wird auch deinen Fortschritt dokumentieren. (Jan, 22nd){ #dice-wxgu}
@@ -251,7 +251,8 @@ In turbulenten Momenten kann es sein, dass Du dein Rüstzeug / Tools verlierst. 
 In unruhigen Momenten verlieren nicht dein Wissen und Tools ihre Wirksamkeit, sondern Du selbst und damit verlierst Du auch deine Fähigkeit zur begründeten Entscheidung. (Feb, 28th){ #dice-4f5p}
 
 
-Setze dein Herz nicht auf zu vielen Dingen - Epictetus (Feb, 29th)
+Setze dein Herz nicht auf zu vielen Dingen - Epictetus (Feb, 29th){ #dice-vedu}
+
 
 Fokus, Priorisiere: Trainiere deinen Geist. *Brauchst Du das wirklich? Was passiert, wenn Du es nicht hast? Kannst Du dein Ziel auch ohne dies erreichen?* In der Moderne sind wir darauf trainiert, immer etwas zu wollen. Dies hält uns beschäftigt und hält uns davon ab, die Dinge zu machen / zu bekommen, die wir wirklich möchten / brauchen. (Feb, 29th){ #dice-1ddd}
 
@@ -588,7 +589,7 @@ Es gibt 2 Arten von Personen: Diejenigen, die auf andere schauen und fragen "War
 Alle Dinge haben 2 Griffe. Wenn der eine nicht für Dich funktioniert, versuche den anderen. Probiere aus und sei nicht stur in der Verwendung eines Griffes. (June, 14th){ #dice-zmf3}
 
 
-"Der Mensch hat aus einem Grund 2 Ohren, aber nur einen Mund: Mehr zuhören als reden." Der Weise folgt 3 Prinzipien: { #dice-dnjw}
+"Der Mensch hat aus einem Grund 2 Ohren, aber nur einen Mund: Mehr zuhören als reden." Der Weise folgt 3 Prinzipien:{ #dice-dnjw}
 
 - Er kann seine Erwartungen verwalten. Er weiß was er möchte und was realistisch passieren wird.
 - Er betrachtet den besten und schlechtesten Fall und bereitet sich auf beide vor.
@@ -652,7 +653,8 @@ Führe keine Liste der Dinge, die du tun *musst* (have to do), sondern die du tu
 
 Solange deine Flamme flackert, gibt es Licht in dieser Welt. Alle haben diese Flamme und sind ihre Bewahrer. Es wird dunkel, wenn wir alle es ausgehen lassen, aber darüber hast Du keine Kontrolle, lediglich über deine. Beschütze sie heute und jeden Tag. (July, 4th)
 
-Niemand sagte, dass es einfach werden würde. Es hätte jedem zugwiesen werden können, aber Du wurdest mit der Aufgabe betreut, weil Du das Schwierige nicht fürchtest. Lass Dich nicht ablenken. (July, 5th)
+Niemand sagte, dass es einfach werden würde. Es hätte jedem zugwiesen werden können, aber Du wurdest mit der Aufgabe betreut, weil Du das Schwierige nicht fürchtest. Lass Dich nicht ablenken. (July, 5th){ #dice-rswp}
+
 
 Für das große Ganze: Stehe auf! Es wird nicht leichter noch erträglicher durch liegen bleiben. Steh auf und leg los. Nur dann wird erledigt und einfacher. Du wurdest dafür gemacht. (July, 6th)
 
@@ -683,7 +685,8 @@ Wenn andere Dich nachahmen oder deine Ideen für sich verkaufen, sei nicht besch
 Auf die Frage "Was hat Dich motiviert, das Richtige getan?" sollte Antwort stets sein: "Weil es das Richtige war". Das ist Dank genug für deine Taten. Vor allem, wenn es Schwierigkeiten oder Blockaden auf dem Weg gab. (July, 15th){ #dice-cba2}
 
 
-Was treibt Dich an? Was sind die Werte, die du verfolgst? Wonach strebst Du in deinem Leben? Beantworte diese Fragen, selbst wenn die Beantwortung und die Antworten unangenehm sind, Du wirst dein Leben anschließend korrigieren müssen und das ist gut: Dies wird deine Seele näher an den Zustand bringen, den Du gerne möchtest. Akzeptiere, dass deine Seele auch Fortschritte macht. (July, 16th)
+Was treibt Dich an? Was sind die Werte, die du verfolgst? Wonach strebst Du in deinem Leben? Beantworte diese Fragen, selbst wenn die Beantwortung und die Antworten unangenehm sind, Du wirst dein Leben anschließend korrigieren müssen und das ist gut: Dies wird deine Seele näher an den Zustand bringen, den Du gerne möchtest. Akzeptiere, dass deine Seele auch Fortschritte macht. (July, 16th){ #dice-y23g}
+
 
 Wenn Du Dich veränderst, wird es Widerstand um Dich herum geben, da Du Dinge für die anderen hinterfragst. Akzeptiere dies, bleibe bei deinem begründeten Pfad, aber lasse die Leute nicht zurück, bekämpfe sie nicht, noch werde wütend auf sie. Du warst vor kurzem in ihren Reihen. (July, 17th){ #dice-wq96}
 
@@ -734,7 +737,8 @@ Du weißt, was zu tun ist. Warte nicht auf den richtigen Augenblick oder die per
 Wenn Du zurückgeworfen wirst, sei es Krankheit oder Entscheidungen durch andere, mache Dir bewusst, welchen Bewegungsspielraum dir bleibt und nutze ihn. Vielleicht sind sogar Türen aufgegangen? (August, 2nd){ #dice-i2it}
 
 
-Der Ort, um deine Arbeit zu machen, um ein gutes Leben zu leben, ist genau hier und jetzt. Rede Dir nicht ein, dass Du erst den richtigen Ort, die nötige Freizeit brauchst. Sei pragmatisch und anpassungsfähig. (August, 3rd)
+Der Ort, um deine Arbeit zu machen, um ein gutes Leben zu leben, ist genau hier und jetzt. Rede Dir nicht ein, dass Du erst den richtigen Ort, die nötige Freizeit brauchst. Sei pragmatisch und anpassungsfähig. (August, 3rd){ #dice-6o57}
+
 
 Werde nicht emotional, bleibe fokussiert. Konzentriere Dich auf Aktionen, die in deinem Veränderungsbereich liegen. Was auch immer heute passiert oder du dich befindest, finde deinen Veränderungsbereich. (August, 4th)
 { #dice-nutl}
@@ -764,7 +768,8 @@ Lass die Theorie und Philosophie dein Eigen werden. Kopiere das, was funktionier
 Wie oft hast Du Dich in Probleme gebracht, weil Du vor Angst, Neid oder anderen Emotionen gehandelt hast? Lass deine Vernunft handeln. Dein Gehirn ist dafür gemacht das Wichtige vom Unwichtigen zu trennen und Schlüsse fürs Handeln daraus zu ziehen. (August, 13th){ #dice-l2i2}
 
 
-"An ounce of prevention is worth a pound of cure." Benjamin Franklin
+"An ounce of prevention is worth a pound of cure." Benjamin Franklin{ #dice-8fni}
+
 
 Philosophie ist kein Trick, nicht zum Spaß. Es soll und wird Dir helfen, Ordnung in dein Leben zu bringen und Situationen zu meistern, wie Du es möchtest. Lass Dich nicht verwirren, verwirre nicht andere. Die Welt ist voller Ablenkungen, die Philosophie wird Dich anleiten, diese zu ignorieren und deine Vernunft Dich leiten lassen. (August, 14th){ #dice-lwkc}
 
@@ -871,3 +876,12 @@ Manchmal liegt die Lösung eines Problems in der Art und Weise, wie es formulier
 
 The obstacle in the way, becomes the way.
 { #kanban-mitschrift}
+
+
+Das Leben ist kein Tanz, sondern ein Kampf. Es hat keinen Takt, versucht Dich umzuwerfen und deine gelernte Flexibilität herauszufordern. Sei auf alles vorbereitet und lass Dich nicht dominieren. Die Philosophie ist dein Schwert, mit dessen Hilfe Du deine Aufmerksamkeit lenkst auf die Dinge, die nur darauf warten, Dich anzugreifen. (September, 20th)
+
+Das Leben wird Dich aus deinem Rhythmus reißen. Deine Aufgabe ist es, wieder schnell hinein zu kommen und sich davon nicht entmutigen zu lassen. Deine Annahmen über die Funktionsweise der Welt wird ständig herausgefordert. Passe diese an und handle nach ihr. Überlege Dir, wie Du wieder in Reihe kommst, wenn Du heraus fällst. (September, 21st)
+
+Herausforderungen sind Möglichkeiten zu wachsen. Gehe ihnen nicht aus dem Weg, denn sie sind der Weg, um zu zeigen, wer man wirklich ist. Siehe es als Übung an für Momente, denen Du nicht entgehen kannst. (September, 22nd)
+
+Jede Aktion kann durch genug Training zu einer Routine werden. Übe sie in einfachen Zeiten, damit du sie auch zeigst, wenn es schwierig ist. Training lässt die Aktion leichter aussehen als die Alternativen. (September, 23rd)

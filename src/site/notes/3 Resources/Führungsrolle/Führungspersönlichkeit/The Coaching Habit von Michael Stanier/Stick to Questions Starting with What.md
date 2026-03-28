@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/stick-to-questions-starting-with-what/","created":"2024-12-09T09:04:09.827+01:00","updated":"2024-12-08T23:31:29.970+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/stick-to-questions-starting-with-what/","created":"2026-02-05T22:37:56.640+01:00","updated":"2024-12-08T23:31:29.970+01:00"}
 ---
 
 

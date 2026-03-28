@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/verankerung-der-neuen-ansaetze-in-der-kultur/","created":"2024-11-11T09:00:19.383+01:00","updated":"2024-05-26T18:57:02.369+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/verankerung-der-neuen-ansaetze-in-der-kultur/","created":"2026-02-05T22:47:58.931+01:00","updated":"2024-05-26T18:57:02.369+02:00"}
 ---
 
 

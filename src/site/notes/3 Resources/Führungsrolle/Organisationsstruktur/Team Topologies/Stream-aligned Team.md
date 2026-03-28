@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/stream-aligned-team/","created":"2024-11-11T08:59:37.325+01:00","updated":"2024-04-28T17:30:39.768+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/stream-aligned-team/","created":"2026-02-05T22:36:52.408+01:00","updated":"2024-04-28T17:30:39.768+02:00"}
 ---
 
 

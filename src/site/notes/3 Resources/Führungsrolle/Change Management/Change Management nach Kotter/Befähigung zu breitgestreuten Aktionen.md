@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/befaehigung-zu-breitgestreuten-aktionen/","created":"2024-11-11T08:59:36.995+01:00","updated":"2024-05-26T18:57:10.386+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/befaehigung-zu-breitgestreuten-aktionen/","created":"2026-02-05T22:39:40.840+01:00","updated":"2024-05-26T18:57:10.386+02:00"}
 ---
 
 

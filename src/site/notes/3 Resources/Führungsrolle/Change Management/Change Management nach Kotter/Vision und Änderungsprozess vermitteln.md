@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/vision-und-aenderungsprozess-vermitteln/","created":"2024-11-11T08:59:36.845+01:00","updated":"2024-05-26T18:57:02.382+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/vision-und-aenderungsprozess-vermitteln/","created":"2026-02-05T22:34:58.503+01:00","updated":"2024-05-26T18:57:02.382+02:00"}
 ---
 
 

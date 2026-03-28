@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/organisatorisches-gefuehl/","created":"2024-11-11T09:00:08.099+01:00","updated":"2024-04-28T16:56:43.660+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/organisatorisches-gefuehl/","created":"2026-02-05T22:35:59.207+01:00","updated":"2025-05-05T16:16:27.187+02:00"}
 ---
 
 
@@ -28,8 +28,8 @@ Genau wie im Organismus, wo es verschiedene Organe für verschiedene Eindrücke 
 - Ist der Arbeitsfluss von Team C so reibungslos wie er sein könnte? Was hindert sie?
 - Sind die Versprechungen zwischen beiden Teams immernoch valide und erreichbar? Welche Änderungen sollten wir an den Versprechungen machen, damit sie realistischer sind?
 
-In [[The DevOps Handbook\|The DevOps Handbook]] werden folgende 3 Wege für modernes [[4 Archive/23.10.23 PARA-Integration/Themen/DevOps\|DevOps]] definitert:
-- Systemisches denken: Optimiere für den schneller Fluss durch die gesamte Organisation, nicht nur kleine Teile
+In [[The DevOps Handbook\|The DevOps Handbook]] werden folgende 3 Wege für modernes [[4 Archive/23.10.23 PARA-Integration/Themen/DevOps\|DevOps]] definiert:
+- Systemisches denken: Optimiere für den schnellen Fluss durch die gesamte Organisation, nicht nur kleine Teile
 - Feedbackloops: Entwicklung (Dev) wird informiert und angeleitet durch den Betrieb (Ops)
 - Kultur der stetigen Experimente und des Lernens: Wahrnehmen und Feedback für alle Teaminteraktionen
 

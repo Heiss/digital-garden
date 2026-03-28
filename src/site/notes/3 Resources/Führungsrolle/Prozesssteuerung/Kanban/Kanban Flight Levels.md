@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kanban-flight-levels/","created":"2024-11-11T08:59:41.741+01:00","updated":"2024-05-22T10:02:02.847+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/prozesssteuerung/kanban/kanban-flight-levels/","created":"2026-02-05T22:42:40.134+01:00","updated":"2024-05-22T10:02:02.847+02:00"}
 ---
 
 

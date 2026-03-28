@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/pkm/p-obsidian-git/p-obsidian-git/","tags":["git"],"created":"2024-11-11T08:59:59.504+01:00","updated":"2024-11-04T21:01:30.098+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/pkm/p-obsidian-git/p-obsidian-git/","tags":["git"],"created":"2026-02-05T22:48:11.028+01:00","updated":"2024-11-04T21:01:30.098+01:00"}
 ---
 
 - folgend der [Anleitung](https://publish.obsidian.md/git-doc/Installation) lässt sich relativ schnell das Plugin in ein neu installiertes Obsidian installieren

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/use-every-channel-to-ask-a-question/","title":"Use Every Channel to Ask a Question","created":"2024-12-09T09:04:09.832+01:00","updated":"2024-12-08T23:30:39.393+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/fuehrungspersoenlichkeit/the-coaching-habit-von-michael-stanier/use-every-channel-to-ask-a-question/","title":"Use Every Channel to Ask a Question","created":"2026-02-05T22:40:55.250+01:00","updated":"2024-12-08T23:30:39.393+01:00"}
 ---
 
 

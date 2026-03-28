@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/anforderungsmanagement/nichtfunktionale-anforderungen/","created":"2024-11-11T08:59:52.796+01:00","updated":"2024-05-20T13:27:26.067+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/anforderungsmanagement/nichtfunktionale-anforderungen/","created":"2026-02-05T22:38:01.705+01:00","updated":"2024-05-20T13:27:26.067+02:00"}
 ---
 
 

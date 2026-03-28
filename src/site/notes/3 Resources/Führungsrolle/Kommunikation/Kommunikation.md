@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/kommunikation/kommunikation/","created":"2025-02-25T08:24:42.800+01:00","updated":"2025-02-24T19:51:36.448+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/kommunikation/kommunikation/","created":"2026-02-05T22:39:16.246+01:00","updated":"2025-02-24T19:51:36.448+01:00"}
 ---
 
 

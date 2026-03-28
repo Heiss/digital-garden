@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/eingabeeffizienz-steigern/tastaturlayout/zsa-moonlander/","created":"2024-12-09T09:04:09.678+01:00","updated":"2024-04-20T21:32:12.372+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/eingabeeffizienz-steigern/tastaturlayout/zsa-moonlander/","created":"2026-02-05T22:38:41.929+01:00","updated":"2024-04-20T21:32:12.372+02:00"}
 ---
 
 

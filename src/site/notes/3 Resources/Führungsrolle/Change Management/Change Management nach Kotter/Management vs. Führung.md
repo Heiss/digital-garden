@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/management-vs-fuehrung/","created":"2024-11-11T09:00:19.283+01:00","updated":"2024-07-07T12:53:09.297+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/management-vs-fuehrung/","created":"2026-02-05T22:42:14.391+01:00","updated":"2024-07-07T12:53:09.297+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/holokratische-teamstrukturen/","tags":["revisitMe"],"created":"2024-11-11T09:00:19.791+01:00","updated":"2024-05-19T20:43:13.036+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/holokratische-teamstrukturen/","tags":["revisitMe"],"created":"2026-02-05T22:46:28.391+01:00","updated":"2024-05-19T20:43:13.036+02:00"}
 ---
 
 

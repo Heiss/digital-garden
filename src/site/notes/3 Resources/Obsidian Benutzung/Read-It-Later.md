@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/read-it-later/","created":"2024-11-11T08:59:56.439+01:00","updated":"2024-04-25T19:46:11.472+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/read-it-later/","created":"2026-02-05T22:45:00.104+01:00","updated":"2024-04-25T19:46:11.472+02:00"}
 ---
 
 

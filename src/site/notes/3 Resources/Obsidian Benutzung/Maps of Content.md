@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/maps-of-content/","created":"2024-11-11T09:00:08.941+01:00","updated":"2024-04-14T12:36:48.616+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/maps-of-content/","created":"2026-02-05T22:48:39.333+01:00","updated":"2024-04-14T12:36:48.616+02:00"}
 ---
 
 

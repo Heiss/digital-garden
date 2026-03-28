@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/self-hosted/matrix-support-page/","created":"2026-03-28T19:04:09.610+01:00","updated":"2026-03-28T19:04:46.130+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/self-hosted/matrix-support-page/","created":"2026-03-28T19:04:09.610+01:00","updated":"2026-03-28T19:09:57.881+01:00"}
 ---
 
 
@@ -8,7 +8,6 @@ Die [netzmuffel.de](http://matrix.netzmuffel.de) Instanz ist nur für die privat
 ## Zugang erhalten
 
 Damit ich ein Konto für Dich anlegen kann, brauche ich eine E-Mailadresse von Dir, welche ich hinterlegen kann. Dann erhältst Du per Mail einen Link, womit Du dich auf meiner Plattform Authentik anmelden kannst. Diese wird verwendet, um für sämtliche Dienste von mir die Konten und Zugänge zu verwalten. Damit ist es Dir möglich auch die anderen Dienste von mir zu verwenden.
-
 ## Installation
 
 ### Android
@@ -17,7 +16,7 @@ Auf dem Handy die App "Element Classic" ([https://play.google.com/store/apps/det
 
 > ​Wichtig ist, dass man die Classic Variante installiert, denn wir verwenden eine zentrale Plattform für die Authentifizierung, welche mit der neuen Variante (Element X) noch nicht unterstützt wird.​
 
-![](/api/image/PhysicX/qrcode-1.png)
+![3 Resources/Self-Hosted/qrcode-1.png](/img/user/3%20Resources/Self-Hosted/qrcode-1.png)
 
 ### PC
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung-limitieren/","created":"2024-11-11T08:59:52.437+01:00","updated":"2024-05-20T13:54:39.928+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/kognitive-belastung-limitieren/","created":"2026-02-05T22:35:34.851+01:00","updated":"2024-05-20T13:54:39.928+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/obsidian-benutzung/","pinned":true,"created":"2024-11-11T09:00:07.844+01:00","updated":"2025-03-13T14:31:43.083+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/obsidian-benutzung/","pinned":true,"created":"2026-02-05T22:48:13.469+01:00","updated":"2025-03-13T14:31:43.083+01:00"}
 ---
 
 

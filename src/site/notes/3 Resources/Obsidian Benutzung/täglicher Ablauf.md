@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/taeglicher-ablauf/","created":"2024-11-11T08:59:47.081+01:00","updated":"2025-01-09T14:51:44.927+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/taeglicher-ablauf/","created":"2026-02-05T22:36:35.139+01:00","updated":"2025-01-09T14:51:44.927+01:00"}
 ---
 
 

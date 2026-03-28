@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/gedanken-zum-alltag/tagebuch-schreiben/6-minuten-tagebuch/","created":"2025-02-24T10:03:03.264+01:00","updated":"2025-02-23T21:21:36.593+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/gedanken-zum-alltag/tagebuch-schreiben/6-minuten-tagebuch/","created":"2026-02-05T22:40:27.328+01:00","updated":"2025-02-23T21:21:36.593+01:00"}
 ---
 
 

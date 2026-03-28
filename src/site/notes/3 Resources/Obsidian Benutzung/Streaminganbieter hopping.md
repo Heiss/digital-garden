@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/streaminganbieter-hopping/","created":"2024-11-11T09:00:19.189+01:00","updated":"2024-04-21T13:12:57.668+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/streaminganbieter-hopping/","created":"2026-02-05T22:39:23.952+01:00","updated":"2024-04-21T13:12:57.668+02:00"}
 ---
 
 

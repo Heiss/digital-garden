@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/digital-garden/","created":"2025-03-13T14:31:20.860+01:00","updated":"2025-03-13T14:36:48.557+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/digital-garden/","created":"2026-02-05T22:44:49.586+01:00","updated":"2025-03-13T14:36:48.557+01:00"}
 ---
 
 

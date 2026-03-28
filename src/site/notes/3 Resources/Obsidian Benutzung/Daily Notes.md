@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/daily-notes/","created":"2024-11-11T09:00:19.549+01:00","updated":"2024-04-14T13:02:28.101+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/obsidian-benutzung/daily-notes/","created":"2026-02-05T22:42:15.573+01:00","updated":"2024-04-14T13:02:28.101+02:00"}
 ---
 
 

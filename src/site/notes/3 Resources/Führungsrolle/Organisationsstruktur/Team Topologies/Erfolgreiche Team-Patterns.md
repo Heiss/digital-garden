@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/erfolgreiche-team-patterns/","created":"2024-11-11T08:59:48.247+01:00","updated":"2024-04-28T16:53:17.353+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/erfolgreiche-team-patterns/","created":"2026-02-05T22:35:00.213+01:00","updated":"2024-04-28T16:53:17.353+02:00"}
 ---
 
 

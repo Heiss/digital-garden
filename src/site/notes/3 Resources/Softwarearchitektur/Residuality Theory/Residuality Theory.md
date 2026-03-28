@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/softwarearchitektur/residuality-theory/residuality-theory/","created":"2025-02-24T10:03:03.383+01:00","updated":"2025-02-23T21:07:41.114+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/softwarearchitektur/residuality-theory/residuality-theory/","created":"2026-02-05T22:48:47.437+01:00","updated":"2025-02-23T21:07:41.114+01:00"}
 ---
 
 

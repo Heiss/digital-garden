@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategischer-ansatz-um-fast-flow-softwaregrenzen-zu-finden/","created":"2024-11-11T08:59:37.343+01:00","updated":"2024-07-07T12:54:30.087+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/architecture-for-flow/strategischer-ansatz-um-fast-flow-softwaregrenzen-zu-finden/","created":"2026-02-05T22:48:21.245+01:00","updated":"2025-11-20T11:58:56.974+01:00"}
 ---
 
 
@@ -8,7 +8,6 @@ In einer Welt, in der schnelle Änderungen notwendig werden, um sich der unbesti
 >[!NOTE] Quellen
 >[Mini-book: Finding software boundaries for fast flow - Team Topologies and Domain-Driven Design — Team Topologies](https://teamtopologies.com/all-mini-books/finding-software-boundaries-for-fast-flow-team-topologies-and-domain-driven-design-mini-book-mb81-v1)
 >[[3 Resources/Anforderungsmanagement/Wardley Mapping von Simon Wardley/Wardley Mapping von Simon Wardley\|Wardley Mapping von Simon Wardley]]
->[](Wardley%20Mapping%20von%20Simon%20Wardley.md)]]
 >[[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies von Matthew Skelton/Team Topologies von Matthew Skelton\|Team Topologies von Matthew Skelton]]
 
 Kombiniert man [[3 Resources/Anforderungsmanagement/Wardley Mapping\|Wardley Mapping]], [[Domain-Driven Design\|Domain-Driven Design]] und [[3 Resources/Führungsrolle/Organisationsstruktur/Team Topologies/Team Topologies\|Team Topologies]], kann dies helfen die Punkte zwischen der [[Business Strategie\|Business Strategie]], des Softwaredesigns und der Architektur zu verbinden und so eine teamorientierte Organisation zu konzipieren, welche für einen [[Fast Flow of Change\|Fast Flow of Change]] und Adaption ausgelegt ist.

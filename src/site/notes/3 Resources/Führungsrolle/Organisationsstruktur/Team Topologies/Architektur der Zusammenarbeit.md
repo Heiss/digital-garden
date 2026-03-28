@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/architektur-der-zusammenarbeit/","created":"2024-11-11T09:00:19.823+01:00","updated":"2024-04-28T16:58:05.820+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/architektur-der-zusammenarbeit/","created":"2026-02-05T22:35:00.188+01:00","updated":"2024-04-28T16:58:05.820+02:00"}
 ---
 
 

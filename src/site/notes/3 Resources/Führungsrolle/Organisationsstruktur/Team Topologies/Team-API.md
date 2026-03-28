@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-api/","created":"2024-11-11T08:59:43.624+01:00","updated":"2024-04-28T21:41:31.183+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/team-api/","created":"2026-02-05T22:43:30.748+01:00","updated":"2024-04-28T21:41:31.183+02:00"}
 ---
 
 

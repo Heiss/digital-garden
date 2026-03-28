@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/kurzfristige-gewinne-planen-und-erzeugen/","created":"2024-11-11T08:59:37.098+01:00","updated":"2024-05-26T18:57:10.373+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/change-management/change-management-nach-kotter/kurzfristige-gewinne-planen-und-erzeugen/","created":"2026-02-05T22:38:09.070+01:00","updated":"2024-05-26T18:57:10.373+02:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/einfuehrung-und-naechste-schritte/","created":"2024-11-11T08:59:59.575+01:00","updated":"2024-04-28T16:51:56.379+02:00"}
+{"dg-publish":true,"permalink":"/3-resources/fuehrungsrolle/organisationsstruktur/team-topologies/einfuehrung-und-naechste-schritte/","created":"2026-02-05T22:36:52.409+01:00","updated":"2024-04-28T16:51:56.379+02:00"}
 ---
 
 
