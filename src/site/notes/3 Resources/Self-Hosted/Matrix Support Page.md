@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/self-hosted/matrix-support-page/","created":"2026-03-28T19:04:09.610+01:00","updated":"2026-03-28T19:09:57.881+01:00"}
+{"dg-publish":true,"permalink":"/3-resources/self-hosted/matrix-support-page/","created":"2026-03-28T19:04:09.610+01:00","updated":"2026-03-28T20:02:06.942+01:00"}
 ---
 
 
@@ -27,7 +27,6 @@ Auf dem PC kann die App "Element X" ([https://element.io/de/download](https://el
 ### tl;dr
 
 - Server: [netzmuffel.de](http://netzmuffel.de)
-    
 - Login via authentik als SSO-Provider
 
 ### Beschreibung
